@@ -1,0 +1,312 @@
+[
+  {
+    "rewardID": "weaponslot2",
+    "milestoneType": "major",
+    "milestoneLevel": "5",
+    "name": "@WeaponSlot2_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/weaponSlot.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_weapon1.dds",
+    "tooltip": "@WeaponSlot2_Tooltip",
+    "notes": "Located in PBA"
+  },
+  {
+    "rewardID": "quickslot3",
+    "milestoneType": "",
+    "milestoneLevel": "15",
+    "name": "@QuickSlot3_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/quickSlot.dds",
+    "image": "",
+    "tooltip": "@QuickSlot3_Tooltip",
+    "notes": "Located in PBA"
+  },
+  {
+    "rewardID": "quickslot4",
+    "milestoneType": "",
+    "milestoneLevel": "25",
+    "name": "@QuickSlot4_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/quickSlot.dds",
+    "image": "",
+    "tooltip": "@QuickSlot4_Tooltip",
+    "notes": "Located in PBA"
+  },
+  {
+    "rewardID": "ringslot",
+    "milestoneType": "major",
+    "milestoneLevel": "20",
+    "name": "@RingSlot_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/ringSlot.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_ring1.dds",
+    "tooltip": "@RingSlot_Tooltip",
+    "notes": "Located in PBA"
+  },
+  {
+    "rewardID": "earringslot",
+    "milestoneType": "major",
+    "milestoneLevel": "40",
+    "name": "@EarringSlot_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/earringSlot.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_earring1.dds",
+    "tooltip": "@EarringSlot_Tooltip",
+    "notes": "Located in PBA"
+  },
+  {
+    "rewardID": "bagslot1",
+    "milestoneType": "major",
+    "milestoneLevel": "10",
+    "name": "@BagSlot1_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/bagSlot.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_bagSlot1.dds",
+    "tooltip": "@BagSlot1_Tooltip",
+    "notes": "Located in PBA"
+  },
+  {
+    "rewardID": "bagslot2",
+    "milestoneType": "major",
+    "milestoneLevel": "30",
+    "name": "@BagSlot2_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/bagSlot.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_bagSlot1.dds",
+    "tooltip": "@BagSlot2_Tooltip",
+    "notes": "Located in PBA"
+  },
+  {
+    "rewardID": "bagslot3",
+    "milestoneType": "major",
+    "milestoneLevel": "45",
+    "name": "@BagSlot3_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/bagSlot.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_bagSlot1.dds",
+    "tooltip": "@BagSlot3_Tooltip",
+    "notes": "Located in PBA"
+  },
+  {
+    "rewardID": "house1",
+    "milestoneType": "major",
+    "milestoneLevel": "15",
+    "name": "@House1_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/house.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_house1.dds",
+    "tooltip": "@House1_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "house2",
+    "milestoneType": "major",
+    "milestoneLevel": "35",
+    "name": "@House2_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/house.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_house1.dds",
+    "tooltip": "@House2_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "house3",
+    "milestoneType": "major",
+    "milestoneLevel": "55",
+    "name": "@House3_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/house.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_house1.dds",
+    "tooltip": "@House3_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "duels",
+    "milestoneType": "major",
+    "milestoneLevel": "10",
+    "name": "@Duels_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/duels.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_duels.dds",
+    "tooltip": "@Duels_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "invasions",
+    "milestoneType": "major",
+    "milestoneLevel": "50",
+    "name": "@Invasions_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/invasions.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_invasions.dds",
+    "tooltip": "@Invasions_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "outpostrush",
+    "milestoneType": "major",
+    "milestoneLevel": "60",
+    "name": "@OutpostRush_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/outpostRush.dds",
+    "image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_outpostrush.dds",
+    "tooltip": "@OutpostRush_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "azothstafft1",
+    "milestoneType": "",
+    "milestoneLevel": "20",
+    "name": "@AzothStaffT1_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff1.dds",
+    "image": "",
+    "tooltip": "@AzothStaffT1_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "azothstafft2",
+    "milestoneType": "",
+    "milestoneLevel": "30",
+    "name": "@AzothStaffT2_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff2.dds",
+    "image": "",
+    "tooltip": "@AzothStaffT2_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "azothstafft3",
+    "milestoneType": "",
+    "milestoneLevel": "40",
+    "name": "@AzothStaffT3_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff3.dds",
+    "image": "",
+    "tooltip": "@AzothStaffT3_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "azothstafft4",
+    "milestoneType": "",
+    "milestoneLevel": "",
+    "name": "@AzothStaffT4_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff4.dds",
+    "image": "",
+    "tooltip": "@AzothStaffT4_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "azothstafft5",
+    "milestoneType": "",
+    "milestoneLevel": "",
+    "name": "@AzothStaffT5_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff5.dds",
+    "image": "",
+    "tooltip": "@AzothStaffT5_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "campingt1",
+    "milestoneType": "",
+    "milestoneLevel": "5",
+    "name": "@CampingT1_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade.dds",
+    "image": "",
+    "tooltip": "@CampingT1_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "campingt2",
+    "milestoneType": "",
+    "milestoneLevel": "15",
+    "name": "@CampingT2_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade2.dds",
+    "image": "",
+    "tooltip": "@CampingT2_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "campingt3",
+    "milestoneType": "",
+    "milestoneLevel": "25",
+    "name": "@CampingT3_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade3.dds",
+    "image": "",
+    "tooltip": "@CampingT3_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "campingt4",
+    "milestoneType": "",
+    "milestoneLevel": "40",
+    "name": "@CampingT4_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade4.dds",
+    "image": "",
+    "tooltip": "@CampingT4_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "campingt5",
+    "milestoneType": "",
+    "milestoneLevel": "55",
+    "name": "@CampingT5_Name",
+    "icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade5.dds",
+    "image": "",
+    "tooltip": "@CampingT5_Tooltip",
+    "notes": ""
+  },
+  {
+    "rewardID": "territory1",
+    "milestoneType": "territory",
+    "milestoneLevel": "5",
+    "name": "@TerritoryRecommendation_1",
+    "icon": "",
+    "image": "",
+    "tooltip": "",
+    "notes": ""
+  },
+  {
+    "rewardID": "territory2",
+    "milestoneType": "territory",
+    "milestoneLevel": "25",
+    "name": "@TerritoryRecommendation_2",
+    "icon": "",
+    "image": "",
+    "tooltip": "",
+    "notes": ""
+  },
+  {
+    "rewardID": "territory3",
+    "milestoneType": "territory",
+    "milestoneLevel": "30",
+    "name": "@TerritoryRecommendation_3",
+    "icon": "",
+    "image": "",
+    "tooltip": "",
+    "notes": ""
+  },
+  {
+    "rewardID": "territory4",
+    "milestoneType": "territory",
+    "milestoneLevel": "40",
+    "name": "@TerritoryRecommendation_4",
+    "icon": "",
+    "image": "",
+    "tooltip": "",
+    "notes": ""
+  },
+  {
+    "rewardID": "territory5",
+    "milestoneType": "territory",
+    "milestoneLevel": "45",
+    "name": "@TerritoryRecommendation_5",
+    "icon": "",
+    "image": "",
+    "tooltip": "",
+    "notes": ""
+  },
+  {
+    "rewardID": "territory6",
+    "milestoneType": "territory",
+    "milestoneLevel": "50",
+    "name": "@TerritoryRecommendation_6",
+    "icon": "",
+    "image": "",
+    "tooltip": "",
+    "notes": ""
+  },
+  {
+    "rewardID": "territory7",
+    "milestoneType": "territory",
+    "milestoneLevel": "60",
+    "name": "@TerritoryRecommendation_7",
+    "icon": "",
+    "image": "",
+    "tooltip": "",
+    "notes": ""
+  }
+]

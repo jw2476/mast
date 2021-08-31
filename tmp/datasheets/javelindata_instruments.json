@@ -1,0 +1,26 @@
+[
+  {
+    "instrument": "Fife",
+    "mannequinTag": "InstrumentFife",
+    "startPrefix": "Play_Instru_Tone_",
+    "stopPrefix": "Stop_Instru_Tone_",
+    "singleNoteOnly": "0",
+    "showAdvancedMenu": "1"
+  },
+  {
+    "instrument": "Snare",
+    "mannequinTag": "InstrumentSnare",
+    "startPrefix": "Play_Instru_Snare",
+    "stopPrefix": "Stop_Instru_Snare",
+    "singleNoteOnly": "1",
+    "showAdvancedMenu": "1"
+  },
+  {
+    "instrument": "WarHorn",
+    "mannequinTag": "InstrumentWarHorn",
+    "startPrefix": "Play_Instru_WarHorn",
+    "stopPrefix": "Stop_Instru_WarHorn",
+    "singleNoteOnly": "1",
+    "showAdvancedMenu": "0"
+  }
+]

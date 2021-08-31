@@ -1,0 +1,226 @@
+[
+  {
+    "progressionPoolId": "TEMP_Crafting_Specialization_Blacksmithing",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TEMP_Crafting_Specialization_Alchemy",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TEMP_Crafting_Specialization_Outfitting",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TEMP_Crafting_Specialization_Cooking",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "HatchetAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "3"
+  },
+  {
+    "progressionPoolId": "SwordAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "2"
+  },
+  {
+    "progressionPoolId": "BowAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "3"
+  },
+  {
+    "progressionPoolId": "SpearAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "2"
+  },
+  {
+    "progressionPoolId": "GreatAxeAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "2"
+  },
+  {
+    "progressionPoolId": "WarHammerAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "3"
+  },
+  {
+    "progressionPoolId": "MusketAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "3"
+  },
+  {
+    "progressionPoolId": "LifeMagicAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "2"
+  },
+  {
+    "progressionPoolId": "FireMagicAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "3"
+  },
+  {
+    "progressionPoolId": "RapierAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "2"
+  },
+  {
+    "progressionPoolId": "IceMagicAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "1"
+  },
+  {
+    "progressionPoolId": "VoidGauntletAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "0"
+  },
+  {
+    "progressionPoolId": "BlunderbussAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "0"
+  },
+  {
+    "progressionPoolId": "DaggerAbilityTable",
+    "category": "Player",
+    "pointCap": "20",
+    "initialPoints": "",
+    "versionNumber": "0"
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_2",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_4",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_5",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_6",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_8",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_9",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_10",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_11",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_12",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_13",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_15",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_16",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_74",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  },
+  {
+    "progressionPoolId": "TerritoryRankBonus_75",
+    "category": "Territory",
+    "pointCap": "300",
+    "initialPoints": "",
+    "versionNumber": ""
+  }
+]

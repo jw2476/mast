@@ -1,0 +1,882 @@
+[
+  {
+    "uniqueTagID": "lumberjack",
+    "isEnabled": "1",
+    "displayName": "@store_tree_splitter_name",
+    "description": "@store_tree_splitter_description",
+    "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image03_portrait.png",
+    "landscapeImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image03_rectangle.png",
+    "squareImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image03_square.png",
+    "thumbnailImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image03_thumbnail.png"
+  },
+  {
+    "uniqueTagID": "smolderingscarlet_dye",
+    "isEnabled": "1",
+    "displayName": "@smolderingscarlet_dye_name",
+    "description": "@smolderingscarlet_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye49_Portrait_SmolderingScarlet.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye49_Rectangle_SmolderingScarlet.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye49_Square_SmolderingScarlet.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye49_Thumbnail_SmolderingScarlet.png"
+  },
+  {
+    "uniqueTagID": "runic_jackal",
+    "isEnabled": "1",
+    "displayName": "@runic_jackal_name",
+    "description": "@runic_jackal_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_RunicJackal.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_RunicJackal.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_RunicJackal.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_RunicJackal.png"
+  },
+  {
+    "uniqueTagID": "crescent_fang",
+    "isEnabled": "1",
+    "displayName": "@crescent_fang_name",
+    "description": "@crescent_fang_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_CrecentFang.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_CrecentFang.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_CrecentFang.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_CrecentFang.png"
+  },
+  {
+    "uniqueTagID": "rainbow_tiger",
+    "isEnabled": "1",
+    "displayName": "@rainbow_tiger_name",
+    "description": "@rainbow_tiger_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_RainbowTiger.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Rectangle_RainbowTiger.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_RainbowTiger.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Thumbnail_RainbowTiger.png"
+  },
+  {
+    "uniqueTagID": "arm_flex",
+    "isEnabled": "1",
+    "displayName": "@arm_flex_name",
+    "description": "@arm_flex_description",
+    "portraitImage": "lyshineui/images/mtx/mtx_product_images/emote_Portrait_ArmFlex.png",
+    "landscapeImage": "lyshineui/images/mtx/mtx_product_images/emote_Rectangle_ArmFlex.png",
+    "squareImage": "lyshineui/images/mtx/mtx_product_images/emote_Square_ArmFlex.png",
+    "thumbnailImage": "lyshineui/images/mtx/mtx_product_images/emote_Thumbnail_ArmFlex.png"
+  },
+  {
+    "uniqueTagID": "sublimebone_dye",
+    "isEnabled": "1",
+    "displayName": "@sublimebone_dye_name",
+    "description": "@sublimebone_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye37_Portrait_SublimeBone.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye37_Rectangle_SublimeBone.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye37_Square_SublimeBone.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye37_Thumbnail_SublimeBone.png"
+  },
+  {
+    "uniqueTagID": "greengrass_dye",
+    "isEnabled": "1",
+    "displayName": "@greengrass_dye_name",
+    "description": "@greengrass_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye90_Portrait_GreenGrass.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye90_Rectangle_GreenGrass.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye90_Square_GreenGrass.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye90_Thumbnail_GreenGrass.png"
+  },
+  {
+    "uniqueTagID": "icon_crest_pack_merriment",
+    "isEnabled": "1",
+    "displayName": "@Icon_Crest_Pack_Merriment_name",
+    "description": "@Icon_Crest_Pack_Merriment_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Merriment.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_Merriment.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_Merriment.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_Merriment.png"
+  },
+  {
+    "uniqueTagID": "entitlementskin_medium_angel",
+    "isEnabled": "1",
+    "displayName": "@EntitlementSkin_Medium_Angel_name",
+    "description": "@EntitlementSkin_Medium_Angel_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_AegisOfProvidence.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_AegisOfProvidence.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_AegisOfProvidence.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_AegisOfProvidence.png"
+  },
+  {
+    "uniqueTagID": "entitlementskin_anglesdemon_warhammer",
+    "isEnabled": "1",
+    "displayName": "@EntitlementSkin_AnglesDemon_WarHammer_name",
+    "description": "@EntitlementSkin_AnglesDemon_WarHammer_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DestroyersWrath.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DestroyersWrath.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DestroyersWrath.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DestroyersWrath.png"
+  },
+  {
+    "uniqueTagID": "galaxy_rabbit",
+    "isEnabled": "1",
+    "displayName": "@galaxy_rabbit_name",
+    "description": "@galaxy_rabbit_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_GalaxyHare.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Rectangle_GalaxyHare.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_GalaxyHare.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Thumbnail_GalaxyHare.png"
+  },
+  {
+    "uniqueTagID": "eyesonyou",
+    "isEnabled": "1",
+    "displayName": "@eyesonyou_name",
+    "description": "@eyesonyou_description",
+    "portraitImage": "lyshineui/images/mtx/mtx_product_images/emote_Portrait_EyesOnYou.png",
+    "landscapeImage": "lyshineui/images/mtx/mtx_product_images/emote_Rectangle_EyesOnYou.png",
+    "squareImage": "lyshineui/images/mtx/mtx_product_images/emote_Square_EyesOnYou.png",
+    "thumbnailImage": "lyshineui/images/mtx/mtx_product_images/emote_Thumbnail_EyesOnYou.png"
+  },
+  {
+    "uniqueTagID": "rouge_dye",
+    "isEnabled": "1",
+    "displayName": "@rouge_dye_name",
+    "description": "@rouge_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye55_Portrait_Rouge.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye55_Rectangle_Rouge.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye55_Square_Rouge.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye55_Thumbnail_Rouge.png"
+  },
+  {
+    "uniqueTagID": "hiddenstream_dye",
+    "isEnabled": "1",
+    "displayName": "@hiddenstream_dye_name",
+    "description": "@hiddenstream_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye104_Portrait_HiddenStream.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye104_Rectangle_HiddenStream.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye104_Square_HiddenStream.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye104_Thumbnail_HiddenStream.png"
+  },
+  {
+    "uniqueTagID": "icon_crest_pack_smugglers",
+    "isEnabled": "1",
+    "displayName": "@Icon_Crest_Pack_Smugglers_name",
+    "description": "@Icon_Crest_Pack_Smugglers_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Smugglers.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_Smugglers.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_Smugglers.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_Smugglers.png"
+  },
+  {
+    "uniqueTagID": "butterflywing_dye",
+    "isEnabled": "1",
+    "displayName": "@butterflywing_dye_name",
+    "description": "@butterflywing_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Portrait_ButterflyWing.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Rectangle_ButterflyWing.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Square_ButterflyWing.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Thumbnail_ButterflyWing.png"
+  },
+  {
+    "uniqueTagID": "entitlementskin_greataxe_fenrirsfury",
+    "isEnabled": "1",
+    "displayName": "@fenrirsfury_name",
+    "description": "@fenrirsfury_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FenrirsFury.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FenrirsFury.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FenrirsFury.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FenrirsFury.png"
+  },
+  {
+    "uniqueTagID": "agelessbronze_dye",
+    "isEnabled": "1",
+    "displayName": "@ageless_bronze_dye_name",
+    "description": "@ageless_bronze_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye62_Portrait_AgelessBronze.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye62_Rectangle_AgelessBronze.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye62_Square_AgelessBronze.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye62_Thumbnail_AgelessBronze.png"
+  },
+  {
+    "uniqueTagID": "entitlementskin_light_demon",
+    "isEnabled": "1",
+    "displayName": "@EntitlementSkin_Light_Demon_name",
+    "description": "@EntitlementSkin_Light_Demon_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_CambionHusk.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_CambionHusk.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_CambionHusk.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_CambionHusk.png"
+  },
+  {
+    "uniqueTagID": "twitch_pirate_itemskin",
+    "isEnabled": "1",
+    "displayName": "@twitch_pirate_itemskin_name",
+    "description": "@twitch_pirate_itemskin_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Pirate.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Pirate.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Pirate.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Pirate.png"
+  },
+  {
+    "uniqueTagID": "entitlementskin_heavy_angel",
+    "isEnabled": "1",
+    "displayName": "@EntitlementSkin_Heavy_Angel_name",
+    "description": "@EntitlementSkin_Heavy_Angel_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_RighteousGuardian.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_RighteousGuardian.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_RighteousGuardian.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_RighteousGuardian.png"
+  },
+  {
+    "uniqueTagID": "twitch_robinhood_itemskin",
+    "isEnabled": "0",
+    "displayName": "@twitch_robinhood_itemskin_name",
+    "description": "@twitch_robinhood_itemskin_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Robinhood.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Robinhood.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Robinhood.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Robinhood.png"
+  },
+  {
+    "uniqueTagID": "runic_bear",
+    "isEnabled": "1",
+    "displayName": "@runic_bear_name",
+    "description": "@runic_bear_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_RunicBear.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_RunicBear.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_RunicBear.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_RunicBear.png"
+  },
+  {
+    "uniqueTagID": "runic_fox",
+    "isEnabled": "1",
+    "displayName": "@runic_fox_name",
+    "description": "@runic_fox_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_RunicFox.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_RunicFox.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_RunicFox.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_RunicFox.png"
+  },
+  {
+    "uniqueTagID": "entitlementskin_specialcorruptedvar1",
+    "isEnabled": "0",
+    "displayName": "@EntitlementSkin_SpecialCorruptedVar1_name",
+    "description": "@EntitlementSkin_SpecialCorruptedVar1_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_SpecialCorrupted.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_SpecialCorrupted.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_SpecialCorrupted.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_SpecialCorrupted.png"
+  },
+  {
+    "uniqueTagID": "icon_crest_pack_animalhead",
+    "isEnabled": "1",
+    "displayName": "@Icon_Crest_Pack_AnimalHead_name",
+    "description": "@Icon_Crest_Pack_AnimalHead_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_AnimalHeads.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_AnimalHeads.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_AnimalHeads.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_AnimalHeads.png"
+  },
+  {
+    "uniqueTagID": "icon_crest_pack_fulldeck",
+    "isEnabled": "1",
+    "displayName": "@Icon_Crest_Pack_FullDeck_name",
+    "description": "@Icon_Crest_Pack_FullDeck_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_FullDeck.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_FullDeck.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_FullDeck.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_FullDeck.png"
+  },
+  {
+    "uniqueTagID": "icon_crest_pack_gesture",
+    "isEnabled": "1",
+    "displayName": "@Icon_Crest_Pack_Gesture_name",
+    "description": "@Icon_Crest_Pack_Gesture_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Gesture.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_Gesture.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_Gesture.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_Gesture.png"
+  },
+  {
+    "uniqueTagID": "twitch_pirate_crestpack",
+    "isEnabled": "0",
+    "displayName": "@twitch_pirate_itemskin_name",
+    "description": "@twitch_pirate_itemskin_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Pirate.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_Pirate.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_Pirate.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_Pirate.png"
+  },
+  {
+    "uniqueTagID": "icon_crest_pack_robinhood",
+    "isEnabled": "0",
+    "displayName": "@Icon_Crest_Pack_RobinHood_name",
+    "description": "@Icon_Crest_Pack_RobinHood_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_RobinHood.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_RobinHood.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_RobinHood.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_RobinHood.png"
+  },
+  {
+    "uniqueTagID": "icon_crest_pack_thespain",
+    "isEnabled": "0",
+    "displayName": "@Icon_Crest_Pack_Thespain_name",
+    "description": "@Icon_Crest_Pack_Thespain_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Thespian.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_Thespian.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_Thespian.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_Thespian.png"
+  },
+  {
+    "uniqueTagID": "icon_crest_pack_weaponmaster",
+    "isEnabled": "1",
+    "displayName": "@Icon_Crest_Pack_WeaponMaster_name",
+    "description": "@Icon_Crest_Pack_WeaponMaster_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_WeaponMaster.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_WeaponMaster.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_WeaponMaster.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_WeaponMaster.png"
+  },
+  {
+    "uniqueTagID": "primeblue_dye",
+    "isEnabled": "0",
+    "displayName": "@primeblue_dye_name",
+    "description": "@primeblue_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye4_Portrait_PrimeBlue.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye4_Rectangle_PrimeBlue.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye4_Square_PrimeBlue.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye4_Thumbnail_PrimeBlue.png"
+  },
+  {
+    "uniqueTagID": "gold_dye",
+    "isEnabled": "1",
+    "displayName": "@gold_dye_name",
+    "description": "@gold_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye6_Portrait_LustrousGold.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye6_Rectangle_LustrousGold.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye6_Square_LustrousGold.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye6_Thumbnail_LustrousGold.png"
+  },
+  {
+    "uniqueTagID": "amazonorange_dye",
+    "isEnabled": "0",
+    "displayName": "@amazonorange_dye_name",
+    "description": "@amazonorange_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye22_Portrait_AmazonOrange.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye22_Rectangle_AmazonOrange.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye22_Square_AmazonOrange.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye22_Thumbnail_AmazonOrange.png"
+  },
+  {
+    "uniqueTagID": "twitchpurple_dye",
+    "isEnabled": "0",
+    "displayName": "@twitchpurple_dye_name",
+    "description": "@twitchpurple_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye23_Portrait_TwitchPurple.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye23_Rectangle_TwitchPurple.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye23_Square_TwitchPurple.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye23_Thumbnail_TwitchPurple.png"
+  },
+  {
+    "uniqueTagID": "shipgray_dye",
+    "isEnabled": "1",
+    "displayName": "@shipgray_dye_name",
+    "description": "@shipgray_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye27_Portrait_ShipGray.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye27_Rectangle_ShipGray.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye27_Square_ShipGray.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye27_Thumbnail_ShipGray.png"
+  },
+  {
+    "uniqueTagID": "softcoal_dye",
+    "isEnabled": "1",
+    "displayName": "@softcoal_dye_name",
+    "description": "@softcoal_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye29_Portrait_SoftCoal.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye29_Rectangle_SoftCoal.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye29_Square_SoftCoal.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye29_Thumbnail_SoftCoal.png"
+  },
+  {
+    "uniqueTagID": "blemishedpearl_dye",
+    "isEnabled": "1",
+    "displayName": "@blemishedpearl_dye_name",
+    "description": "@blemishedpearl_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye36_Portrait_BlemishedPearl.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye36_Rectangle_BlemishedPearl.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye36_Square_BlemishedPearl.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye36_Thumbnail_BlemishedPearl.png"
+  },
+  {
+    "uniqueTagID": "sandalwood_dye",
+    "isEnabled": "1",
+    "displayName": "@sandalwood_dye_name",
+    "description": "@sandalwood_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye42_Portrait_Sandalwood.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye42_Rectangle_Sandalwood.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye42_Square_Sandalwood.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye42_Thumbnail_Sandalwood.png"
+  },
+  {
+    "uniqueTagID": "bleached_cofee_dye",
+    "isEnabled": "1",
+    "displayName": "@bleached_cofee_dye_name",
+    "description": "@bleached_cofee_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye48_Portrait_BleachedCoffee.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye48_Rectangle_BleachedCoffee.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye48_Square_BleachedCoffee.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye48_Thumbnail_BleachedCoffee.png"
+  },
+  {
+    "uniqueTagID": "blood_dye",
+    "isEnabled": "1",
+    "displayName": "@blood_dye_name",
+    "description": "@blood_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye50_Portrait_Blood.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye50_Rectangle_Blood.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye50_Square_Blood.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye50_Thumbnail_Blood.png"
+  },
+  {
+    "uniqueTagID": "viola_dye",
+    "isEnabled": "1",
+    "displayName": "@viola_dye_name",
+    "description": "@viola_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye56_Portrait_Viola.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye56_Rectangle_Viola.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye56_Square_Viola.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye56_Thumbnail_Viola.png"
+  },
+  {
+    "uniqueTagID": "burntsienna_dye",
+    "isEnabled": "1",
+    "displayName": "@burntsienna_dye_name",
+    "description": "@burntsienna_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye69_Portrait_BurntSienna.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye69_Rectangle_BurntSienna.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye69_Square_BurntSienna.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye69_Thumbnail_BurntSienna.png"
+  },
+  {
+    "uniqueTagID": "silt_dye",
+    "isEnabled": "1",
+    "displayName": "@silt_dye_name",
+    "description": "@silt_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye74_Portrait_Silt.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye74_Rectangle_Silt.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye74_Square_Silt.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye74_Thumbnail_Silt.png"
+  },
+  {
+    "uniqueTagID": "blond_dye",
+    "isEnabled": "1",
+    "displayName": "@blond_dye_name",
+    "description": "@blond_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye79_Portrait_Blond.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye79_Rectangle_Blond.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye79_Square_Blond.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye79_Thumbnail_Blond.png"
+  },
+  {
+    "uniqueTagID": "sushigreen_dye",
+    "isEnabled": "1",
+    "displayName": "@sushigreen_dye_name",
+    "description": "@sushigreen_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye85_Portrait_SushiGreen.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye85_Rectangle_SushiGreen.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye85_Square_SushiGreen.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye85_Thumbnail_SushiGreen.png"
+  },
+  {
+    "uniqueTagID": "keylime_dye",
+    "isEnabled": "1",
+    "displayName": "@keylime_dye_name",
+    "description": "@keylime_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye88_Portrait_KeyLime.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye88_Rectangle_KeyLime.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye88_Square_KeyLime.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye88_Thumbnail_KeyLime.png"
+  },
+  {
+    "uniqueTagID": "forestgreen_dye",
+    "isEnabled": "1",
+    "displayName": "@forestgreen_dye_name",
+    "description": "@forestgreen_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye89_Portrait_ForestGreen.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye89_Rectangle_ForestGreen.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye89_Square_ForestGreen.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye89_Thumbnail_ForestGreen.png"
+  },
+  {
+    "uniqueTagID": "mantis_dye",
+    "isEnabled": "1",
+    "displayName": "@mantis_dye_name",
+    "description": "@mantis_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye94_Portrait_Mantis.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye94_Rectangle_Mantis.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye94_Square_Mantis.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye94_Thumbnail_Mantis.png"
+  },
+  {
+    "uniqueTagID": "angelicsatin_dye",
+    "isEnabled": "1",
+    "displayName": "@angelicsatin_dye_name",
+    "description": "@angelicsatin_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye100_Portrait_AngelicSatin.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye100_Rectangle_AngelicSatin.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye100_Square_AngelicSatin.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye100_Thumbnail_AngelicSatin.png"
+  },
+  {
+    "uniqueTagID": "tradewind_dye",
+    "isEnabled": "1",
+    "displayName": "@tradewind_dye_name",
+    "description": "@tradewind_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye103_Portrait_Tradewind.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye103_Rectangle_Tradewind.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye103_Square_Tradewind.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye103_Thumbnail_Tradewind.png"
+  },
+  {
+    "uniqueTagID": "bluedsteel_dye",
+    "isEnabled": "1",
+    "displayName": "@bluedsteel_dye_name",
+    "description": "@bluedsteel_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye109_Portrait_BluedSteel.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye109_Rectangle_BluedSteel.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye109_Square_BluedSteel.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye109_Thumbnail_BluedSteel.png"
+  },
+  {
+    "uniqueTagID": "supremesaphire_dye",
+    "isEnabled": "1",
+    "displayName": "@supremesaphire_dye_name",
+    "description": "@supremesaphire_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye112_Portrait_SupremeSaphire.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye112_Rectangle_SupremeSaphire.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye112_Square_SupremeSaphire.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye112_Thumbnail_SupremeSaphire.png"
+  },
+  {
+    "uniqueTagID": "fiercecobalt_dye",
+    "isEnabled": "1",
+    "displayName": "@fiercecobalt_dye_name",
+    "description": "@fiercecobalt_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye113_Portrait_FierceCobalt.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye113_Rectangle_FierceCobalt.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye113_Square_FierceCobalt.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye113_Thumbnail_FierceCobalt.png"
+  },
+  {
+    "uniqueTagID": "springgrape_dye",
+    "isEnabled": "1",
+    "displayName": "@springgrape_dye_name",
+    "description": "@springgrape_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye117_Portrait_SpringGrape.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye117_Rectangle_SpringGrape.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye117_Square_SpringGrape.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye117_Thumbnail_SpringGrape.png"
+  },
+  {
+    "uniqueTagID": "tranquilblossom_dye",
+    "isEnabled": "1",
+    "displayName": "@tranquilblossom_dye_name",
+    "description": "@tranquilblossom_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye121_Portrait_TranquilBlossom.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye121_Rectangle_TranquilBlossom.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye121_Square_TranquilBlossom.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye121_Thumbnail_TranquilBlossom.png"
+  },
+  {
+    "uniqueTagID": "deepvelvet_dye",
+    "isEnabled": "1",
+    "displayName": "@deepvelvet_dye_name",
+    "description": "@deepvelvet_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye123_Portrait_DeepVelvet.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye123_Rectangle_DeepVelvet.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye123_Square_DeepVelvet.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye123_Thumbnail_DeepVelvet.png"
+  },
+  {
+    "uniqueTagID": "crushedberry_dye",
+    "isEnabled": "1",
+    "displayName": "@crushedberry_dye_name",
+    "description": "@crushedberry_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye124_Portrait_CrushedBerry.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye124_Rectangle_CrushedBerry.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye124_Square_CrushedBerry.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye124_Thumbnail_CrushedBerry.png"
+  },
+  {
+    "uniqueTagID": "lavender_dye",
+    "isEnabled": "1",
+    "displayName": "@lavender_dye_name",
+    "description": "@lavender_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye130_Portrait_Lavender.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye130_Rectangle_Lavender.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye130_Square_Lavender.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye130_Thumbnail_Lavender.png"
+  },
+  {
+    "uniqueTagID": "twitch_robinhood_emote_blowkiss",
+    "isEnabled": "0",
+    "displayName": "@twitch_robinhood_emote_blowkiss_name",
+    "description": "@twitch_robinhood_emote_blowkiss_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_BlowKiss.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_BlowKiss.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_BlowKiss.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_BlowKiss.png"
+  },
+  {
+    "uniqueTagID": "coin_toss",
+    "isEnabled": "1",
+    "displayName": "@coin_toss_name",
+    "description": "@coin_toss_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_CoinToss.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_CoinToss.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_CoinToss.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_CoinToss.png"
+  },
+  {
+    "uniqueTagID": "applause",
+    "isEnabled": "1",
+    "displayName": "@applause_name",
+    "description": "@applause_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_CourteousApplause.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_CourteousApplause.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_CourteousApplause.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_CourteousApplause.png"
+  },
+  {
+    "uniqueTagID": "twitch_robinhood_emote_fingerwag",
+    "isEnabled": "0",
+    "displayName": "@twitch_robinhood_emote_fingerwag_name",
+    "description": "@twitch_robinhood_emote_fingerwag_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_FingerWag.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_FingerWag.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_FingerWag.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_FingerWag.png"
+  },
+  {
+    "uniqueTagID": "twitch_pirate_emote_piratestance",
+    "isEnabled": "0",
+    "displayName": "@twitch_pirate_emote_piratestance_name",
+    "description": "@twitch_pirate_emote_piratestance_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_PirateStance.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_PirateStance.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_PirateStance.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_PirateStance.png"
+  },
+  {
+    "uniqueTagID": "twitch_pirate_emote_throat",
+    "isEnabled": "0",
+    "displayName": "@twitch_pirate_emote_throat_name",
+    "description": "@twitch_pirate_emote_throat_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_ThroatSlit.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_ThroatSlit.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_ThroatSlit.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_ThroatSlit.png"
+  },
+  {
+    "uniqueTagID": "thumbs",
+    "isEnabled": "1",
+    "displayName": "@thumbs_name",
+    "description": "@thumbs_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Thumbs.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Thumbs.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Thumbs.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Thumbs.png"
+  },
+  {
+    "uniqueTagID": "dragons_coil",
+    "isEnabled": "1",
+    "displayName": "@dragons_coil_name",
+    "description": "@dragons_coil_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/shield_Portrait_DragonCoil.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/shield_Rectangle_DragonCoil.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/shield_Square_DragonCoil.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/shield_Thumbnail_DragonCoil.png"
+  },
+  {
+    "uniqueTagID": "entitlementskin_anglesdemon_spear",
+    "isEnabled": "1",
+    "displayName": "@EntitlementSkin_AnglesDemon_Spear_name",
+    "description": "@EntitlementSkin_AnglesDemon_Spear_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DivineVengeance.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DivineVengeance.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DivineVengeance.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DivineVengeance.png"
+  },
+  {
+    "uniqueTagID": "entitlementskin_anglesdemon_firestaff",
+    "isEnabled": "1",
+    "displayName": "@EntitlementSkin_AnglesDemon_FireStaff_name",
+    "description": "@EntitlementSkin_AnglesDemon_FireStaff_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FireBrimstone.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FireBrimstone.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FireBrimstone.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FireBrimstone.png"
+  },
+  {
+    "uniqueTagID": "twitch_pirate_weapon_sword",
+    "isEnabled": "0",
+    "displayName": "@twitch_pirate_weapon_sword_name",
+    "description": "@twitch_pirate_weapon_sword_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Gravestakes.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Gravestakes.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Gravestakes.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Gravestakes.png"
+  },
+  {
+    "uniqueTagID": "entitlementskin_anglesdemon_lifestaff",
+    "isEnabled": "1",
+    "displayName": "@EntitlementSkin_AnglesDemon_LifeStaff_name",
+    "description": "@EntitlementSkin_AnglesDemon_LifeStaff_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_HarmonicRestoration.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_HarmonicRestoration.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_HarmonicRestoration.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_HarmonicRestoration.png"
+  },
+  {
+    "uniqueTagID": "howl_at_dawn",
+    "isEnabled": "1",
+    "displayName": "@howl_at_dawn_name",
+    "description": "@howl_at_dawn_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_HowlAtDawn.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_HowlAtDawn.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_HowlAtDawn.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_HowlAtDawn.png"
+  },
+  {
+    "uniqueTagID": "twin_wolves",
+    "isEnabled": "1",
+    "displayName": "@twin_wolves_name",
+    "description": "@twin_wolves_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_TwinWolves.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_TwinWolves.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_TwinWolves.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_TwinWolves.png"
+  },
+  {
+    "uniqueTagID": "silver_dye",
+    "isEnabled": "1",
+    "displayName": "@silver_dye_name",
+    "description": "@silver_dye_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye58_Portrait_Silver.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye58_Rectangle_Silver.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/dye58_Square_Silver.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye58_Thumbnail_Silver.png"
+  },
+  {
+    "uniqueTagID": "bundle_starter",
+    "isEnabled": "0",
+    "displayName": "@Bundle_Starter_name",
+    "description": "@Bundle_Starter_description",
+    "portraitImage": "",
+    "landscapeImage": "",
+    "squareImage": "",
+    "thumbnailImage": ""
+  },
+  {
+    "uniqueTagID": "bundle_weapon_runic",
+    "isEnabled": "0",
+    "displayName": "@Bundle_Weapon_Runic_name",
+    "description": "@Bundle_Weapon_Runic_description",
+    "portraitImage": "",
+    "landscapeImage": "",
+    "squareImage": "",
+    "thumbnailImage": ""
+  },
+  {
+    "uniqueTagID": "bundle_armor_runic",
+    "isEnabled": "0",
+    "displayName": "@Bundle_Armor_Runic_name",
+    "description": "@Bundle_Armor_Runic_description",
+    "portraitImage": "",
+    "landscapeImage": "",
+    "squareImage": "",
+    "thumbnailImage": ""
+  },
+  {
+    "uniqueTagID": "bundle_weapon_good_evil",
+    "isEnabled": "0",
+    "displayName": "@Bundle_Weapon_Good_Evil_name",
+    "description": "@Bundle_Weapon_Good_Evil_description",
+    "portraitImage": "",
+    "landscapeImage": "",
+    "squareImage": "",
+    "thumbnailImage": ""
+  },
+  {
+    "uniqueTagID": "bundle_armor_good_evil",
+    "isEnabled": "0",
+    "displayName": "@Bundle_Armor_Good_Evil_name",
+    "description": "@Bundle_Armor_Good_Evil_description",
+    "portraitImage": "",
+    "landscapeImage": "",
+    "squareImage": "",
+    "thumbnailImage": ""
+  },
+  {
+    "uniqueTagID": "bundle_decor_pirate",
+    "isEnabled": "1",
+    "displayName": "@Bundle_Decor_Pirate_name",
+    "description": "@Bundle_Decor_Pirate_description",
+    "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_Pirate.png",
+    "landscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_Pirate.png",
+    "squareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_Pirate.png",
+    "thumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_Pirate.png"
+  },
+  {
+    "uniqueTagID": "bundle_emote_launch",
+    "isEnabled": "0",
+    "displayName": "@Bundle_Emote_Launch_name",
+    "description": "@Bundle_Emote_Launch_description",
+    "portraitImage": "",
+    "landscapeImage": "",
+    "squareImage": "",
+    "thumbnailImage": ""
+  },
+  {
+    "uniqueTagID": "marks_of_fortune_5000",
+    "isEnabled": "1",
+    "displayName": "Marks of Fortune",
+    "description": "Marks of Fortune",
+    "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image02_portrait.png",
+    "landscapeImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image02_rectangle.png",
+    "squareImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image02_square.png",
+    "thumbnailImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image02_thumbnail.png"
+  },
+  {
+    "uniqueTagID": "marks_of_fortune_11000",
+    "isEnabled": "1",
+    "displayName": "Marks of Fortune",
+    "description": "Marks of Fortune",
+    "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image10_portrait.png",
+    "landscapeImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image10_rectangle.png",
+    "squareImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image10_square.png",
+    "thumbnailImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image10_thumbnail.png"
+  },
+  {
+    "uniqueTagID": "marks_of_fortune_23000",
+    "isEnabled": "1",
+    "displayName": "Marks of Fortune",
+    "description": "Marks of Fortune",
+    "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image11_portrait.png",
+    "landscapeImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image11_rectangle.png",
+    "squareImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image11_square.png",
+    "thumbnailImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image11_thumbnail.png"
+  },
+  {
+    "uniqueTagID": "marks_of_fortune_40250",
+    "isEnabled": "1",
+    "displayName": "Marks of Fortune",
+    "description": "Marks of Fortune",
+    "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image12_portrait.png",
+    "landscapeImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image12_rectangle.png",
+    "squareImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image12_square.png",
+    "thumbnailImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image12_thumbnail.png"
+  },
+  {
+    "uniqueTagID": "marks_of_fortune_60000",
+    "isEnabled": "1",
+    "displayName": "Marks of Fortune",
+    "description": "Marks of Fortune",
+    "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image12_portrait.png",
+    "landscapeImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image12_rectangle.png",
+    "squareImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image12_square.png",
+    "thumbnailImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image12_thumbnail.png"
+  }
+]

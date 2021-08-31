@@ -1,0 +1,170 @@
+[
+  {
+    "loreItemId": "Backstory1Book",
+    "loreId": "BackstoryLore1"
+  },
+  {
+    "loreItemId": "Backstory2Book",
+    "loreId": "BackstoryLore2"
+  },
+  {
+    "loreItemId": "Backstory3Book",
+    "loreId": "BackstoryLore3"
+  },
+  {
+    "loreItemId": "Backstory4Book",
+    "loreId": "BackstoryLore4"
+  },
+  {
+    "loreItemId": "Backstory5Book",
+    "loreId": "BackstoryLore5"
+  },
+  {
+    "loreItemId": "Backstory6Book",
+    "loreId": "BackstoryLore6"
+  },
+  {
+    "loreItemId": "Backstory7Book",
+    "loreId": "BackstoryLore7"
+  },
+  {
+    "loreItemId": "Backstory8Book",
+    "loreId": "BackstoryLore8"
+  },
+  {
+    "loreItemId": "Backstory9Book",
+    "loreId": "BacktsoryLore9"
+  },
+  {
+    "loreItemId": "FTUE_lore1a",
+    "loreId": "DeathandRebirthLore1a"
+  },
+  {
+    "loreItemId": "FTUE_lore1b",
+    "loreId": "DeathandRebirthLore1b"
+  },
+  {
+    "loreItemId": "FTUE_lore1c",
+    "loreId": "DeathandRebirthLore1c"
+  },
+  {
+    "loreItemId": "FTUE_lore1d",
+    "loreId": "DeathandRebirthLore1d"
+  },
+  {
+    "loreItemId": "FTUE_lore2",
+    "loreId": "DeathandRebirthLore2"
+  },
+  {
+    "loreItemId": "FTUE_lore3",
+    "loreId": "DeathandRebirthLore3"
+  },
+  {
+    "loreItemId": "FTUE_lore4a",
+    "loreId": "DeathandRebirthLore4a"
+  },
+  {
+    "loreItemId": "FTUE_lore4b",
+    "loreId": "DeathandRebirthLore4b"
+  },
+  {
+    "loreItemId": "FTUE_lore4c",
+    "loreId": "DeathandRebirthLore4c"
+  },
+  {
+    "loreItemId": "FTUE_lore4d",
+    "loreId": "DeathandRebirthLore4d"
+  },
+  {
+    "loreItemId": "FTUE_SealedCommission",
+    "loreId": "SealedCommission"
+  },
+  {
+    "loreItemId": "Lore_Arch_AnUntouchedPiano",
+    "loreId": "Arch_AnUntouchedPiano"
+  },
+  {
+    "loreItemId": "Lore_Arch_Departure",
+    "loreId": "Arch_Departure"
+  },
+  {
+    "loreItemId": "Lore_Arch_Rolfe",
+    "loreId": "Arch_Rolfe"
+  },
+  {
+    "loreItemId": "Lore_Arch_TheDigSite",
+    "loreId": "Arch_TheDigSite"
+  },
+  {
+    "loreItemId": "Lore_Arch_Excavation",
+    "loreId": "Arch_Excavation"
+  },
+  {
+    "loreItemId": "Lore_Arch_AnUnpleasantFind",
+    "loreId": "Arch_AnUnpleasantFind"
+  },
+  {
+    "loreItemId": "Lore_Arch_IllTidings",
+    "loreId": "Arch_IllTidings"
+  },
+  {
+    "loreItemId": "Lore_Arch_AprilDig",
+    "loreId": "Arch_AprilDig"
+  },
+  {
+    "loreItemId": "Lore_Arch_Misfortune",
+    "loreId": "Arch_Misfortune"
+  },
+  {
+    "loreItemId": "Lore_Arch_TheObelisks",
+    "loreId": "Arch_TheObelisks"
+  },
+  {
+    "loreItemId": "Lore_Arch_GrowingFears",
+    "loreId": "Arch_GrowingFears"
+  },
+  {
+    "loreItemId": "Lore_Arch_TheSpire",
+    "loreId": "Arch_TheSpire"
+  },
+  {
+    "loreItemId": "Lore_Arch_TheGreatWork",
+    "loreId": "Arch_TheGreatWork"
+  },
+  {
+    "loreItemId": "Lore_Arch_AzureFlames",
+    "loreId": "Arch_AzureFlames"
+  },
+  {
+    "loreItemId": "Lore_Outpost_LordEveretts",
+    "loreId": "Outpost_LordEveretts"
+  },
+  {
+    "loreItemId": "Lore_Outpost_TrueDuncansWatch",
+    "loreId": "Outpost_TrueDuncansWatch"
+  },
+  {
+    "loreItemId": "Lore_Outpost_AuroraAeternae",
+    "loreId": "Outpost_AuroraAeternae"
+  },
+  {
+    "loreItemId": "Lore_Outpost_FirstLight",
+    "loreId": "Outpost_FirstLight"
+  },
+  {
+    "loreItemId": "Lore_Outpost_WeaversStation",
+    "loreId": "Outpost_WeaversStation"
+  },
+  {
+    "loreItemId": "Lore_Outpost_WeaversPost",
+    "loreId": "Outpost_WeaversPost"
+  },
+  {
+    "loreItemId": "Lore_Outpost_WeaversPeak",
+    "loreId": "Outpost_WeaversPeak"
+  },
+  {
+    "loreItemId": "Lore_Outpost_MonarchStation",
+    "loreId": "Outpost_MonarchStation"
+  }
+]

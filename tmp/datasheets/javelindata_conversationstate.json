@@ -1,0 +1,23 @@
+[
+  {
+    "conversationStateId": "0001_01_CaptainThorpe",
+    "conversationType": "Linear_Objective",
+    "isInitialState": "1",
+    "showTopics": "0",
+    "defaultDialogue": "@0001_01_CaptainThorpe_DD",
+    "requiredFaction": "",
+    "requiredLevel": "",
+    "requiredCompletedObjective": "",
+    "requiredAchievement": "",
+    "linearObjectiveId1": "0001_0101_CaptainThorpe",
+    "linearObjectiveId2": "",
+    "linearObjectiveId3": "",
+    "linearObjectiveId4": "",
+    "linearObjectiveId5": "",
+    "linearObjectiveId6": "",
+    "linearObjectiveId7": "",
+    "linearObjectiveId8": "",
+    "linearObjectiveId9": "",
+    "linearObjectiveId10": ""
+  }
+]

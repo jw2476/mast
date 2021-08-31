@@ -1,0 +1,210 @@
+[
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon01_Boss_Defeated",
+    "ruleKeyEvent": "Dungeon01BossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon01_MiniBoss_Defeated",
+    "ruleKeyEvent": "Dungeon01MiniBossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon01_ItemCollected",
+    "ruleKeyEvent": "Dungeon01ItemCollected"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon01_TimeToComplete",
+    "ruleKeyEvent": "Dungeon01TimeToComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon02_Boss_Defeated",
+    "ruleKeyEvent": "Dungeon02BossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon02_MiniBoss_Defeated",
+    "ruleKeyEvent": "Dungeon02MiniBossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon02_ItemCollected",
+    "ruleKeyEvent": "Dungeon02ItemCollected"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon02_TimeToComplete",
+    "ruleKeyEvent": "Dungeon02TimeToComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon03_Boss_Defeated",
+    "ruleKeyEvent": "Dungeon03BossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon03_MiniBoss_Defeated",
+    "ruleKeyEvent": "Dungeon03MiniBossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon03_ItemCollected",
+    "ruleKeyEvent": "Dungeon03ItemCollected"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon03_TimeToComplete",
+    "ruleKeyEvent": "Dungeon03TimeToComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon04_Boss_Defeated",
+    "ruleKeyEvent": "Dungeon04BossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon04_MiniBoss_Defeated",
+    "ruleKeyEvent": "Dungeon04MiniBossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon04_ItemCollected",
+    "ruleKeyEvent": "Dungeon04ItemCollected"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon04_TimeToComplete",
+    "ruleKeyEvent": "Dungeon04TimeToComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon05_Boss_Defeated",
+    "ruleKeyEvent": "Dungeon05BossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon05_MiniBoss_Defeated",
+    "ruleKeyEvent": "Dungeon05MiniBossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon05_ItemCollected",
+    "ruleKeyEvent": "Dungeon05ItemCollected"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon05_TimeToComplete",
+    "ruleKeyEvent": "Dungeon05TimeToComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon06_Boss_Defeated",
+    "ruleKeyEvent": "Dungeon06BossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon06_MiniBoss_Defeated",
+    "ruleKeyEvent": "Dungeon06MiniBossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon06_ItemCollected",
+    "ruleKeyEvent": "Dungeon06ItemCollected"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon06_TimeToComplete",
+    "ruleKeyEvent": "Dungeon06TimeToComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon07_Boss_Defeated",
+    "ruleKeyEvent": "Dungeon07BossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon07_MiniBoss_Defeated",
+    "ruleKeyEvent": "Dungeon07MiniBossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon07_ItemCollected",
+    "ruleKeyEvent": "Dungeon07ItemCollected"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon07_TimeToComplete",
+    "ruleKeyEvent": "Dungeon07TimeToComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon08_Boss_Defeated",
+    "ruleKeyEvent": "Dungeon08BossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon08_MiniBoss_Defeated",
+    "ruleKeyEvent": "Dungeon08MiniBossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon08_ItemCollected",
+    "ruleKeyEvent": "Dungeon08ItemCollected"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon08_TimeToComplete",
+    "ruleKeyEvent": "Dungeon08TimeToComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon09_Boss_Defeated",
+    "ruleKeyEvent": "Dungeon09BossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon09_MiniBoss_Defeated",
+    "ruleKeyEvent": "Dungeon09MiniBossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon09_ItemCollected",
+    "ruleKeyEvent": "Dungeon09ItemCollected"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Dungeon09_TimeToComplete",
+    "ruleKeyEvent": "Dungeon09TimeToComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_War_Complete",
+    "ruleKeyEvent": "WarComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_War_Control_Point_Capture",
+    "ruleKeyEvent": "WarControlPointCapture"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Invasion_Wave_Complete",
+    "ruleKeyEvent": "InvasionWaveComplete"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_OutpostRush_Boss_Defeated",
+    "ruleKeyEvent": "OutpostRushBossDefeated"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_OutpostRush_Ally_Unlocked",
+    "ruleKeyEvent": "OutpostRuchAllyUnlocked"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_OutpostRush_Points_Collected",
+    "ruleKeyEvent": "OutpostRushPointsCollected"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Spotlight_Kill",
+    "ruleKeyEvent": "SpotlightKill"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Spotlight_Death",
+    "ruleKeyEvent": "SpotlightDeath"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_SubArmy_Invasion_Kill",
+    "ruleKeyEvent": "SubArmyInvasionKill"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_SubArmy_Invasion_Death",
+    "ruleKeyEvent": "SubArmyInvasionDeath"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_SubArmy_OutpostRush_Kill",
+    "ruleKeyEvent": "SubArmyInvasionKill"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_SubArmy_OutpostRush_Assist",
+    "ruleKeyEvent": "SubArmyInvasionAssist"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Fish_Caught",
+    "ruleKeyEvent": "FishCaught"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Rare_Fish_Caught",
+    "ruleKeyEvent": "RareFishCaught"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_Item_Crafted",
+    "ruleKeyEvent": "ItemCrafted"
+  },
+  {
+    "twitchDropId": "Twitch_Drop_High_Tier_Item_Crafted",
+    "ruleKeyEvent": "HighTierItemCrafted"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "itemID": "kit_fletching",
+    "kitType": "Crafting",
+    "stationTypes": "fletchingI"
+  },
+  {
+    "itemID": "craftingkit_cooking",
+    "kitType": "Crafting",
+    "stationTypes": "cooking1"
+  },
+  {
+    "itemID": "craftingkit_farming",
+    "kitType": "Crafting",
+    "stationTypes": "farming1"
+  },
+  {
+    "itemID": "kit_builderstoolsmetal",
+    "kitType": "Crafting",
+    "stationTypes": "builders1"
+  },
+  {
+    "itemID": "kit_builderstoolsstone",
+    "kitType": "Crafting",
+    "stationTypes": "builders0"
+  },
+  {
+    "itemID": "lodestonet1",
+    "kitType": "Crafting",
+    "stationTypes": "stonehatchet"
+  },
+  {
+    "itemID": "kit_repairt1",
+    "kitType": "Repair",
+    "stationTypes": "repairKit"
+  },
+  {
+    "itemID": "kit_repairt2",
+    "kitType": "Repair",
+    "stationTypes": "repairKit"
+  },
+  {
+    "itemID": "kit_repairt3",
+    "kitType": "Repair",
+    "stationTypes": "repairKit"
+  },
+  {
+    "itemID": "kit_repairt4",
+    "kitType": "Repair",
+    "stationTypes": "repairKit"
+  },
+  {
+    "itemID": "kit_repairt5",
+    "kitType": "Repair",
+    "stationTypes": "repairKit"
+  }
+]

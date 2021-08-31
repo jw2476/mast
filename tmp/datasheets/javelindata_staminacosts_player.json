@@ -1,0 +1,397 @@
+[
+  {
+    "costID": "attack_1h_sword_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_sword_heavy",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_sword_heavy_charged",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_sword_special",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_sword_run",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_rapier_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_rapier_heavy",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_rapier_heavy_charged",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_rapier_special",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_rapier_run",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_club_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_club_heavy",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_club_heavy_charged",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_club_special",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_club_run",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_axe_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_axe_heavy",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_axe_heavy_charged",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_axe_special",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_axe_run",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_axe_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_axe_heavy",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_axe_special",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_axe_run",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_pistol_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_rifle_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_rifle_gunbutt",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_bow_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_bow_primary_charge",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_bow_aim",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_bow_aim_charge",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_bow_gunbutt",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_unarmed_punch",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_unarmed_kick",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_unarmed_kick_charged",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_spear_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_spear_heavy",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_spear_heavy_charged",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_spear_special",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_spear_run",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_tool_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_tool_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_greataxe_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_greataxe_heavy",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_greataxe_heavy_charged",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_greataxe_special",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_greataxe_run",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_warhammer_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_warhammer_heavy",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_warhammer_heavyattack_charged",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_warhammer_sprinting_attack1",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_warhammer_special_1",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_warhammer_special_2",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_warhammer_special_3",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_warhammer_exhausted",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_club_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_club_heavy",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_club_special",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_club_run",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_demohammer_primary",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_1h_fall",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "attack_2h_fall",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "oh_shield_attack1",
+    "staminaCost": "0",
+    "category": "Combat"
+  },
+  {
+    "costID": "dodge_prone",
+    "staminaCost": "40",
+    "category": "Dodging"
+  },
+  {
+    "costID": "dodge",
+    "staminaCost": "40",
+    "category": "Dodging"
+  },
+  {
+    "costID": "dodge_roll",
+    "staminaCost": "40",
+    "category": "Dodging"
+  },
+  {
+    "costID": "dodge_roll_fast",
+    "staminaCost": "50",
+    "category": "Dodging"
+  },
+  {
+    "costID": "dodge_roll_slow",
+    "staminaCost": "50",
+    "category": "Dodging"
+  },
+  {
+    "costID": "sprint",
+    "staminaCost": "0",
+    "category": "Sprinting"
+  },
+  {
+    "costID": "sprint_travelmode",
+    "staminaCost": "0",
+    "category": "Sprinting"
+  },
+  {
+    "costID": "sprint_crouch",
+    "staminaCost": "0",
+    "category": "Sprinting"
+  },
+  {
+    "costID": "sprint_prone",
+    "staminaCost": "0",
+    "category": "Sprinting"
+  },
+  {
+    "costID": "sprint_unarmed",
+    "staminaCost": "0",
+    "category": "Sprinting"
+  },
+  {
+    "costID": "sprint_jump",
+    "staminaCost": "0",
+    "category": "Dodging"
+  },
+  {
+    "costID": "block",
+    "staminaCost": "10",
+    "category": "Blocking"
+  },
+  {
+    "costID": "gather_default",
+    "staminaCost": "0",
+    "category": "Gathering"
+  },
+  {
+    "costID": "throwingaxe_aimedthrow",
+    "staminaCost": "20",
+    "category": "Combat"
+  },
+  {
+    "costID": "stamina_delay",
+    "staminaCost": "0",
+    "category": ""
+  },
+  {
+    "costID": "low_stamina_check",
+    "staminaCost": "5",
+    "category": ""
+  }
+]

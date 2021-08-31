@@ -1,0 +1,202 @@
+[
+  {
+    "skillLevel": "1",
+    "requiredExp": "100"
+  },
+  {
+    "skillLevel": "2",
+    "requiredExp": "130"
+  },
+  {
+    "skillLevel": "3",
+    "requiredExp": "169"
+  },
+  {
+    "skillLevel": "4",
+    "requiredExp": "220"
+  },
+  {
+    "skillLevel": "5",
+    "requiredExp": "286"
+  },
+  {
+    "skillLevel": "6",
+    "requiredExp": "371"
+  },
+  {
+    "skillLevel": "7",
+    "requiredExp": "483"
+  },
+  {
+    "skillLevel": "8",
+    "requiredExp": "627"
+  },
+  {
+    "skillLevel": "9",
+    "requiredExp": "816"
+  },
+  {
+    "skillLevel": "10",
+    "requiredExp": "1060"
+  },
+  {
+    "skillLevel": "11",
+    "requiredExp": "1379"
+  },
+  {
+    "skillLevel": "12",
+    "requiredExp": "1792"
+  },
+  {
+    "skillLevel": "13",
+    "requiredExp": "2330"
+  },
+  {
+    "skillLevel": "14",
+    "requiredExp": "3029"
+  },
+  {
+    "skillLevel": "15",
+    "requiredExp": "3937"
+  },
+  {
+    "skillLevel": "16",
+    "requiredExp": "5119"
+  },
+  {
+    "skillLevel": "17",
+    "requiredExp": "6654"
+  },
+  {
+    "skillLevel": "18",
+    "requiredExp": "8650"
+  },
+  {
+    "skillLevel": "19",
+    "requiredExp": "11246"
+  },
+  {
+    "skillLevel": "20",
+    "requiredExp": "14619"
+  },
+  {
+    "skillLevel": "21",
+    "requiredExp": "19005"
+  },
+  {
+    "skillLevel": "22",
+    "requiredExp": "24706"
+  },
+  {
+    "skillLevel": "23",
+    "requiredExp": "32118"
+  },
+  {
+    "skillLevel": "24",
+    "requiredExp": "41754"
+  },
+  {
+    "skillLevel": "25",
+    "requiredExp": "54280"
+  },
+  {
+    "skillLevel": "26",
+    "requiredExp": "65136"
+  },
+  {
+    "skillLevel": "27",
+    "requiredExp": "78163"
+  },
+  {
+    "skillLevel": "28",
+    "requiredExp": "93795"
+  },
+  {
+    "skillLevel": "29",
+    "requiredExp": "112555"
+  },
+  {
+    "skillLevel": "30",
+    "requiredExp": "135066"
+  },
+  {
+    "skillLevel": "31",
+    "requiredExp": "155326"
+  },
+  {
+    "skillLevel": "32",
+    "requiredExp": "178625"
+  },
+  {
+    "skillLevel": "33",
+    "requiredExp": "205418"
+  },
+  {
+    "skillLevel": "34",
+    "requiredExp": "236231"
+  },
+  {
+    "skillLevel": "35",
+    "requiredExp": "271666"
+  },
+  {
+    "skillLevel": "36",
+    "requiredExp": "298833"
+  },
+  {
+    "skillLevel": "37",
+    "requiredExp": "328716"
+  },
+  {
+    "skillLevel": "38",
+    "requiredExp": "361587"
+  },
+  {
+    "skillLevel": "39",
+    "requiredExp": "397746"
+  },
+  {
+    "skillLevel": "40",
+    "requiredExp": "437521"
+  },
+  {
+    "skillLevel": "41",
+    "requiredExp": "459397"
+  },
+  {
+    "skillLevel": "42",
+    "requiredExp": "482367"
+  },
+  {
+    "skillLevel": "43",
+    "requiredExp": "506485"
+  },
+  {
+    "skillLevel": "44",
+    "requiredExp": "531810"
+  },
+  {
+    "skillLevel": "45",
+    "requiredExp": "558400"
+  },
+  {
+    "skillLevel": "46",
+    "requiredExp": "586320"
+  },
+  {
+    "skillLevel": "47",
+    "requiredExp": "615636"
+  },
+  {
+    "skillLevel": "48",
+    "requiredExp": "646418"
+  },
+  {
+    "skillLevel": "49",
+    "requiredExp": "678739"
+  },
+  {
+    "skillLevel": "50",
+    "requiredExp": "712676"
+  }
+]

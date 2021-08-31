@@ -1,0 +1,260 @@
+[
+  {
+    "twitchTagId": "Twitch_Tag_Mode_None",
+    "tagGroupId": "1",
+    "keyValuePair": "Mode:None",
+    "displayName": "Mode: None"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Mode_PvP",
+    "tagGroupId": "1",
+    "keyValuePair": "8486f56b-8677-44f7-8004-000295391524",
+    "displayName": "PvP"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Mode_PvE",
+    "tagGroupId": "1",
+    "keyValuePair": "79977fb9-f106-4a87-a386-f1b0f99783dd",
+    "displayName": "PvE"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Mode_50v50_War",
+    "tagGroupId": "1",
+    "keyValuePair": "Mode:50v50War",
+    "displayName": "Mode: 50v50 War"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Mode_Outpost_Rush",
+    "tagGroupId": "1",
+    "keyValuePair": "Mode:OutpostRush",
+    "displayName": "Mode: Outpost Rush"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Mode_Invasion",
+    "tagGroupId": "1",
+    "keyValuePair": "Mode:Invasion",
+    "displayName": "Mode: Invasion"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Faction_None",
+    "tagGroupId": "2",
+    "keyValuePair": "Faction:None",
+    "displayName": "Faction: None"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Faction_Marauder",
+    "tagGroupId": "2",
+    "keyValuePair": "Faction:Marauder",
+    "displayName": "Faction: Marauder"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Faction_Covenant",
+    "tagGroupId": "2",
+    "keyValuePair": "Faction:Covenant",
+    "displayName": "Faction: Covenant"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Faction_Syndicate",
+    "tagGroupId": "2",
+    "keyValuePair": "Faction:Syndicate",
+    "displayName": "Faction: Syndicate"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Expedition_None",
+    "tagGroupId": "3",
+    "keyValuePair": "Expedition:None",
+    "displayName": "Expedition: None"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Expedition_Amrine_Excavation",
+    "tagGroupId": "3",
+    "keyValuePair": "Expedition:AmrineExcavation",
+    "displayName": "Expedition: Amrine Excavation "
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Expedition_Garden_Genesis",
+    "tagGroupId": "3",
+    "keyValuePair": "Expedition:GardenGenesis",
+    "displayName": "Expedition: Garden of Genesis"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Expedition_Lazarus_Well",
+    "tagGroupId": "3",
+    "keyValuePair": "Expedition:LazarusWell",
+    "displayName": "Expedition: Lazarus Well"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Expedition_Shattered_Obelisk",
+    "tagGroupId": "3",
+    "keyValuePair": "Expedition:ShatteredObelisk",
+    "displayName": "Expedition: Shattered Obelisk"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Expedition_Dynasty_Shipyard",
+    "tagGroupId": "3",
+    "keyValuePair": "Expedition:DynastyShipyard",
+    "displayName": "Expedition: Dynasty Shipyard"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Expedition_The_Depths",
+    "tagGroupId": "3",
+    "keyValuePair": "Expedition:TheDepths",
+    "displayName": "Expedition: The Depths"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Expedition_Isabellas_Lair",
+    "tagGroupId": "3",
+    "keyValuePair": "Expedition:IsabellasLair",
+    "displayName": "Expedition: Isabella's Lair"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Expedition_Eridanus_Caverns",
+    "tagGroupId": "3",
+    "keyValuePair": "Expedition:EridanusCaverns",
+    "displayName": "Expedition: Eridanus Caverns"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_None",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:None",
+    "displayName": "Zone: None"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_First_Light",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:FirstLight",
+    "displayName": "Zone: First Light"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Windsward",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:Windsward",
+    "displayName": "Zone: Windsward"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Monarchs_Bluff",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:MonarchsBluff",
+    "displayName": "Zone: Monarch's Bluff"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Everfall",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:Everfall",
+    "displayName": "Zone: Everfall"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Weavers_Fen",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:WeaversFen",
+    "displayName": "Zone: Weaver's Fen"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Mourningdale",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:Mourningdale",
+    "displayName": "Zone: Mourningdale"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Edengrove",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:Edengrove",
+    "displayName": "Zone: Edengrove"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Ebonscale_Reach",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:EbonscaleReach",
+    "displayName": "Zone: Ebonscale Reach"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Brightwood",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:Brightwood",
+    "displayName": "Zone: Brightwood"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Reekwater",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:Reekwater",
+    "displayName": "Zone: Reekwater"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_ShatterMountain",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:ShatterMountain",
+    "displayName": "Zone: ShatterMountain"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Restless_Shores",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:RestlessShores",
+    "displayName": "Zone: Restless Shores"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_CutlassKeys",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:CutlassKeys",
+    "displayName": "Zone: CutlassKeys"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Great_Cleave",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:GreatCleave",
+    "displayName": "Zone: Great Cleave"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Zone_Brimstone_Sands",
+    "tagGroupId": "4",
+    "keyValuePair": "Zone:BrimstoneSands",
+    "displayName": "Zone: Brimstone Sands"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Level_Range_None",
+    "tagGroupId": "5",
+    "keyValuePair": "LevelRange:None",
+    "displayName": "Level Range: None"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Level_Range_01_09",
+    "tagGroupId": "5",
+    "keyValuePair": "LevelRange:01_09",
+    "displayName": "Level Range: 1-9"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Level_Range_10_19",
+    "tagGroupId": "5",
+    "keyValuePair": "LevelRange:10_19",
+    "displayName": "Level Range: 10-19"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Level_Range_20_29",
+    "tagGroupId": "5",
+    "keyValuePair": "LevelRange:20_29",
+    "displayName": "Level Range: 20-29"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Level_Range_30_39",
+    "tagGroupId": "5",
+    "keyValuePair": "LevelRange:30_39",
+    "displayName": "Level Range: 30-39"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Level_Range_40_49",
+    "tagGroupId": "5",
+    "keyValuePair": "LevelRange:40_49",
+    "displayName": "Level Range: 40-49"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Level_Range_50_59",
+    "tagGroupId": "5",
+    "keyValuePair": "LevelRange:50_59",
+    "displayName": "Level Range: 50-59"
+  },
+  {
+    "twitchTagId": "Twitch_Tag_Level_Range_60",
+    "tagGroupId": "5",
+    "keyValuePair": "LevelRange:60",
+    "displayName": "Level Range: 60"
+  }
+]

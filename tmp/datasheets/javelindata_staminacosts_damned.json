@@ -1,0 +1,17 @@
+[
+  {
+    "costID": "block",
+    "staminaCost": "100",
+    "category": "Blocking"
+  },
+  {
+    "costID": "stamina_delay",
+    "staminaCost": "0",
+    "category": ""
+  },
+  {
+    "costID": "low_stamina_check",
+    "staminaCost": "5",
+    "category": ""
+  }
+]

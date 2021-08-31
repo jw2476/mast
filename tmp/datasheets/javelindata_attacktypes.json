@@ -1,0 +1,47 @@
+[
+  {
+    "typeID": "physical",
+    "intID": "1",
+    "category": "Physical"
+  },
+  {
+    "typeID": "melee",
+    "intID": "2",
+    "category": "Physical"
+  },
+  {
+    "typeID": "ranged",
+    "intID": "3",
+    "category": "Physical"
+  },
+  {
+    "typeID": "fire",
+    "intID": "4",
+    "category": "Fire"
+  },
+  {
+    "typeID": "magic",
+    "intID": "5",
+    "category": "Magic"
+  },
+  {
+    "typeID": "spirit",
+    "intID": "6",
+    "category": "Magic"
+  },
+  {
+    "typeID": "eldritch",
+    "intID": "7",
+    "category": "Magic"
+  },
+  {
+    "typeID": "slayingundead",
+    "intID": "8",
+    "category": "Slaying"
+  },
+  {
+    "typeID": "slayingbeast",
+    "intID": "9",
+    "category": "Slaying"
+  }
+]

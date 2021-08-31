@@ -1,0 +1,57 @@
+[
+  {
+    "rank": "0",
+    "displayName": "@owg_factiontokens_2",
+    "maximumInfluence": "3000",
+    "requiredLevel": "",
+    "influenceCost": "",
+    "currencyCost": "",
+    "azothCost": "",
+    "sanityCheck": "",
+    "gameEventId": ""
+  },
+  {
+    "rank": "1",
+    "displayName": "@owg_factiontokens_2",
+    "maximumInfluence": "10000",
+    "requiredLevel": "",
+    "influenceCost": "",
+    "currencyCost": "",
+    "azothCost": "",
+    "sanityCheck": "",
+    "gameEventId": ""
+  },
+  {
+    "rank": "2",
+    "displayName": "@owg_factiontokens_2",
+    "maximumInfluence": "15000",
+    "requiredLevel": "",
+    "influenceCost": "",
+    "currencyCost": "",
+    "azothCost": "",
+    "sanityCheck": "",
+    "gameEventId": ""
+  },
+  {
+    "rank": "3",
+    "displayName": "@owg_factiontokens_2",
+    "maximumInfluence": "20000",
+    "requiredLevel": "",
+    "influenceCost": "",
+    "currencyCost": "",
+    "azothCost": "",
+    "sanityCheck": "",
+    "gameEventId": ""
+  },
+  {
+    "rank": "4",
+    "displayName": "@owg_factiontokens_2",
+    "maximumInfluence": "25000",
+    "requiredLevel": "",
+    "influenceCost": "",
+    "currencyCost": "",
+    "azothCost": "",
+    "sanityCheck": "",
+    "gameEventId": ""
+  }
+]

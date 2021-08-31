@@ -1,0 +1,50 @@
+[
+  {
+    "valueID": "heightoffset",
+    "value": "2"
+  },
+  {
+    "valueID": "maxdisplaydistance",
+    "value": "75"
+  },
+  {
+    "valueID": "displaytime",
+    "value": "2.0"
+  },
+  {
+    "valueID": "fadefraction",
+    "value": "0.75"
+  },
+  {
+    "valueID": "velocity",
+    "value": ".8"
+  },
+  {
+    "valueID": "fontsizemin",
+    "value": "4"
+  },
+  {
+    "valueID": "fontsizemax",
+    "value": "6"
+  },
+  {
+    "valueID": "staminacolor",
+    "value": "0096FF"
+  },
+  {
+    "valueID": "healthcolor",
+    "value": "FF4D00"
+  },
+  {
+    "valueID": "blockedcolor",
+    "value": "94DBEB"
+  },
+  {
+    "valueID": "immunecolor",
+    "value": "CCCCCC"
+  },
+  {
+    "valueID": "attackcolor",
+    "value": "FFCC33"
+  }
+]

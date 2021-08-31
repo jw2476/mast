@@ -1,0 +1,62 @@
+[
+  {
+    "structureID": "structure_smelter",
+    "refineType": "Metal",
+    "tooltipText": "Burn wood in the smelter to refine metal.",
+    "fuelCategory": "FuelWood"
+  },
+  {
+    "structureID": "structure_campfire",
+    "refineType": "Food",
+    "tooltipText": "Burn wood to cook simple meals.",
+    "fuelCategory": "FuelWood"
+  },
+  {
+    "structureID": "structure_cookingfire",
+    "refineType": "Food1",
+    "tooltipText": "Burn wood to cook more complex meals.",
+    "fuelCategory": "FuelWood"
+  },
+  {
+    "structureID": "structure_distillery",
+    "refineType": "Distillery",
+    "tooltipText": "Burn wood to distill spirits.",
+    "fuelCategory": "FuelWood"
+  },
+  {
+    "structureID": "structure_farmfruit",
+    "refineType": "Farming",
+    "tooltipText": "Provide water to grow fruit.",
+    "fuelCategory": "FuelWater"
+  },
+  {
+    "structureID": "structure_farmgrain",
+    "refineType": "Farming",
+    "tooltipText": "Provide water to grow grain.",
+    "fuelCategory": "FuelWater"
+  },
+  {
+    "structureID": "structure_farmvegetables",
+    "refineType": "Farming",
+    "tooltipText": "Provide water to grow vegetables.",
+    "fuelCategory": "FuelWater"
+  },
+  {
+    "structureID": "structure_doghouse",
+    "refineType": "Doghouse",
+    "tooltipText": "Spawns an attack dog when fueled with raw meat.",
+    "fuelCategory": "FuelSacrifice"
+  },
+  {
+    "structureID": "structure_turkeycoop",
+    "refineType": "Turkey",
+    "tooltipText": "Place Eggs and fuel with Grain to hatch Turkeys (max 2).",
+    "fuelCategory": "FuelAnimal"
+  },
+  {
+    "structureID": "structure_foragerhouse",
+    "refineType": "Forager",
+    "tooltipText": "Spawns a forager when fueled with raw meat.",
+    "fuelCategory": "FuelSacrifice"
+  }
+]

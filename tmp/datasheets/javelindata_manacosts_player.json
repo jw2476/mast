@@ -1,0 +1,476 @@
+[
+  {
+    "ID": "1",
+    "costID": "specialattack",
+    "manaCost": "0",
+    "weaponTag": "Sword"
+  },
+  {
+    "ID": "2",
+    "costID": "specialattack",
+    "manaCost": "0",
+    "weaponTag": "Rapier"
+  },
+  {
+    "ID": "3",
+    "costID": "specialattack2",
+    "manaCost": "0",
+    "weaponTag": "Rapier"
+  },
+  {
+    "ID": "4",
+    "costID": "specialattack",
+    "manaCost": "0",
+    "weaponTag": "Club"
+  },
+  {
+    "ID": "5",
+    "costID": "specialattack2",
+    "manaCost": "0",
+    "weaponTag": "Club"
+  },
+  {
+    "ID": "6",
+    "costID": "specialattack",
+    "manaCost": "0",
+    "weaponTag": "GreatAxe"
+  },
+  {
+    "ID": "7",
+    "costID": "specialattack",
+    "manaCost": "0",
+    "weaponTag": "Spear"
+  },
+  {
+    "ID": "8",
+    "costID": "specialattack",
+    "manaCost": "0",
+    "weaponTag": "Axe"
+  },
+  {
+    "ID": "9",
+    "costID": "specialattack",
+    "manaCost": "0",
+    "weaponTag": "Shield_OH"
+  },
+  {
+    "ID": "10",
+    "costID": "specialattack",
+    "manaCost": "0",
+    "weaponTag": "Warhammer"
+  },
+  {
+    "ID": "11",
+    "costID": "specialattack2",
+    "manaCost": "0",
+    "weaponTag": "Warhammer"
+  },
+  {
+    "ID": "12",
+    "costID": "celestial_heal_aoe",
+    "manaCost": "40",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "13",
+    "costID": "celestial_heal_aoe_staff",
+    "manaCost": "40",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "14",
+    "costID": "celestial_life_dmg_absorb",
+    "manaCost": "35",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "15",
+    "costID": "celestial_life_dmg_bonus",
+    "manaCost": "35",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "16",
+    "costID": "celestial_revive",
+    "manaCost": "50",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "17",
+    "costID": "celestial_heal_aoe_staff_mana_upgrade",
+    "manaCost": "15",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "18",
+    "costID": "elemental_fire_aoe",
+    "manaCost": "50",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "19",
+    "costID": "elemental_fire_aoe_staff",
+    "manaCost": "50",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "20",
+    "costID": "elemental_fire_projectile",
+    "manaCost": "0",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "21",
+    "costID": "elemental_fire_projectile_special",
+    "manaCost": "10",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "22",
+    "costID": "elemental_fire_combustion",
+    "manaCost": "35",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "23",
+    "costID": "elemental_firegrenade",
+    "manaCost": "25",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "24",
+    "costID": "elemental_fire_staff_heavy",
+    "manaCost": "50",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "25",
+    "costID": "elemental_cc_slow",
+    "manaCost": "10",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "26",
+    "costID": "elemental_cc_silenced",
+    "manaCost": "35",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "27",
+    "costID": "elemental_cc_weakness",
+    "manaCost": "35",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "28",
+    "costID": "elemental_fire_projectile_charged",
+    "manaCost": "30",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "29",
+    "costID": "elemental_fire_gauntlet_dash",
+    "manaCost": "20",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "30",
+    "costID": "siphon_healing_mana_check",
+    "manaCost": "2",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "31",
+    "costID": "lifestaff_touchoflife",
+    "manaCost": "25",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "32",
+    "costID": "lifestaff_smite",
+    "manaCost": "25",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "33",
+    "costID": "lifestaff_holyshield",
+    "manaCost": "15",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "34",
+    "costID": "lifestaff_healingwave",
+    "manaCost": "15",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "35",
+    "costID": "lifestaff_holyshield_mana_upgrade",
+    "manaCost": "15",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "36",
+    "costID": "lifestaff_touchoflife_mana_upgrade",
+    "manaCost": "20",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "37",
+    "costID": "lifestaff_speed_intro",
+    "manaCost": "30",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "38",
+    "costID": "lifestaff_holyshield_intro",
+    "manaCost": "15",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "39",
+    "costID": "lifestaff_holyshield_kickout",
+    "manaCost": "3",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "40",
+    "costID": "lifestaff_primary",
+    "manaCost": "2",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "41",
+    "costID": "lifestaff_heavy",
+    "manaCost": "6",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "42",
+    "costID": "firestaff_incinerate",
+    "manaCost": "22",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "43",
+    "costID": "firestaff_flamethrower",
+    "manaCost": "2.5",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "44",
+    "costID": "firestaff_pillaroffire",
+    "manaCost": "15",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "45",
+    "costID": "firestaff_storm",
+    "manaCost": "30",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "46",
+    "costID": "firestaff_flamethrower_cancel",
+    "manaCost": "5",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "47",
+    "costID": "firestaff_speed_intro",
+    "manaCost": "30",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "48",
+    "costID": "firestaff_siege",
+    "manaCost": "25",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "49",
+    "costID": "firestaff_siege_recharge_manacheck",
+    "manaCost": "26",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "50",
+    "costID": "firestaff_storm_mana_upgrade",
+    "manaCost": "25",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "51",
+    "costID": "firestaff_primary",
+    "manaCost": "2",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "52",
+    "costID": "firestaff_heavy",
+    "manaCost": "6",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "53",
+    "costID": "firestaff_heavy_range",
+    "manaCost": "10",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "54",
+    "costID": "firestaff_heavy_speed",
+    "manaCost": "15",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "55",
+    "costID": "siphon_healing_check_to_cast",
+    "manaCost": "5",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "56",
+    "costID": "firestaff_speed_cost",
+    "manaCost": "30",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "57",
+    "costID": "icemagic_primary",
+    "manaCost": "2",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "58",
+    "costID": "icemagic_heavy",
+    "manaCost": "6",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "59",
+    "costID": "icemagic_block",
+    "manaCost": "10",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "60",
+    "costID": "icemagic_spikes",
+    "manaCost": "15",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "61",
+    "costID": "icemagic_icestorm",
+    "manaCost": "25",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "62",
+    "costID": "icemagic_icestorm_mana",
+    "manaCost": "5",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "63",
+    "costID": "icemagic_windchill",
+    "manaCost": "20",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "64",
+    "costID": "icemagic_entombed",
+    "manaCost": "0",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "65",
+    "costID": "icemagic_entombed_break",
+    "manaCost": "20",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "66",
+    "costID": "icemagic_iceshower",
+    "manaCost": "25",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "67",
+    "costID": "icemagic_icepylon",
+    "manaCost": "15",
+    "weaponTag": "MagicGauntlet"
+  },
+  {
+    "ID": "68",
+    "costID": "lifestaff_lightsembrace",
+    "manaCost": "18",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "69",
+    "costID": "lifestaff_orboflight",
+    "manaCost": "16",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "70",
+    "costID": "lifestaff_beacon",
+    "manaCost": "16",
+    "weaponTag": "MagicStaff"
+  },
+  {
+    "ID": "71",
+    "costID": "voidgauntlet_primary",
+    "manaCost": "2",
+    "weaponTag": "VoidGauntlet"
+  },
+  {
+    "ID": "72",
+    "costID": "voidgauntlet_heavy",
+    "manaCost": "10",
+    "weaponTag": "VoidGauntlet"
+  },
+  {
+    "ID": "73",
+    "costID": "voidgauntlet_voidblade",
+    "manaCost": "20",
+    "weaponTag": "VoidGauntlet"
+  },
+  {
+    "ID": "74",
+    "costID": "voidgauntlet_nullchamber",
+    "manaCost": "30",
+    "weaponTag": "VoidGauntlet"
+  },
+  {
+    "ID": "75",
+    "costID": "voidgauntlet_scream",
+    "manaCost": "30",
+    "weaponTag": "VoidGauntlet"
+  },
+  {
+    "ID": "76",
+    "costID": "voidgauntlet_decayingorb",
+    "manaCost": "30",
+    "weaponTag": "VoidGauntlet"
+  },
+  {
+    "ID": "77",
+    "costID": "voidgauntlet_drainingtether",
+    "manaCost": "25",
+    "weaponTag": "VoidGauntlet"
+  },
+  {
+    "ID": "78",
+    "costID": "voidgauntlet_essencerupture",
+    "manaCost": "30",
+    "weaponTag": "VoidGauntlet"
+  },
+  {
+    "ID": "79",
+    "costID": "zero_mana",
+    "manaCost": "0",
+    "weaponTag": "MagicGauntlet"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "variantID": "risen_a",
+    "task Name": "RisenPOITopTask",
+    "task Config Name": "RisenConfig_variant_A"
+  },
+  {
+    "variantID": "risen_b",
+    "task Name": "RisenTopTask",
+    "task Config Name": "RisenConfig_variant_B"
+  }
+]

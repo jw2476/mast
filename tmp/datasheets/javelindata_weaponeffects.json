@@ -1,0 +1,202 @@
+[
+  {
+    "weaponEffectId": "Sword",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Magic.lua",
+    "void": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Void.lua",
+    "lightning": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Ice.lua",
+    "nature": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Nature.lua"
+  },
+  {
+    "weaponEffectId": "GreatAxe",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/GreatAxe/WeaponEffect_GreatAxe_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/GreatAxe/WeaponEffect_GreatAxe_Magic.lua",
+    "void": "Scripts/WeaponEffects/GreatAxe/WeaponEffect_GreatAxe_Void.lua",
+    "lightning": "Scripts/WeaponEffects/GreatAxe/WeaponEffect_GreatAxe_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/GreatAxe/WeaponEffect_GreatAxe_Ice.lua",
+    "nature": "Scripts/WeaponEffects/GreatAxe/WeaponEffect_GreatAxe_Nature.lua"
+  },
+  {
+    "weaponEffectId": "Musket",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/Musket/WeaponEffect_Musket_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/Musket/WeaponEffect_Musket_Magic.lua",
+    "void": "Scripts/WeaponEffects/Musket/WeaponEffect_Musket_Void.lua",
+    "lightning": "Scripts/WeaponEffects/Musket/WeaponEffect_Musket_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/Musket/WeaponEffect_Musket_Ice.lua",
+    "nature": "Scripts/WeaponEffects/Musket/WeaponEffect_Musket_Nature.lua"
+  },
+  {
+    "weaponEffectId": "Spear",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/Spear/WeaponEffect_Spear_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/Spear/WeaponEffect_Spear_Magic.lua",
+    "void": "Scripts/WeaponEffects/Spear/WeaponEffect_Spear_Void.lua",
+    "lightning": "Scripts/WeaponEffects/Spear/WeaponEffect_Spear_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/Spear/WeaponEffect_Spear_Ice.lua",
+    "nature": "Scripts/WeaponEffects/Spear/WeaponEffect_Spear_Nature.lua"
+  },
+  {
+    "weaponEffectId": "Rapier",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/Rapier/WeaponEffect_Rapier_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/Rapier/WeaponEffect_Rapier_Magic.lua",
+    "void": "Scripts/WeaponEffects/Rapier/WeaponEffect_Rapier_Void.lua",
+    "lightning": "Scripts/WeaponEffects/Rapier/WeaponEffect_Rapier_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/Rapier/WeaponEffect_Rapier_Ice.lua",
+    "nature": "Scripts/WeaponEffects/Rapier/WeaponEffect_Rapier_Nature.lua"
+  },
+  {
+    "weaponEffectId": "Warhammer",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/Warhammer/WeaponEffect_Warhammer_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/Warhammer/WeaponEffect_Warhammer_Magic.lua",
+    "void": "Scripts/WeaponEffects/Warhammer/WeaponEffect_Warhammer_Void.lua",
+    "lightning": "Scripts/WeaponEffects/Warhammer/WeaponEffect_Warhammer_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/Warhammer/WeaponEffect_Warhammer_Ice.lua",
+    "nature": "Scripts/WeaponEffects/Warhammer/WeaponEffect_Warhammer_Nature.lua"
+  },
+  {
+    "weaponEffectId": "Hatchet",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/Hatchet/WeaponEffect_Hatchet_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/Hatchet/WeaponEffect_Hatchet_Magic.lua",
+    "void": "Scripts/WeaponEffects/Hatchet/WeaponEffect_Hatchet_Void.lua",
+    "lightning": "Scripts/WeaponEffects/Hatchet/WeaponEffect_Hatchet_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/Hatchet/WeaponEffect_Hatchet_Ice.lua",
+    "nature": "Scripts/WeaponEffects/Hatchet/WeaponEffect_Hatchet_Nature.lua"
+  },
+  {
+    "weaponEffectId": "1hClub",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Magic.lua",
+    "void": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Void.lua",
+    "lightning": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Ice.lua",
+    "nature": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Nature.lua"
+  },
+  {
+    "weaponEffectId": "Bow",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/Bow/WeaponEffect_Bow_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/Bow/WeaponEffect_Bow_Magic.lua",
+    "void": "Scripts/WeaponEffects/Bow/WeaponEffect_Bow_Void.lua",
+    "lightning": "Scripts/WeaponEffects/Bow/WeaponEffect_Bow_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/Bow/WeaponEffect_Bow_Ice.lua",
+    "nature": "Scripts/WeaponEffects/Bow/WeaponEffect_Bow_Nature.lua"
+  },
+  {
+    "weaponEffectId": "Shield",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Magic.lua",
+    "void": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Void.lua",
+    "lightning": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Ice.lua",
+    "nature": "Scripts/WeaponEffects/Club/WeaponEffect_1hClub_Nature.lua"
+  },
+  {
+    "weaponEffectId": "FireStaff",
+    "default": "Scripts/WeaponEffects/Magic/WeaponEffect_FireStaff_Base.lua",
+    "fire": "Scripts/WeaponEffects/Magic/WeaponEffect_FireStaff_Base.lua",
+    "arcane": "Scripts/WeaponEffects/Magic/WeaponEffect_FireStaff_Base.lua",
+    "void": "Scripts/WeaponEffects/Magic/WeaponEffect_FireStaff_Base.lua",
+    "lightning": "Scripts/WeaponEffects/Magic/WeaponEffect_FireStaff_Base.lua",
+    "ice": "Scripts/WeaponEffects/Magic/WeaponEffect_FireStaff_Base.lua",
+    "nature": "Scripts/WeaponEffects/Magic/WeaponEffect_FireStaff_Base.lua"
+  },
+  {
+    "weaponEffectId": "LifeStaff",
+    "default": "Scripts/WeaponEffects/Magic/WeaponEffect_LifeStaff_Base.lua",
+    "fire": "Scripts/WeaponEffects/Magic/WeaponEffect_LifeStaff_Base.lua",
+    "arcane": "Scripts/WeaponEffects/Magic/WeaponEffect_LifeStaff_Base.lua",
+    "void": "Scripts/WeaponEffects/Magic/WeaponEffect_LifeStaff_Base.lua",
+    "lightning": "Scripts/WeaponEffects/Magic/WeaponEffect_LifeStaff_Base.lua",
+    "ice": "Scripts/WeaponEffects/Magic/WeaponEffect_LifeStaff_Base.lua",
+    "nature": "Scripts/WeaponEffects/Magic/WeaponEffect_LifeStaff_Base.lua"
+  },
+  {
+    "weaponEffectId": "IceGauntlet",
+    "default": "Scripts/WeaponEffects/Magic/WeaponEffect_IceGaunt_Base.lua",
+    "fire": "Scripts/WeaponEffects/Magic/WeaponEffect_IceGaunt_Base.lua",
+    "arcane": "Scripts/WeaponEffects/Magic/WeaponEffect_IceGaunt_Base.lua",
+    "void": "Scripts/WeaponEffects/Magic/WeaponEffect_IceGaunt_Base.lua",
+    "lightning": "Scripts/WeaponEffects/Magic/WeaponEffect_IceGaunt_Base.lua",
+    "ice": "Scripts/WeaponEffects/Magic/WeaponEffect_IceGaunt_Base.lua",
+    "nature": "Scripts/WeaponEffects/Magic/WeaponEffect_IceGaunt_Base.lua"
+  },
+  {
+    "weaponEffectId": "AzothStaff",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/AzothStaff/WeaponEffect_AzothStaff_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/AzothStaff/WeaponEffect_AzothStaff_Fire.lua",
+    "void": "Scripts/WeaponEffects/AzothStaff/WeaponEffect_AzothStaff_Fire.lua",
+    "lightning": "Scripts/WeaponEffects/AzothStaff/WeaponEffect_AzothStaff_Fire.lua",
+    "ice": "Scripts/WeaponEffects/AzothStaff/WeaponEffect_AzothStaff_Fire.lua",
+    "nature": "Scripts/WeaponEffects/AzothStaff/WeaponEffect_AzothStaff_Fire.lua"
+  },
+  {
+    "weaponEffectId": "AI_Sword",
+    "default": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_Dryad_Sword.lua",
+    "fire": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_Dryad_Sword.lua",
+    "arcane": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_Dryad_Sword.lua",
+    "void": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_Dryad_Sword.lua",
+    "lightning": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_Dryad_Sword.lua",
+    "ice": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_Dryad_Sword.lua",
+    "nature": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_Dryad_Sword.lua"
+  },
+  {
+    "weaponEffectId": "AI_Undead_Torch",
+    "default": "Scripts/WeaponEffects/AI/Undead/WeaponEffect_Undead_Torch.lua",
+    "fire": "Scripts/WeaponEffects/AI/Undead/WeaponEffect_Undead_Torch.lua",
+    "arcane": "Scripts/WeaponEffects/AI/Undead/WeaponEffect_Undead_Torch.lua",
+    "void": "Scripts/WeaponEffects/AI/Undead/WeaponEffect_Undead_Torch.lua",
+    "lightning": "Scripts/WeaponEffects/AI/Undead/WeaponEffect_Undead_Torch.lua",
+    "ice": "Scripts/WeaponEffects/AI/Undead/WeaponEffect_Undead_Torch.lua",
+    "nature": "Scripts/WeaponEffects/AI/Undead/WeaponEffect_Undead_Torch.lua"
+  },
+  {
+    "weaponEffectId": "AI_SwampShamanStaff",
+    "default": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_DryadSwamp_Shaman_Staff.lua",
+    "fire": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_DryadSwamp_Shaman_Staff.lua",
+    "arcane": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_DryadSwamp_Shaman_Staff.lua",
+    "void": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_DryadSwamp_Shaman_Staff.lua",
+    "lightning": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_DryadSwamp_Shaman_Staff.lua",
+    "ice": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_DryadSwamp_Shaman_Staff.lua",
+    "nature": "Scripts/WeaponEffects/AI/Dryad/WeaponEffect_DryadSwamp_Shaman_Staff.lua"
+  },
+  {
+    "weaponEffectId": "AI_Lost_Siren_Spear",
+    "default": "Scripts\\WeaponEffects\\AI\\Lost\\WeaponEffect_Lost_Siren_Spear.lua",
+    "fire": "Scripts\\WeaponEffects\\AI\\Lost\\WeaponEffect_Lost_Siren_Spear.lua",
+    "arcane": "Scripts\\WeaponEffects\\AI\\Lost\\WeaponEffect_Lost_Siren_Spear.lua",
+    "void": "Scripts\\WeaponEffects\\AI\\Lost\\WeaponEffect_Lost_Siren_Spear.lua",
+    "lightning": "Scripts\\WeaponEffects\\AI\\Lost\\WeaponEffect_Lost_Siren_Spear.lua",
+    "ice": "Scripts\\WeaponEffects\\AI\\Lost\\WeaponEffect_Lost_Siren_Spear.lua",
+    "nature": "Scripts\\WeaponEffects\\AI\\Lost\\WeaponEffect_Lost_Siren_Spear.lua"
+  },
+  {
+    "weaponEffectId": "AI_DynastySummonerStaff",
+    "default": "Scripts/WeaponEffects/AI/Dynasty/WeaponEffect_Dynasty_Summoner_Staff.lua",
+    "fire": "Scripts/WeaponEffects/AI/Dynasty/WeaponEffect_Dynasty_Summoner_Staff.lua",
+    "arcane": "Scripts/WeaponEffects/AI/Dynasty/WeaponEffect_Dynasty_Summoner_Staff.lua",
+    "void": "Scripts/WeaponEffects/AI/Dynasty/WeaponEffect_Dynasty_Summoner_Staff.lua",
+    "lightning": "Scripts/WeaponEffects/AI/Dynasty/WeaponEffect_Dynasty_Summoner_Staff.lua",
+    "ice": "Scripts/WeaponEffects/AI/Dynasty/WeaponEffect_Dynasty_Summoner_Staff.lua",
+    "nature": "Scripts/WeaponEffects/AI/Dynasty/WeaponEffect_Dynasty_Summoner_Staff.lua"
+  },
+  {
+    "weaponEffectId": "AI_Sickle",
+    "default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+    "fire": "Scripts/WeaponEffects/Sickle/WeaponEffect_Sickle_Fire.lua",
+    "arcane": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Magic.lua",
+    "void": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Void.lua",
+    "lightning": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Lightning.lua",
+    "ice": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Ice.lua",
+    "nature": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Nature.lua"
+  }
+]

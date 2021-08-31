@@ -1,0 +1,26 @@
+[
+  {
+    "NPCResponse": "@Topic_Response_Damned_01",
+    "conversationTopicId": "ThoseDamned",
+    "playerPrompt": "@Topic_Prompt_Damned_01",
+    "achievementUnlock": ""
+  },
+  {
+    "NPCResponse": "@Topic_Response_Shipwreck_01",
+    "conversationTopicId": "TheShipwreck",
+    "playerPrompt": "@Topic_Prompt_Shipwreck_01",
+    "achievementUnlock": ""
+  },
+  {
+    "NPCResponse": "@Watcher01_01_Response",
+    "conversationTopicId": "Watcher01_01",
+    "playerPrompt": "@Watcher01_01_Prompt",
+    "achievementUnlock": ""
+  },
+  {
+    "NPCResponse": "@Watcher01_02_Response",
+    "conversationTopicId": "Watcher01_02",
+    "playerPrompt": "@Watcher01_02_Prompt",
+    "achievementUnlock": ""
+  }
+]

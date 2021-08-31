@@ -1,0 +1,56 @@
+[
+  {
+    "song": "NewWorldMarch",
+    "displayName": "Damage \\n Buff",
+    "fileName": "Music/NewWorldMarch.abc",
+    "instruments": "Fife",
+    "buffName": "inspired",
+    "buffEquipSpeed": "5",
+    "buffMaxStack": "5"
+  },
+  {
+    "song": "Beethoven5th",
+    "displayName": "Defense \\n Buff",
+    "fileName": "Music/beesym5.abc",
+    "instruments": "Fife",
+    "buffName": "",
+    "buffEquipSpeed": "",
+    "buffMaxStack": ""
+  },
+  {
+    "song": "supmar",
+    "displayName": "Test Super Mario",
+    "fileName": "Music/supmar.abc",
+    "instruments": "Fife",
+    "buffName": "",
+    "buffEquipSpeed": "",
+    "buffMaxStack": ""
+  },
+  {
+    "song": "flintstones",
+    "displayName": "Test Flinstones",
+    "fileName": "Music/flintstones.abc",
+    "instruments": "Fife",
+    "buffName": "",
+    "buffEquipSpeed": "",
+    "buffMaxStack": ""
+  },
+  {
+    "song": "chopsticks",
+    "displayName": "TestChopsticks",
+    "fileName": "Music/chopsticks.abc",
+    "instruments": "Fife",
+    "buffName": "",
+    "buffEquipSpeed": "",
+    "buffMaxStack": ""
+  },
+  {
+    "song": "NewWorldDrums",
+    "displayName": "Damage\\nBuff",
+    "fileName": "Music/NewWorldMarchDrums.abc",
+    "instruments": "Snare",
+    "buffName": "inspired",
+    "buffEquipSpeed": "5",
+    "buffMaxStack": "5"
+  }
+]

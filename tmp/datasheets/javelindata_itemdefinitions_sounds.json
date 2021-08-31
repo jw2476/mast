@@ -1,0 +1,298 @@
+[
+  {
+    "itemSoundID": "default",
+    "sheathe": "Play_Sheathe_1H_Axe_T1",
+    "unsheathe": "Play_Unsheathe_1H_Axe_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_axe",
+    "sheathe": "Play_Sheathe_1H_Axe_T1",
+    "unsheathe": "Play_Unsheathe_1H_Axe_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_axe_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_1H_Axe_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_club",
+    "sheathe": "Play_Sheathe_1H_Club_T1",
+    "unsheathe": "Play_Unsheathe_1H_Club_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_club_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_1H_Club_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_knife",
+    "sheathe": "Play_Sheathe_1H_Knife_T1",
+    "unsheathe": "Play_Unsheathe_1H_Knife_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_knife_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_1H_Knife_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_melee_default",
+    "sheathe": "Play_Sheathe_1H_Axe_T1",
+    "unsheathe": "Play_Unsheathe_1H_Axe_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_melee_default_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_1H_Axe_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_pick",
+    "sheathe": "Play_Sheathe_1H_Pick_T1",
+    "unsheathe": "Play_Unsheathe_1H_Pick_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_pistol",
+    "sheathe": "Play_Sheathe_1H_Pistol_T1",
+    "unsheathe": "Play_Unsheathe_1H_Pistol_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_pistol_proficient",
+    "sheathe": "Play_Sheathe_1H_Pistol_T2",
+    "unsheathe": "Play_Unsheathe_1H_Pistol_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_rapier",
+    "sheathe": "Play_Sheathe_1H_Rapier",
+    "unsheathe": "Play_Unsheathe_1H_Rapier",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_rapier_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_1H_Sword_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_shielda_metal",
+    "sheathe": "Play_1H_ShieldA_Metal_Sheathe",
+    "unsheathe": "Play_1H_ShieldA_Metal_Unsheathe",
+    "sheatheFLY": "Play_1H_ShieldA_Metal_FLY_Sheathed",
+    "unsheatheFLY": "Play_1H_ShieldA_Metal_FLY_Unsheathed",
+    "defense": "Play_1H_ShieldA_Metal_Defense"
+  },
+  {
+    "itemSoundID": "1h_shielda_wood",
+    "sheathe": "Play_1H_ShieldA_Wood_Sheathe",
+    "unsheathe": "Play_1H_ShieldA_Wood_Unsheathe",
+    "sheatheFLY": "Play_1H_ShieldA_Wood_FLY_Sheathed",
+    "unsheatheFLY": "Play_1H_ShieldA_Wood_FLY_Unsheathed",
+    "defense": "Play_1H_ShieldA_Wood_Defense"
+  },
+  {
+    "itemSoundID": "1h_sickle",
+    "sheathe": "Play_Sheathe_1H_Sickle_T1",
+    "unsheathe": "Play_Unsheathe_1H_Sickle_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_sword",
+    "sheathe": "Play_Sheathe_1H_Sword_T1",
+    "unsheathe": "Play_Unsheathe_1H_Sword_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_sword_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_1H_Sword_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "1h_torch",
+    "sheathe": "Play_Sheathe_1H_Torch_T1",
+    "unsheathe": "Play_Unsheathe_1H_Torch_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_axe",
+    "sheathe": "Play_Sheathe_2H_Axe_T1",
+    "unsheathe": "Play_Unsheathe_2H_Axe_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_axe_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_2H_Axe_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_bow",
+    "sheathe": "Play_Sheathe_2H_Bow_T1",
+    "unsheathe": "Play_Unsheathe_2H_Bow_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_club",
+    "sheathe": "Play_Sheathe_2H_Club_T1",
+    "unsheathe": "Play_Unsheathe_2H_Club_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_club_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_2H_Club_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_greataxe",
+    "sheathe": "Play_Sheathe_2H_GreatAxe_T1",
+    "unsheathe": "Play_Unsheathe_2H_GreatAxe_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_greataxe_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_2H_GreatAxe_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_melee_default",
+    "sheathe": "Play_Sheathe_2H_Axe_T1",
+    "unsheathe": "Play_Unsheathe_2H_Axe_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_melee_default_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_2H_Axe_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_pick",
+    "sheathe": "Play_Sheathe_2H_Pick_T1",
+    "unsheathe": "Play_Unsheathe_2H_Pick_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_rifle",
+    "sheathe": "Play_Sheathe_2H_Musket_T1",
+    "unsheathe": "Play_Unsheathe_2H_Musket_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_spear",
+    "sheathe": "Play_Sheathe_2H_Spear_T1",
+    "unsheathe": "Play_Unsheathe_2H_Spear_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_spear_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_2H_Spear_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_warhammer",
+    "sheathe": "Play_Sheathe_2H_WarHammer_T1",
+    "unsheathe": "Play_Unsheathe_2H_WarHammer_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "2h_warhammer_proficient",
+    "sheathe": "",
+    "unsheathe": "Play_Unsheathe_2H_WarHammer_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "magicstaff",
+    "sheathe": "Play_Sheathe_2H_WarHammer_T1",
+    "unsheathe": "Play_Unsheathe_2H_WarHammer_T2",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  },
+  {
+    "itemSoundID": "magicstaff_life",
+    "sheathe": "Play_Sheathe_2H_StaffLife_T1",
+    "unsheathe": "Play_Unsheathe_2H_StaffLife_T1",
+    "sheatheFLY": "",
+    "unsheatheFLY": "",
+    "defense": "Play_1H_Melee_Block"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "sightID": "wolfsight",
+    "statusEffectToListenFor": "WolfVision",
+    "sightCategoryFlag": "Wolf"
+  },
+  {
+    "sightID": "elksight",
+    "statusEffectToListenFor": "ElkVision",
+    "sightCategoryFlag": "Elk"
+  },
+  {
+    "sightID": "bearsight",
+    "statusEffectToListenFor": "BearVision",
+    "sightCategoryFlag": "Bear"
+  },
+  {
+    "sightID": "turkeysight",
+    "statusEffectToListenFor": "TurkeyVision",
+    "sightCategoryFlag": "Turkey"
+  },
+  {
+    "sightID": "playersight",
+    "statusEffectToListenFor": "PlayerVision",
+    "sightCategoryFlag": "Player"
+  },
+  {
+    "sightID": "allsight",
+    "statusEffectToListenFor": "AllVision",
+    "sightCategoryFlag": "Character"
+  },
+  {
+    "sightID": "allsight_upgrade",
+    "statusEffectToListenFor": "AllVision_Upgrade",
+    "sightCategoryFlag": "Character"
+  },
+  {
+    "sightID": "animals",
+    "statusEffectToListenFor": "AnimalVision",
+    "sightCategoryFlag": "Wolf+Elk+Bear+Turkey"
+  }
+]
