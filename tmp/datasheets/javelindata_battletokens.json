@@ -1,11 +1,11 @@
 [
   {
-    "rank": "0",
+    "rank": 0,
     "displayName": "@battle_token",
-    "maximumInfluence": "1000000",
-    "requiredLevel": "0",
-    "influenceCost": "0",
-    "currencyCost": "0",
+    "maximumInfluence": 1000000,
+    "requiredLevel": 0,
+    "influenceCost": 0,
+    "currencyCost": 0,
     "sanityCheck": "",
     "gameEventId": ""
   }

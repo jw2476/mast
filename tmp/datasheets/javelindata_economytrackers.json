@@ -4,109 +4,109 @@
     "alarmType": "PerHour",
     "thresholdConfig1": "javelin-server.economy-alarm-generated-coin-threshold-1",
     "metricName1": "GeneratedCoinSuspicious",
-    "enableMetric1": "1",
+    "enableMetric1": true,
     "thresholdConfig2": "javelin-server.economy-alarm-generated-coin-threshold-2",
     "metricName2": "GeneratedCoinCatastrophic",
-    "enableMetric2": "1"
+    "enableMetric2": true
   },
   {
     "economyTrackerID": "azothgenerated",
     "alarmType": "PerHour",
     "thresholdConfig1": "javelin-server.economy-alarm-generated-azoth-threshold-1",
     "metricName1": "GeneratedAzothSuspicious",
-    "enableMetric1": "1",
+    "enableMetric1": true,
     "thresholdConfig2": "javelin-server.economy-alarm-generated-azoth-threshold-2",
     "metricName2": "GeneratedAzothCatastrophic",
-    "enableMetric2": "0"
+    "enableMetric2": false
   },
   {
     "economyTrackerID": "xpgenerated",
     "alarmType": "PerHour",
     "thresholdConfig1": "",
     "metricName1": "GeneratedXPSuspicious",
-    "enableMetric1": "1",
+    "enableMetric1": true,
     "thresholdConfig2": "",
     "metricName2": "GeneratedXPCatastrophic",
-    "enableMetric2": "1"
+    "enableMetric2": true
   },
   {
     "economyTrackerID": "itemsgathered",
     "alarmType": "PerHour",
     "thresholdConfig1": "javelin-server.economy-alarm-items-gathered-threshold-1",
     "metricName1": "ItemsGatheredSuspicious",
-    "enableMetric1": "1",
+    "enableMetric1": true,
     "thresholdConfig2": "javelin-server.economy-alarm-items-gathered-threshold-2",
     "metricName2": "ItemsGatheredCatastrophic",
-    "enableMetric2": "1"
+    "enableMetric2": true
   },
   {
     "economyTrackerID": "itemscrafted",
     "alarmType": "PerHour",
     "thresholdConfig1": "javelin-server.economy-alarm-items-crafted-threshold-1",
     "metricName1": "ItemsCraftedSuspicious",
-    "enableMetric1": "1",
+    "enableMetric1": true,
     "thresholdConfig2": "javelin-server.economy-alarm-items-crafted-threshold-2",
     "metricName2": "ItemsCraftedCatastrophic",
-    "enableMetric2": "1"
+    "enableMetric2": true
   },
   {
     "economyTrackerID": "itemslooted",
     "alarmType": "PerHour",
     "thresholdConfig1": "javelin-server.economy-alarm-items-looted-threshold-1",
     "metricName1": "ItemsLootedSuspicious",
-    "enableMetric1": "0",
+    "enableMetric1": false,
     "thresholdConfig2": "javelin-server.economy-alarm-items-looted-threshold-2",
     "metricName2": "ItemsLootedCatastrophic",
-    "enableMetric2": "0"
+    "enableMetric2": false
   },
   {
     "economyTrackerID": "itemsrefined",
     "alarmType": "PerHour",
     "thresholdConfig1": "javelin-server.economy-alarm-items-refined-threshold-1",
     "metricName1": "ItemsRefinedSuspicious",
-    "enableMetric1": "1",
+    "enableMetric1": true,
     "thresholdConfig2": "javelin-server.economy-alarm-items-refined-threshold-2",
     "metricName2": "ItemsRefinedCatastrophic",
-    "enableMetric2": "1"
+    "enableMetric2": true
   },
   {
     "economyTrackerID": "cointransferred",
     "alarmType": "OneTime",
     "thresholdConfig1": "javelin-server.economy-alarm-coin-transferred-threshold-1",
     "metricName1": "CoinTransferredSuspicious",
-    "enableMetric1": "1",
+    "enableMetric1": true,
     "thresholdConfig2": "",
     "metricName2": "",
-    "enableMetric2": ""
+    "enableMetric2": false
   },
   {
     "economyTrackerID": "ailooted",
     "alarmType": "PerHour",
     "thresholdConfig1": "javelin-server.economy-alarm-ai-looted-threshold-1",
     "metricName1": "AILootedSuspicious",
-    "enableMetric1": "1",
+    "enableMetric1": true,
     "thresholdConfig2": "",
     "metricName2": "",
-    "enableMetric2": ""
+    "enableMetric2": false
   },
   {
     "economyTrackerID": "chestslooted",
     "alarmType": "PerHour",
     "thresholdConfig1": "javelin-server.economy-alarm-chests-looted-threshold-1",
     "metricName1": "ChestsLootedSuspicious",
-    "enableMetric1": "1",
+    "enableMetric1": true,
     "thresholdConfig2": "",
     "metricName2": "",
-    "enableMetric2": ""
+    "enableMetric2": false
   },
   {
     "economyTrackerID": "playtimeforlevel",
     "alarmType": "OneTime",
     "thresholdConfig1": "",
     "metricName1": "PlayTimeForLevelSuspicious",
-    "enableMetric1": "1",
+    "enableMetric1": true,
     "thresholdConfig2": "",
     "metricName2": "PlayTimeForLevelCatastrophic",
-    "enableMetric2": "1"
+    "enableMetric2": true
   }
 ]

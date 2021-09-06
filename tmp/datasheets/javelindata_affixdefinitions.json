@@ -6,9 +6,9 @@
     "affixDataWeapon": "AffixWeaponRarityLevel1",
     "affixDataArmor": "AffixArmorRarityLevel1",
     "affixDataMisc": "",
-    "qualityContribution": "3",
-    "gearScoreContribution": "20",
-    "rarity": "1"
+    "qualityContribution": 3,
+    "gearScoreContribution": 20,
+    "rarity": 1
   },
   {
     "affixID": "raritylevel2",
@@ -17,9 +17,9 @@
     "affixDataWeapon": "AffixWeaponRarityLevel2",
     "affixDataArmor": "AffixArmorRarityLevel2",
     "affixDataMisc": "",
-    "qualityContribution": "5",
-    "gearScoreContribution": "30",
-    "rarity": "2"
+    "qualityContribution": 5,
+    "gearScoreContribution": 30,
+    "rarity": 2
   },
   {
     "affixID": "raritylevel3",
@@ -28,9 +28,9 @@
     "affixDataWeapon": "AffixWeaponRarityLevel3",
     "affixDataArmor": "AffixArmorRarityLevel3",
     "affixDataMisc": "",
-    "qualityContribution": "9",
-    "gearScoreContribution": "40",
-    "rarity": "3"
+    "qualityContribution": 9,
+    "gearScoreContribution": 40,
+    "rarity": 3
   },
   {
     "affixID": "enchantfire1",
@@ -39,9 +39,9 @@
     "affixDataWeapon": "AffixWeaponEnchantFire1",
     "affixDataArmor": "",
     "affixDataMisc": "",
-    "qualityContribution": "",
-    "gearScoreContribution": "100",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": 100,
+    "rarity": null
   },
   {
     "affixID": "typelevel1",
@@ -50,9 +50,9 @@
     "affixDataWeapon": "AffixTypeLevel1",
     "affixDataArmor": "AffixTypeLevel1",
     "affixDataMisc": "",
-    "qualityContribution": "",
-    "gearScoreContribution": "",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": null,
+    "rarity": null
   },
   {
     "affixID": "typelevel2",
@@ -61,9 +61,9 @@
     "affixDataWeapon": "AffixTypeLevel2",
     "affixDataArmor": "AffixTypeLevel2",
     "affixDataMisc": "AffixTypeLevel2",
-    "qualityContribution": "",
-    "gearScoreContribution": "50",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": 50,
+    "rarity": null
   },
   {
     "affixID": "typelevel3",
@@ -72,9 +72,9 @@
     "affixDataWeapon": "AffixTypeLevel3",
     "affixDataArmor": "AffixTypeLevel3",
     "affixDataMisc": "AffixTypeLevel3",
-    "qualityContribution": "",
-    "gearScoreContribution": "65",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": 65,
+    "rarity": null
   },
   {
     "affixID": "typelevel4",
@@ -83,9 +83,9 @@
     "affixDataWeapon": "AffixTypeLevel4",
     "affixDataArmor": "AffixTypeLevel4",
     "affixDataMisc": "AffixTypeLevel4",
-    "qualityContribution": "",
-    "gearScoreContribution": "75",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": 75,
+    "rarity": null
   },
   {
     "affixID": "typelevel5",
@@ -94,9 +94,9 @@
     "affixDataWeapon": "AffixTypeLevel5",
     "affixDataArmor": "AffixTypeLevel5",
     "affixDataMisc": "AffixTypeLevel5",
-    "qualityContribution": "",
-    "gearScoreContribution": "85",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": 85,
+    "rarity": null
   },
   {
     "affixID": "wornitem",
@@ -105,9 +105,9 @@
     "affixDataWeapon": "AffixWornItem",
     "affixDataArmor": "AffixWornItem",
     "affixDataMisc": "AffixWornItem",
-    "qualityContribution": "",
-    "gearScoreContribution": "-90",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": -90,
+    "rarity": null
   },
   {
     "affixID": "alchemy2",
@@ -116,9 +116,9 @@
     "affixDataWeapon": "",
     "affixDataArmor": "",
     "affixDataMisc": "AffixAlchemyConsumable2",
-    "qualityContribution": "",
-    "gearScoreContribution": "",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": null,
+    "rarity": null
   },
   {
     "affixID": "alchemy3",
@@ -127,9 +127,9 @@
     "affixDataWeapon": "",
     "affixDataArmor": "",
     "affixDataMisc": "AffixAlchemyConsumable3",
-    "qualityContribution": "",
-    "gearScoreContribution": "",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": null,
+    "rarity": null
   },
   {
     "affixID": "typelevel2shield",
@@ -138,9 +138,9 @@
     "affixDataWeapon": "AffixTypeLevel2Shield",
     "affixDataArmor": "AffixTypeLevel2Shield",
     "affixDataMisc": "AffixTypeLevel2Shield",
-    "qualityContribution": "",
-    "gearScoreContribution": "50",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": 50,
+    "rarity": null
   },
   {
     "affixID": "typelevel3shield",
@@ -149,9 +149,9 @@
     "affixDataWeapon": "AffixTypeLevel3Shield",
     "affixDataArmor": "AffixTypeLevel3Shield",
     "affixDataMisc": "AffixTypeLevel3Shield",
-    "qualityContribution": "",
-    "gearScoreContribution": "65",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": 65,
+    "rarity": null
   },
   {
     "affixID": "typelevel4shield",
@@ -160,9 +160,9 @@
     "affixDataWeapon": "AffixTypeLevel4Shield",
     "affixDataArmor": "AffixTypeLevel4Shield",
     "affixDataMisc": "AffixTypeLevel4Shield",
-    "qualityContribution": "",
-    "gearScoreContribution": "75",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": 75,
+    "rarity": null
   },
   {
     "affixID": "typelevel5shield",
@@ -171,8 +171,8 @@
     "affixDataWeapon": "AffixTypeLevel5Shield",
     "affixDataArmor": "AffixTypeLevel5Shield",
     "affixDataMisc": "AffixTypeLevel5Shield",
-    "qualityContribution": "",
-    "gearScoreContribution": "85",
-    "rarity": ""
+    "qualityContribution": null,
+    "gearScoreContribution": 85,
+    "rarity": null
   }
 ]

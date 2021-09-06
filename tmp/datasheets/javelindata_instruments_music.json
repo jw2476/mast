@@ -5,8 +5,8 @@
     "fileName": "Music/NewWorldMarch.abc",
     "instruments": "Fife",
     "buffName": "inspired",
-    "buffEquipSpeed": "5",
-    "buffMaxStack": "5"
+    "buffEquipSpeed": 5,
+    "buffMaxStack": 5
   },
   {
     "song": "Beethoven5th",
@@ -14,8 +14,8 @@
     "fileName": "Music/beesym5.abc",
     "instruments": "Fife",
     "buffName": "",
-    "buffEquipSpeed": "",
-    "buffMaxStack": ""
+    "buffEquipSpeed": null,
+    "buffMaxStack": null
   },
   {
     "song": "supmar",
@@ -23,8 +23,8 @@
     "fileName": "Music/supmar.abc",
     "instruments": "Fife",
     "buffName": "",
-    "buffEquipSpeed": "",
-    "buffMaxStack": ""
+    "buffEquipSpeed": null,
+    "buffMaxStack": null
   },
   {
     "song": "flintstones",
@@ -32,8 +32,8 @@
     "fileName": "Music/flintstones.abc",
     "instruments": "Fife",
     "buffName": "",
-    "buffEquipSpeed": "",
-    "buffMaxStack": ""
+    "buffEquipSpeed": null,
+    "buffMaxStack": null
   },
   {
     "song": "chopsticks",
@@ -41,8 +41,8 @@
     "fileName": "Music/chopsticks.abc",
     "instruments": "Fife",
     "buffName": "",
-    "buffEquipSpeed": "",
-    "buffMaxStack": ""
+    "buffEquipSpeed": null,
+    "buffMaxStack": null
   },
   {
     "song": "NewWorldDrums",
@@ -50,7 +50,7 @@
     "fileName": "Music/NewWorldMarchDrums.abc",
     "instruments": "Snare",
     "buffName": "inspired",
-    "buffEquipSpeed": "5",
-    "buffMaxStack": "5"
+    "buffEquipSpeed": 5,
+    "buffMaxStack": 5
   }
 ]

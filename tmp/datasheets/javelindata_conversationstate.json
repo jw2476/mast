@@ -2,8 +2,8 @@
   {
     "conversationStateId": "0001_01_CaptainThorpe",
     "conversationType": "Linear_Objective",
-    "isInitialState": "1",
-    "showTopics": "0",
+    "isInitialState": true,
+    "showTopics": false,
     "defaultDialogue": "@0001_01_CaptainThorpe_DD",
     "requiredFaction": "",
     "requiredLevel": "",

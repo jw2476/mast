@@ -2,4793 +2,4793 @@
   {
     "effect Name": "_LOCAL_PLAYER_FACTOR",
     "group": "0",
-    "priority Within Group": "0",
-    "max Number": "0",
-    "priority": "0",
-    "constants": "10"
+    "priority Within Group": 0,
+    "max Number": 0,
+    "priority": 0,
+    "constants": 10
   },
   {
     "effect Name": "_MAX_TOTAL_NUMBER_EMITTERS",
     "group": "0",
-    "priority Within Group": "0",
-    "max Number": "0",
-    "priority": "0",
-    "constants": "1000"
+    "priority Within Group": 0,
+    "max Number": 0,
+    "priority": 0,
+    "constants": 1000
   },
   {
     "effect Name": "_MAX_TOTAL_GROUP_NUMBER_EMITTERS",
     "group": "0",
-    "priority Within Group": "0",
-    "max Number": "0",
-    "priority": "0",
-    "constants": "100"
+    "priority Within Group": 0,
+    "max Number": 0,
+    "priority": 0,
+    "constants": 100
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Blunt_MD_01",
     "group": "Impact_Chr",
-    "priority Within Group": "3",
-    "max Number": "20",
-    "priority": "73",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 20,
+    "priority": 73,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Blunt_LG_01",
     "group": "Impact_Chr",
-    "priority Within Group": "3",
-    "max Number": "20",
-    "priority": "73",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 20,
+    "priority": 73,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Slash_MD_01",
     "group": "Impact_Chr",
-    "priority Within Group": "3",
-    "max Number": "20",
-    "priority": "73",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 20,
+    "priority": 73,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Slash_LG_01",
     "group": "Impact_Chr",
-    "priority Within Group": "3",
-    "max Number": "20",
-    "priority": "73",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 20,
+    "priority": 73,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Projectile_MD_01",
     "group": "Impact_Chr",
-    "priority Within Group": "3",
-    "max Number": "20",
-    "priority": "73",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 20,
+    "priority": 73,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Projectile_LG_01",
     "group": "Impact_Chr",
-    "priority Within Group": "3",
-    "max Number": "20",
-    "priority": "73",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 20,
+    "priority": 73,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Critical_Headshot_01",
     "group": "Impact_Chr",
-    "priority Within Group": "4",
-    "max Number": "20",
-    "priority": "74",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 20,
+    "priority": 74,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOCK.Default_01",
     "group": "Impact_Chr",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "72",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 72,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOCK.Shield_01",
     "group": "Impact_Chr",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "72",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 72,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.CRIT.base_MD",
     "group": "Impact_Chr",
-    "priority Within Group": "4",
-    "max Number": "20",
-    "priority": "74",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 20,
+    "priority": 74,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Impact_Slash_Omni",
     "group": "Impact_Chr",
-    "priority Within Group": "3",
-    "max Number": "20",
-    "priority": "73",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 20,
+    "priority": 73,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Impact_Slash_Trail",
     "group": "Impact_Chr",
-    "priority Within Group": "1",
-    "max Number": "20",
-    "priority": "71",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 20,
+    "priority": 71,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Impact_Blunt_Omni",
     "group": "Impact_Chr",
-    "priority Within Group": "3",
-    "max Number": "20",
-    "priority": "73",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 20,
+    "priority": 73,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.BLOOD.Impact_Blunt_Trail",
     "group": "Impact_Chr",
-    "priority Within Group": "1",
-    "max Number": "20",
-    "priority": "71",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 20,
+    "priority": 71,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts.CRIT.base_MD_cfx_addon",
     "group": "Impact_Chr",
-    "priority Within Group": "2",
-    "max Number": "20",
-    "priority": "72",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 20,
+    "priority": 72,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_Armor.Impact_Slash",
     "group": "Impact_Chr",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "71",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 71,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_Armor.Impact_Blunt",
     "group": "Impact_Chr",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "71",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 71,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_Armor.Impact_Projectile",
     "group": "Impact_Chr",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "71",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 71,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Base.Proj_Impact",
     "group": "Impact_Chr",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "72",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 72,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Base.Proj_NoHit",
     "group": "Impact_Chr",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "71",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 71,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Siege_Impact",
     "group": "Impact_Chr",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "72",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 72,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.GravWell_Impact",
     "group": "Impact_Chr",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "72",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 72,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Proj_Impact",
     "group": "Impact_Chr",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "72",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 72,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Proj_Impact_Heavy",
     "group": "Impact_Chr",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "72",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 72,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Proj_NoHit",
     "group": "Impact_Chr",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "71",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 71,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.Entombed_Dmg",
     "group": "Impact_Chr",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "71",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 71,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Base.Proj_Impact",
     "group": "Impact_Chr",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "72",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 72,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Base.Proj_Impact_Env",
     "group": "Impact_Chr",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "71",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 71,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Protector.Protection_Impact",
     "group": "Impact_Chr",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "71",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 71,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Zoner.Javelin_Impact",
     "group": "Impact_Chr",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "72",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 72,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.CORRUPTCORE.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "5",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 5,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.CORRUPTCORE.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "5",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 5,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.DIRT.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "4",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 4,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.DIRT.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "4",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 4,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.FABRIC.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "4",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 4,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.METAL.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "2",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 2,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.METAL.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "2",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 2,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.SAND.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "4",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 4,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.STONE.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "4",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 4,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.STONE.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "4",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 4,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.WATER.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "2",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 2,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.WATER.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "2",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 2,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.WOOD.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "4",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 4,
+    "constants": null
   },
   {
     "effect Name": "cFX_Impacts_ENV.WOOD.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "4",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 4,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.DIRT.SM_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.DIRT.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.DIRT.MD_02",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.DIRT.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.DIRT.LG_02",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.MUD.SM_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.MUD.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.MUD.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.MUD.LG_02",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.SAND.SM_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.SAND.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.SAND.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.SAND.LG_02",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.STONE.SM_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.STONE.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.STONE.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.WATER.SM_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.WATER.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.WATER.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.WOOD.SM_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.WOOD.MD_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.WOOD.LG_01",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Impacts.WOOD.LG_02",
     "group": "Impact_Env",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "1",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 1,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Energy_01",
     "group": "GRIT",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "84",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 84,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Energy_02",
     "group": "GRIT",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "84",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 84,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Energy_Embers",
     "group": "GRIT",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "80",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 80,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Energy_Bust_01",
     "group": "GRIT",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "81",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 81,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Energy_01b",
     "group": "GRIT",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "84",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 84,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Energy_02b",
     "group": "GRIT",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "84",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 84,
+    "constants": null
   },
   {
     "effect Name": "cFX_GRIT.npc.Wolf_01",
     "group": "GRIT",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "82",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 82,
+    "constants": null
   },
   {
     "effect Name": "cFX_GRIT.npc.Wolf_02",
     "group": "GRIT",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "82",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 82,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Grunt_01",
     "group": "GRIT",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "82",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 82,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Grunt_02",
     "group": "GRIT",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "82",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 82,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Grunt_03",
     "group": "GRIT",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "82",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 82,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Ghost_Bust",
     "group": "GRIT",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "82",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 82,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Elk_01",
     "group": "GRIT",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "81",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 81,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Elk_02",
     "group": "GRIT",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "81",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 81,
+    "constants": null
   },
   {
     "effect Name": "cFX_Players.States.GRIT.Elk_03",
     "group": "GRIT",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "81",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 81,
+    "constants": null
   },
   {
     "effect Name": "cFX_GRIT.npc.Grit_SM_1",
     "group": "GRIT",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "84",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 84,
+    "constants": null
   },
   {
     "effect Name": "cFX_GRIT.npc.Grit_MD_1",
     "group": "GRIT",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "84",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 84,
+    "constants": null
   },
   {
     "effect Name": "cFX_GRIT.npc.Grit_LG_1",
     "group": "GRIT",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "84",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 84,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Bowman.RainOfArrows_Impact",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "103",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 103,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Bowman.Poison_AOE",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "105",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 105,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.Speed_AOE_Bomb_sm",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "101",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 101,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.TrialByFire",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "102",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 102,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Storm_AOE",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "105",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 105,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Siege_AOE_impact_lg",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "105",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 105,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Ultimate_AOE",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "3",
-    "max Number": "3",
-    "priority": "103",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 3,
+    "priority": 103,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.Maelstrom_Reach",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "103",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 103,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.GravWell_Vortex",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "6",
-    "max Number": "10",
-    "priority": "106",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 10,
+    "priority": 106,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.JudgeReach_Pull_5m",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "104",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 104,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.JudgeReach_Pull_8m",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "104",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 104,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Throwing.Infected_AOE",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "105",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 105,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IceShower_AOE",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "105",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 105,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IceShower_AOE_Footer",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "102",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 102,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.Blizzard_AOE",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "106",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 106,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.WindChill_1",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "103",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 103,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Protector.Beacon_AOE_Base",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "6",
-    "max Number": "10",
-    "priority": "106",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 10,
+    "priority": 106,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Protector.LightsEmbrace_targeted",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "103",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 103,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Protector.Protection_Impact_AOE",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "103",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 103,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.HealWave_Hld",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "7",
-    "max Number": "10",
-    "priority": "107",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 10,
+    "priority": 107,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.Divine_Hld",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "103",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 103,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Trapper.Trap_Armed",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "4",
-    "max Number": "10",
-    "priority": "104",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 10,
+    "priority": 104,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Appel_Swipe_Range",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "105",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 105,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Flourish_Swipe",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "105",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 105,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Zoner.Cyclone_Twist",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "105",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 105,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Shield.DefensiveForm_AOE",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "101",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 101,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Wreckingball_impact_AOE",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "102",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 102,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.POD_impact_Align",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "105",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 105,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.Shockwave_Impact_1",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "105",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 105,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.Speed_Burst_Hld",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "103",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 103,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.IceSpike_Sm",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "2",
-    "max Number": "20",
-    "priority": "102",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 20,
+    "priority": 102,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.IceSpike_Lg",
     "group": "PlayerWeapon_AOE",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "102",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 102,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Bowman.RainOfArrows_Ctr",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "42",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 42,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Huntsman.Evasive_Jump",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "41",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 41,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.FlameThrow_Proj_Hld1",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.FlameThrow_Proj_Hld2",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.Speed_Staff_Hld",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.Incinerate_Loop",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.PillarFlame_AOE_impact",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Storm_AOE_Fill",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Whirlwind_Swipe",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Engage_Swipe_Base",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Engage_Swipe_Edge",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Executioner_Swipe",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.Maelstrom_Dmg",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.GravWell_AOE_Upgrade",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.GravWell_Expl",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "47",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 47,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.JudgeReach_Swipe",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Berserk",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Berserk_Loop_2",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Purge",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Feral_Swipe_1",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Feral_Swipe_2",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.DefyDeath_Main",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "8",
-    "max Number": "5",
-    "priority": "48",
-    "constants": ""
+    "priority Within Group": 8,
+    "max Number": 5,
+    "priority": 48,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Ragging_Swipe_1",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Ragging_Swipe_2",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Block",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.Entombed_Hld",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "47",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 47,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.Entombed_Breakout",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.Entombed_Stop",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.WindChill_2",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Protector.Beacon_AOE_Haste",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.SoL_Staff_Cast",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Trapper.Stickybomb_Idle",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Trapper.Stickybomb_explosion01",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "47",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 47,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Trapper.Trap_Activation01",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "47",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 47,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Evasion.Riposte_Tell",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "47",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 47,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Evasion.Riposte_Block",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Evasion.Riposte_Swipe",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Evasion.Evade_Blur",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "20",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 20,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Evasion.AirLunge_Swirl",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Evasion.AirLunge_Stab",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Appel_Swipe_Close",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Flurry_Stab1",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "10",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 10,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Flurry_Stab3",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "10",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 10,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Flurry_Stab5",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "7",
-    "max Number": "10",
-    "priority": "47",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 10,
+    "priority": 47,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Flourish_Stab",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Zoner.Perforate_Stab",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "47",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 47,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Impaler.Sweep_Swipe",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Impaler.Sweep_Stab",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Impaler.Skewer_Stab",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Impaler.VaultKick_Leg",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Shield.LastStand_02",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Shield.LastStand_03",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Shield.Bash_Swipe_mesh",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Shield.Shield.Rush_Streak",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Shield.Shield.Rush_Charge",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Sword.LeapStrike_01",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Sword.Whirl_01",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "47",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 47,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Sword.Reverse_Stab",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "46",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 46,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Sword.Reverse_Swipe",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Blockbreaker_Swoosh_1",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Mightygavel_impact",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Wreckingball_Swipe1",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Wreckingball_impact",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "43",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 43,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.POD_impact_01",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "4",
-    "max Number": "10",
-    "priority": "44",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 10,
+    "priority": 44,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.Clearout_Swipe",
     "group": "PlayerWeapon_Abilities",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "45",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 45,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Bowman.RainOfArrows_Muzzle",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "26",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 26,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Bowman.SpreadShot_Muzzle",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "21",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 21,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Bowman.Poison_Tip",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "2",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 2,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Huntsman.Penetrate_Muzzle",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Base.Primary_Muzzle",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "21",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 21,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Base.Charged_Muzzle",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "21",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 21,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.Incinerate_Charge",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.PillarFlame_AOE_tell",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "7",
-    "max Number": "10",
-    "priority": "27",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 10,
+    "priority": 27,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Siege_Staff_Charge",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Siege_Muzzle",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "21",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 21,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Whirlwind_Tell",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "21",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 21,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Engage_Charge",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Executioner_Tell",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.GravWell_Weapon",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.JudgeReach_Hook",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "24",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 24,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Feral_Tell",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Ragging_Glow",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Throwing.QuickSpin_Glow",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Throwing.Infected_Charge",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Throwing.Distance_Charge",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Primary_Ready",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Heavy_Charging",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Heavy_Charged",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IceShower_Casting",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IcePylon_Hands",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "24",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 24,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IcePylon_ChargeSrt",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IcePylon_ChargeIdle",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "24",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 24,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.Entombed_Srt",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.WindChill_Srt",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "21",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 21,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Base.LightAttack_Charge",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Base.HeavyAttack_Charge",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Protector.Protection_Charge",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.SoL_Staff_Hld",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.Divine_Staff_Hld",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Power_Ready_1",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Power_Ready_2b",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "21",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 21,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Powder_Ready_1",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Powder_Ready_2b",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "21",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 21,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Stopping_Ready_1",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Stopping_Ready_2b",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "21",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 21,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Evasion.AirLunge_Tell",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Evasion.Momentum_Weapon",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "25",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 25,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Appel_Tell",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Flurry_Tell",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Zoner.Cyclone_Srt",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Zoner.Javelin_Ready",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "24",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 24,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Impaler.Skewer_Tell",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Impaler.VaultKick_Dash",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Shield.DefensiveForm_Srt",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "21",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 21,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Sword.LeapStrike_Jump",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Sword.Reverse_Blade",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Blockbreaker_charge_01",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Mightygavel_charged",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Wreckingball_Tell",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.Clearout_Charge",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.POD_Charge",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.Shockwave_charged_01",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.POD_Swipe",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "22",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 22,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.AimCharge_Loop_delay",
     "group": "PlayerWeapon_Tells",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "23",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 23,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Bowman.RainOfArrows_Fill",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Bowman.SpreadShot_MuzzleFlash",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Bowman.Poison_Arrow",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Base.Idle",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Base.Primary_Ready",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Base.Charged_Ready",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Base.Aim_1",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.FlameThrow_Staff_end",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.Speed_Feet_Hld",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.Incinerate_Staff_Loop",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Pyromaniac.Incinerate_Srt",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Embers_Loop_01",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.PillarFlame_Staff_Hld1",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.PillarFlame_Staff_Hld2",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Fire_Shockwave_01",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "18",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 18,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Storm_Staff_Hld1",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Storm_AOE_Decal",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Whirlwind_Weapon",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Engage_Swipe_Sparks",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "4",
-    "max Number": "2",
-    "priority": "19",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 2,
+    "priority": 19,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Engage_Charge_Run",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "2",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 2,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Executioner_Weapon",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Marauder.Executioner_Impact",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.Maelstrom_Flash",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.GravityWell_Particle_Attract",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "4",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 4,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.JudgeReach_Weapon",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "18",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 18,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.JudgeReach_Ground",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Berserk_Loop",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Berserk_Loop_eye",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Purge_Hatchet",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "18",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 18,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Feral_Impact",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.DefyDeath_Particles",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Berserk.Ragging_Flare",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "18",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 18,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Throwing.QuickSpin_Swipe",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "18",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 18,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Throwing.AimTrail",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Throwing.Infected_Muzzle",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Throwing.Distance_Appear",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Idle",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Primary_Muzzle",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Heavy_Muzzle",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Sheathe",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IcePylon_Hands_Energy",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IcePylon_Idle_Main",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IcePylon_Idle_Top",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IcePylon_Death",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.IcePylon_Ult_AOE",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "3",
-    "priority": "18",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 3,
+    "priority": 18,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.Entombed_Stop_Add",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "18",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 18,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Builder.Entombed_Breakout_Add",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "18",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 18,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.WindChill_Muzzle",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.WindChill_Muzzle_Hand",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.WindChill_End",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.IceSpike_Cast",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.IceSpike_Sm_Add",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.IceSpike_Lg_Add",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.Blizzard_Aim",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.Blizzard_Casting",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.Blizzard_Cast",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Tempest.Blizzard_AOE_Add",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "19",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 19,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Base.Idle",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Base.LightAttack_Muzzle",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Base.Staff_Tip_Aura",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Protector.Protection_Muzzle",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Protector.LightsEmbrace_Cast",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.HealWave_Srt",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.HealWave_Staff_Flash",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "18",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 18,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.HealWave_Staff_Hld",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.HealWave_Staff_Hld2",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.HealWave_Staff_Srt_01",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.SoL_Staff_Embers",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Healer.Divine_Staff_Cast",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "18",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 18,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Muzzle_PowerSmoke",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Muzzle_CleanSmoke",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Power_Swipe_1",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Power_Ready_2a",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Powder_Swipe_1",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Powder_Ready_2a",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Swipe_1",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Stopping_Ready_2a",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Trapper.Fuse01",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "19",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 19,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Trapper.Stickybomb_Idle_Smoke",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Evasion.Evade_Flash",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Evasion.AirLunge_Body",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "19",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 19,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Flurry_SpeedLines",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "20",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 20,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Flourish_Weapon",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Zoner.Cyclone_Weapon",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Impaler.Sweep_Weapon",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Shield.DefensiveForm_Particles",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "16",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 16,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Shield.LastStand_Spark",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_StraightSword_Shield.Bash_Swipe",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "19",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 19,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Blockbreaker_End",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Mightygavel_impact_Align",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "19",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 19,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_Juggernaut.Wreckingball_Charged",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.POD_impact_02",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.Shockwave_trail_01",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Warhammer_CrowdCrusher.Clearout_Swipe_Sparks",
     "group": "PlayerWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "17",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 17,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Mesh.Swipe_Fast_1",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "35",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 35,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Mesh.Swipe_Mid_1",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "35",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 35,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Mesh.Swipe_Slow_1",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "35",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 35,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Mesh.Spin_Fast_1",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "31",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 31,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Mesh.Mesh.Swipe_Wide_Mid",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "35",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 35,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Swipe_MD",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "33",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 33,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Swipe_LG",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "33",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 33,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Swipe_XLG",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "33",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 33,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Swipe_Power_SM",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "33",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 33,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Swipe_Power_MD",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "33",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 33,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Stab_SM",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "32",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 32,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Stab_MD",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "32",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 32,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Melee.Stab_LG",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "32",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 32,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Range.Bow_Muzzleflash",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "1",
-    "max Number": "2",
-    "priority": "31",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 2,
+    "priority": 31,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Range.Arrow_Charge",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "1",
-    "max Number": "1",
-    "priority": "31",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 1,
+    "priority": 31,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Range.Arrow_Charge_Flash",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "1",
-    "max Number": "1",
-    "priority": "31",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 1,
+    "priority": 31,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Range.Musket_MuzzleSmoke",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "32",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 32,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Range.Musket_MuzzleFlash",
     "group": "PlayerWeapon_Default",
-    "priority Within Group": "3",
-    "max Number": "10",
-    "priority": "33",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 10,
+    "priority": 33,
+    "constants": null
   },
   {
     "effect Name": "wFX_Spear_Zoner.Javelin_Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.HitScan_Power",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.HitScan_Powder",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.HitScan_Stopping",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "5",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 5,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Trapper.Fuse01_throw",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "93",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 93,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Trapper.Trap_Proj",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "93",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 93,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Protector.Protection_Proj",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "8",
-    "max Number": "10",
-    "priority": "95",
-    "constants": ""
+    "priority Within Group": 8,
+    "max Number": 10,
+    "priority": 95,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Protector.Beacon_Proj",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "8",
-    "max Number": "10",
-    "priority": "95",
-    "constants": ""
+    "priority Within Group": 8,
+    "max Number": 10,
+    "priority": 95,
+    "constants": null
   },
   {
     "effect Name": "wFX_LifeStaff_Base.LightAttack_proj",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "10",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 10,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Proj_Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "10",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 10,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_IceGaunt_Base.Proj_Trail_Heavy",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "10",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 10,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Throwing.Infected_Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "93",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 93,
+    "constants": null
   },
   {
     "effect Name": "wFX_Hatchet_Throwing.QuickSpin_Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "93",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 93,
+    "constants": null
   },
   {
     "effect Name": "wFX_GreatAxe_Reaper.GravWell_proj",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "93",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 93,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_FlameSummoner.Siege_Proj_1",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "6",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 6,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Base.Proj_Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "6",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 6,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_FireStaff_Base.Proj_Charge_Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "6",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 6,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Huntsman.Penetrate_Proj_Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "6",
-    "max Number": "6",
-    "priority": "93",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 6,
+    "priority": 93,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Huntsman.Penetrate_Proj_Tip",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "10",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 10,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_Bow_Bowman.Poison_Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "10",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 10,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Range.Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "7",
-    "max Number": "20",
-    "priority": "94",
-    "constants": ""
+    "priority Within Group": 7,
+    "max Number": 20,
+    "priority": 94,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Range.Trail_Power",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "4",
-    "max Number": "20",
-    "priority": "91",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 20,
+    "priority": 91,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Range.HitScan",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "6",
-    "max Number": "20",
-    "priority": "93",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 20,
+    "priority": 93,
+    "constants": null
   },
   {
     "effect Name": "wFX_Default_Range.HitScan_Clean",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Range.Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Range.HitScan",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Range.HitScan_Clean",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "91",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 91,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Range.Chain",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "89",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 89,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Range.Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Range.HitScan",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Range.HitScan_Clean",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "91",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 91,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Range.Chain",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "89",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 89,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Range.Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Range.HitScan",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Range.HitScan_Clean",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "91",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 91,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Range.Chain",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "89",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 89,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Range.Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Range.HitScan",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Range.HitScan_Clean",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "91",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 91,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Range.Chain",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "89",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 89,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Range.Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Range.HitScan",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Range.HitScan_Clean",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "91",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 91,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Range.Chain",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "89",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 89,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Range.Trail",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Range.HitScan",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "92",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 92,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Range.HitScan_Clean",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "91",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 91,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Range.Chain",
     "group": "PlayerWeapon_Projectile",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "89",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 89,
+    "constants": null
   },
   {
     "effect Name": "cFX_Potions.HP_Restore.Base_01",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "6",
-    "max Number": "10",
-    "priority": "64",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 10,
+    "priority": 64,
+    "constants": null
   },
   {
     "effect Name": "cFX_Potions.HP_Restore.Base_Loop",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "6",
-    "max Number": "5",
-    "priority": "64",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 5,
+    "priority": 64,
+    "constants": null
   },
   {
     "effect Name": "cFX_Potions.Cure.Base_01",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "61",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 61,
+    "constants": null
   },
   {
     "effect Name": "cFX_Potions.MP_Restore.Base_01",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "3",
-    "max Number": "3",
-    "priority": "61",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 3,
+    "priority": 61,
+    "constants": null
   },
   {
     "effect Name": "cFX_Potions.Buff.Base_01",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "59",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 59,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Empower.Base_Head",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "60",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 60,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Empower.Base_Arm_01",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "3",
-    "max Number": "10",
-    "priority": "61",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 10,
+    "priority": 61,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Empower.Base_Arm_02",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "63",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 63,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Haste.Base_01",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "63",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 63,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Fortify.Base_01",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "5",
-    "max Number": "20",
-    "priority": "63",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 20,
+    "priority": 63,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Power_Charged",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "62",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 62,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Powder_Charged",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "62",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 62,
+    "constants": null
   },
   {
     "effect Name": "wFX_Musket_Sharpshooter.Stopping_Charged",
     "group": "StatusEffects_Buffs",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "62",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 62,
+    "constants": null
   },
   {
     "effect Name": "cFX_Player_States.Breakout_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "5",
-    "max Number": "2",
-    "priority": "79",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 2,
+    "priority": 79,
+    "constants": null
   },
   {
     "effect Name": "cFX_Player_States.GuardBreak_Impact_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "75",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 75,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Poison.Loop_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "10",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 10,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Poison.Arm_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "3",
-    "max Number": "10",
-    "priority": "77",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 10,
+    "priority": 77,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Wound.Head_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "76",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 76,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Wound.Base_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "10",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 10,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Wound.Start_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "10",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 10,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Burn.Loop_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "10",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 10,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Burn.Decal_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "2",
-    "max Number": "12",
-    "priority": "76",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 12,
+    "priority": 76,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Burn.Decal_02",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "2",
-    "max Number": "12",
-    "priority": "76",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 12,
+    "priority": 76,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Drown.Loop_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "10",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 10,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Rend.Loop_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "20",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 20,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Stun.Loop_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "3",
-    "max Number": "10",
-    "priority": "77",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 10,
+    "priority": 77,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Slow.Loop_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "20",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 20,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Root.Loop_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "20",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 20,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Root.Loop_02",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "20",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 20,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Disease.Loop_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "10",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 10,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Silence.Base_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "20",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 20,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Weaken.Base_Head",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "76",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 76,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Weaken.Base_Arm_01",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "77",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 77,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Weaken.Base_Arm_02",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "4",
-    "max Number": "15",
-    "priority": "78",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 15,
+    "priority": 78,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Corruption.Base",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "76",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 76,
+    "constants": null
   },
   {
     "effect Name": "cFX_StatusEffects.Blight.Base",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "76",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 76,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Range.Chain_Body",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "75",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 75,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Range.Chain_Body",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "75",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 75,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Range.Chain_Body",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "75",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 75,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Range.Chain_Body",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "75",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 75,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Range.Chain_Body",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "75",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 75,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Range.Chain_Body",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "75",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 75,
+    "constants": null
   },
   {
     "effect Name": "wFX_Rapier_Bleed.Flourish_BleedBurst",
     "group": "StatusEffects_Debuff",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "75",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 75,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.Spear.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.Sword.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.GreatAxe.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.GreatAxe.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.Rapier.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.Warhammer.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.Hatchet.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.Hatchet.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.Hatchet.Spin_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.Hatchet.Spin_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.Swipe_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Melee.Stab_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Range.Musket.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Range.Musket.MuzzleFlash",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Range.Bow.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Arcane_Range.Bow.Tip_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.Spear.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.Sword.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.GreatAxe.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.GreatAxe.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.Rapier.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.Warhammer.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.Hatchet.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.Hatchet.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.Hatchet.Spin_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.Hatchet.Spin_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.Swipe_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Melee.Stab_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Range.Musket.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Range.Musket.MuzzleFlash",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Range.Bow.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Fire_Range.Bow.Tip_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.Spear.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.Sword.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.GreatAxe.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.GreatAxe.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.Rapier.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.Warhammer.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.Hatchet.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.Hatchet.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.Hatchet.Spin_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.Hatchet.Spin_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.Swipe_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Melee.Stab_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Range.Musket.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Range.Musket.MuzzleFlash",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Range.Bow.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Ice_Range.Bow.Tip_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.Spear.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.Sword.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.GreatAxe.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.GreatAxe.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.Rapier.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.Warhammer.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.Hatchet.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.Hatchet.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.Hatchet.Spin_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.Hatchet.Spin_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.Swipe_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Melee.Stab_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Range.Musket.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Range.Musket.MuzzleFlash",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Range.Bow.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Lightning_Range.Bow.Tip_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.Spear.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.Sword.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.GreatAxe.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.GreatAxe.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.Rapier.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.Warhammer.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.Hatchet.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.Hatchet.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.Hatchet.Spin_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.Hatchet.Spin_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.Swipe_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Melee.Stab_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Range.Musket.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Range.Musket.MuzzleFlash",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Range.Bow.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Nature_Range.Bow.Tip_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.Spear.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.Sword.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.GreatAxe.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.GreatAxe.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.Rapier.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.Warhammer.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.Hatchet.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.Hatchet.Idle_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.Hatchet.Spin_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.Hatchet.Spin_02",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.Swipe_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Melee.Stab_MD",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Range.Musket.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "6",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 6,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Range.Musket.MuzzleFlash",
     "group": "Weapon_Perks",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "28",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 28,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Range.Bow.Idle_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "29",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 29,
+    "constants": null
   },
   {
     "effect Name": "wFX_Void_Range.Bow.Tip_01",
     "group": "Weapon_Perks",
-    "priority Within Group": "3",
-    "max Number": "6",
-    "priority": "30",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 6,
+    "priority": 30,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Loot_Sparkles_small",
     "group": "Loot",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "67",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 67,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Loot_Sparkles_green",
     "group": "Loot",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "67",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 67,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Loot_Sparkles_blue",
     "group": "Loot",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "67",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 67,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Loot_Sparkles_purple",
     "group": "Loot",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "67",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 67,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Loot_Sparkles_orange",
     "group": "Loot",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "67",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 67,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Chest_Big_Celebration01",
     "group": "Loot",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "68",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 68,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Chest_Small_Celebration01",
     "group": "Loot",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "68",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 68,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Chest_Medium_Celebration01",
     "group": "Loot",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "68",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 68,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Chest_Big_Celebration02",
     "group": "Loot",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "68",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 68,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Settlement_Small_Celebration01",
     "group": "Loot",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "68",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 68,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Settlement_Medium_Celebration01",
     "group": "Loot",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "68",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 68,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Settlement_Medium_Celebration02",
     "group": "Loot",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "68",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 68,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Loot_Quest_Small",
     "group": "Loot",
-    "priority Within Group": "5",
-    "max Number": "40",
-    "priority": "70",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 40,
+    "priority": 70,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Loot_Quest_Small_Depleted",
     "group": "Loot",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "66",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 66,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Loot_Quest_Medium",
     "group": "Loot",
-    "priority Within Group": "5",
-    "max Number": "40",
-    "priority": "70",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 40,
+    "priority": 70,
+    "constants": null
   },
   {
     "effect Name": "cFX_Loot.Loot_Quest_Medium_Depleted",
     "group": "Loot",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "66",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 66,
+    "constants": null
   },
   {
     "effect Name": "Bld_Global_Ambience.Tower_Beams_01",
     "group": "Shrine_Beams",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "65",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 65,
+    "constants": null
   },
   {
     "effect Name": "Bld_Global_Ambience.Tower_Beams",
     "group": "Shrine_Beams",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "65",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 65,
+    "constants": null
   },
   {
     "effect Name": "Bld_Global_Ambience.Tower_Beams_white",
     "group": "Shrine_Beams",
-    "priority Within Group": "1",
-    "max Number": "10",
-    "priority": "65",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 10,
+    "priority": 65,
+    "constants": null
   },
   {
     "effect Name": "Siege.AOE.Fire_AOE",
     "group": "WarWeapon_AOE",
-    "priority Within Group": "5",
-    "max Number": "3",
-    "priority": "100",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 3,
+    "priority": 100,
+    "constants": null
   },
   {
     "effect Name": "Siege_Horn.Shockwave",
     "group": "WarWeapon_AOE",
-    "priority Within Group": "3",
-    "max Number": "2",
-    "priority": "98",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 2,
+    "priority": 98,
+    "constants": null
   },
   {
     "effect Name": "Siege_Ballista.Shoot.Projectile",
     "group": "WarWeapon_Projectile",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "86",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 86,
+    "constants": null
   },
   {
     "effect Name": "Siege_FireDropper.Lava_pour01",
     "group": "WarWeapon_Projectile",
-    "priority Within Group": "3",
-    "max Number": "2",
-    "priority": "87",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 2,
+    "priority": 87,
+    "constants": null
   },
   {
     "effect Name": "Siege_RepeaterTurret.Overheat_01",
     "group": "WarWeapon_Projectile",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "85",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 85,
+    "constants": null
   },
   {
     "effect Name": "Siege_RepeaterTurret.Trail",
     "group": "WarWeapon_Projectile",
-    "priority Within Group": "3",
-    "max Number": "10",
-    "priority": "87",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 10,
+    "priority": 87,
+    "constants": null
   },
   {
     "effect Name": "Siege_Cannon.Shoot.Projectile",
     "group": "WarWeapon_Projectile",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "87",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 87,
+    "constants": null
   },
   {
     "effect Name": "Siege_BombTurret.Trail_01",
     "group": "WarWeapon_Projectile",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "87",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 87,
+    "constants": null
   },
   {
     "effect Name": "Destruction_Siege.Dmg_State_01",
     "group": "WarWeapon_DES",
-    "priority Within Group": "1",
-    "max Number": "5",
-    "priority": "49",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 5,
+    "priority": 49,
+    "constants": null
   },
   {
     "effect Name": "Destruction_Siege.Dmg_Smoke_01",
     "group": "WarWeapon_DES",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "50",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 50,
+    "constants": null
   },
   {
     "effect Name": "Destruction_Siege.Dmg_Smoke_02",
     "group": "WarWeapon_DES",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "50",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 50,
+    "constants": null
   },
   {
     "effect Name": "Destruction_Siege.Dmg_Smoke_03",
     "group": "WarWeapon_DES",
-    "priority Within Group": "2",
-    "max Number": "5",
-    "priority": "50",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 5,
+    "priority": 50,
+    "constants": null
   },
   {
     "effect Name": "Destruction_Siege.Dmg_Fire_01",
     "group": "WarWeapon_DES",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "53",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 53,
+    "constants": null
   },
   {
     "effect Name": "Destruction_Siege.Tur_Generic_DES",
     "group": "WarWeapon_DES",
-    "priority Within Group": "10",
-    "max Number": "10",
-    "priority": "58",
-    "constants": ""
+    "priority Within Group": 10,
+    "max Number": 10,
+    "priority": 58,
+    "constants": null
   },
   {
     "effect Name": "Destruction_Siege.Dmg_Hit_01",
     "group": "WarWeapon_DES",
-    "priority Within Group": "6",
-    "max Number": "10",
-    "priority": "54",
-    "constants": ""
+    "priority Within Group": 6,
+    "max Number": 10,
+    "priority": 54,
+    "constants": null
   },
   {
     "effect Name": "Siege_BombTurret.Impact",
     "group": "WarWeapon_DES",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "53",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 53,
+    "constants": null
   },
   {
     "effect Name": "Siege_Horn.Ready",
     "group": "WarWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "7",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 7,
+    "constants": null
   },
   {
     "effect Name": "Siege_Cannon.Shoot.MuzzleFlash_PVP",
     "group": "WarWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "8",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 8,
+    "constants": null
   },
   {
     "effect Name": "Siege_Cannon.Shoot.MuzzleFlash_01",
     "group": "WarWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "8",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 8,
+    "constants": null
   },
   {
     "effect Name": "Siege_RepeaterTurret.MuzzleFlash",
     "group": "WarWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "10",
-    "priority": "8",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 10,
+    "priority": 8,
+    "constants": null
   },
   {
     "effect Name": "Siege.AOE.Impact_01",
     "group": "WarWeapon_Additive",
-    "priority Within Group": "5",
-    "max Number": "5",
-    "priority": "10",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 5,
+    "priority": 10,
+    "constants": null
   },
   {
     "effect Name": "Siege.AOE.Fire_01",
     "group": "WarWeapon_Additive",
-    "priority Within Group": "10",
-    "max Number": "3",
-    "priority": "15",
-    "constants": ""
+    "priority Within Group": 10,
+    "max Number": 3,
+    "priority": 15,
+    "constants": null
   },
   {
     "effect Name": "Siege.AOE.Fire_Distortion_01",
     "group": "WarWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "1",
-    "priority": "6",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 1,
+    "priority": 6,
+    "constants": null
   },
   {
     "effect Name": "Siege.AOE.Fire_remains_01",
     "group": "WarWeapon_Additive",
-    "priority Within Group": "1",
-    "max Number": "1",
-    "priority": "6",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 1,
+    "priority": 6,
+    "constants": null
   },
   {
     "effect Name": "Siege_FireDropper.Lava_ready01",
     "group": "WarWeapon_Additive",
-    "priority Within Group": "2",
-    "max Number": "10",
-    "priority": "7",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 10,
+    "priority": 7,
+    "constants": null
   },
   {
     "effect Name": "Siege_Ballista.Shoot.MuzzleFlash_01",
     "group": "WarWeapon_Additive",
-    "priority Within Group": "3",
-    "max Number": "10",
-    "priority": "8",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 10,
+    "priority": 8,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.Line_1",
     "group": "Fishing",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "40",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 40,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.Line_2",
     "group": "Fishing",
-    "priority Within Group": "5",
-    "max Number": "10",
-    "priority": "40",
-    "constants": ""
+    "priority Within Group": 5,
+    "max Number": 10,
+    "priority": 40,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.Fail",
     "group": "Fishing",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "37",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 37,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.Splash_01",
     "group": "Fishing",
-    "priority Within Group": "3",
-    "max Number": "5",
-    "priority": "38",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 5,
+    "priority": 38,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.Idle_01",
     "group": "Fishing",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "37",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 37,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.Nibble",
     "group": "Fishing",
-    "priority Within Group": "1",
-    "max Number": "3",
-    "priority": "36",
-    "constants": ""
+    "priority Within Group": 1,
+    "max Number": 3,
+    "priority": 36,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.Bite",
     "group": "Fishing",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "39",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 39,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.HotSpot_1_On",
     "group": "Fishing",
-    "priority Within Group": "3",
-    "max Number": "10",
-    "priority": "38",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 10,
+    "priority": 38,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.HotSpot_1_Off",
     "group": "Fishing",
-    "priority Within Group": "3",
-    "max Number": "10",
-    "priority": "38",
-    "constants": ""
+    "priority Within Group": 3,
+    "max Number": 10,
+    "priority": 38,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.Fighting",
     "group": "Fishing",
-    "priority Within Group": "4",
-    "max Number": "5",
-    "priority": "39",
-    "constants": ""
+    "priority Within Group": 4,
+    "max Number": 5,
+    "priority": 39,
+    "constants": null
   },
   {
     "effect Name": "cFX_Fishing.Tired",
     "group": "Fishing",
-    "priority Within Group": "2",
-    "max Number": "3",
-    "priority": "37",
-    "constants": ""
+    "priority Within Group": 2,
+    "max Number": 3,
+    "priority": 37,
+    "constants": null
   }
 ]

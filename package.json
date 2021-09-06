@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/cli-progress": "^3.9.2",
     "@types/glob": "^7.1.4",
     "@types/inquirer": "^7.3.3",
     "@types/node": "^16.6.1",
+    "cli-progress": "^3.9.0",
     "fast-xml-parser": "^3.19.0",
     "glob": "^7.1.7",
     "inquirer": "^8.1.2",

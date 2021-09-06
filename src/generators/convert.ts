@@ -53,7 +53,18 @@ async function convertDatasheet(fileName: string) {
         let row = {}
         for (let numColumn = 0; numColumn < numColumns; numColumn++) {
             let offset = bytes.readInt32LE(0x5c + numColumns * 12 + numRow * rowSize + numColumn * 8)
-            row[columns[numColumn].name] = readString(offset)
+            const stringValue = readString(offset)
+            if (![1,2,3].includes(columns[numColumn].type)) console.log(columns[numColumn].type)
+
+            if (columns[numColumn].type === 1) {
+                row[columns[numColumn].name] = stringValue
+            } else if (columns[numColumn].type === 2) {
+                row[columns[numColumn].name] = parseFloat(stringValue)
+            } else if (columns[numColumn].type === 3) {
+                row[columns[numColumn].name] = stringValue === "1"
+            }
+
+
         }
         table.push(row)
     }
@@ -76,7 +87,9 @@ async function convertDatasheet(fileName: string) {
     for (let row of table) {
         for (let key of Object.keys(row)) {
             if (key.endsWith("ID")) {
-                row[key] = row[key].toLowerCase()
+                try {
+                    row[key] = row[key].toLowerCase()
+                } catch {}
             }
             if (lowercasify[fileName]?.includes(key)) {
                 row[key] = row[key].toLowerCase()

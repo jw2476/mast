@@ -1,11 +1,13 @@
 export type IngredientType = undefined | "Category_Only" | "Item" | "Currency"
 
-export type CraftingDatasheet = [{
+export type RawRecipe = {
     recipeID: string
     craftingCategory: string
     tradeskill: string
     recipeLevel: number
     outputQty: number
+    isProcedural: boolean
+    baseTier: number
 
     ingredient1: string
     type1: IngredientType
@@ -37,4 +39,6 @@ export type CraftingDatasheet = [{
 
     cooldownSeconds: number
     cooldownQuantity: number
-}]
+}
+
+export type CraftingDatasheet = [RawRecipe]

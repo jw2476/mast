@@ -1,121 +1,121 @@
 [
   {
     "missionWeightId": "RAID_slot_1",
-    "slotNumber": "1",
-    "isPvpSlot": "",
+    "slotNumber": 1,
+    "isPvpSlot": false,
     "missionGoalType": "Raid",
-    "weight": "9000"
+    "weight": 9000
   },
   {
     "missionWeightId": "EXPEDITION_RAID_slot_1",
-    "slotNumber": "1",
-    "isPvpSlot": "",
+    "slotNumber": 1,
+    "isPvpSlot": false,
     "missionGoalType": "Log",
-    "weight": "1000"
+    "weight": 1000
   },
   {
     "missionWeightId": "LOOT_slot_1",
-    "slotNumber": "1",
-    "isPvpSlot": "",
+    "slotNumber": 1,
+    "isPvpSlot": false,
     "missionGoalType": "Loot",
-    "weight": "1"
+    "weight": 1
   },
   {
     "missionWeightId": "HUNT_slot_1",
-    "slotNumber": "1",
-    "isPvpSlot": "",
+    "slotNumber": 1,
+    "isPvpSlot": false,
     "missionGoalType": "Hunt",
-    "weight": "1"
+    "weight": 1
   },
   {
     "missionWeightId": "LOOT_slot_2",
-    "slotNumber": "2",
-    "isPvpSlot": "",
+    "slotNumber": 2,
+    "isPvpSlot": false,
     "missionGoalType": "Loot",
-    "weight": "9000"
+    "weight": 9000
   },
   {
     "missionWeightId": "EXPEDITION_LOOT_slot_2",
-    "slotNumber": "2",
-    "isPvpSlot": "",
+    "slotNumber": 2,
+    "isPvpSlot": false,
     "missionGoalType": "Harvest",
-    "weight": "1500"
+    "weight": 1500
   },
   {
     "missionWeightId": "RAID_slot_2",
-    "slotNumber": "2",
-    "isPvpSlot": "",
+    "slotNumber": 2,
+    "isPvpSlot": false,
     "missionGoalType": "Raid",
-    "weight": "1"
+    "weight": 1
   },
   {
     "missionWeightId": "HUNT_slot_2",
-    "slotNumber": "2",
-    "isPvpSlot": "",
+    "slotNumber": 2,
+    "isPvpSlot": false,
     "missionGoalType": "Hunt",
-    "weight": "1"
+    "weight": 1
   },
   {
     "missionWeightId": "EXPEDITION_RAID_slot_2",
-    "slotNumber": "2",
-    "isPvpSlot": "",
+    "slotNumber": 2,
+    "isPvpSlot": false,
     "missionGoalType": "Log",
-    "weight": "1"
+    "weight": 1
   },
   {
     "missionWeightId": "HUNT_slot_3",
-    "slotNumber": "3",
-    "isPvpSlot": "",
+    "slotNumber": 3,
+    "isPvpSlot": false,
     "missionGoalType": "Hunt",
-    "weight": "9000"
+    "weight": 9000
   },
   {
     "missionWeightId": "EXPEDITION_RAID_slot_3",
-    "slotNumber": "3",
-    "isPvpSlot": "",
+    "slotNumber": 3,
+    "isPvpSlot": false,
     "missionGoalType": "Log",
-    "weight": "20000000"
+    "weight": 20000000
   },
   {
     "missionWeightId": "EXPEDITION_LOOT_slot_3",
-    "slotNumber": "3",
-    "isPvpSlot": "",
+    "slotNumber": 3,
+    "isPvpSlot": false,
     "missionGoalType": "Harvest",
-    "weight": "1000"
+    "weight": 1000
   },
   {
     "missionWeightId": "RAID_slot_3",
-    "slotNumber": "3",
-    "isPvpSlot": "",
+    "slotNumber": 3,
+    "isPvpSlot": false,
     "missionGoalType": "Raid",
-    "weight": "1"
+    "weight": 1
   },
   {
     "missionWeightId": "LOOT_slot_3",
-    "slotNumber": "3",
-    "isPvpSlot": "",
+    "slotNumber": 3,
+    "isPvpSlot": false,
     "missionGoalType": "Loot",
-    "weight": "1"
+    "weight": 1
   },
   {
     "missionWeightId": "PVP_SPY_slot 1",
-    "slotNumber": "1",
-    "isPvpSlot": "1",
+    "slotNumber": 1,
+    "isPvpSlot": true,
     "missionGoalType": "Espionage",
-    "weight": "10000"
+    "weight": 10000
   },
   {
     "missionWeightId": "PVP_CONTROL_slot_2",
-    "slotNumber": "2",
-    "isPvpSlot": "1",
+    "slotNumber": 2,
+    "isPvpSlot": true,
     "missionGoalType": "Control",
-    "weight": "10000"
+    "weight": 10000
   },
   {
     "missionWeightId": "PVP_POACH_slot_3",
-    "slotNumber": "3",
-    "isPvpSlot": "1",
+    "slotNumber": 3,
+    "isPvpSlot": true,
     "missionGoalType": "Poach",
-    "weight": "10000"
+    "weight": 10000
   }
 ]

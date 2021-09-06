@@ -1,7 +1,7 @@
 [
   {
     "uniqueTagID": "lumberjack",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@store_tree_splitter_name",
     "description": "@store_tree_splitter_description",
     "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image03_portrait.png",
@@ -11,7 +11,7 @@
   },
   {
     "uniqueTagID": "smolderingscarlet_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@smolderingscarlet_dye_name",
     "description": "@smolderingscarlet_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye49_Portrait_SmolderingScarlet.png",
@@ -21,7 +21,7 @@
   },
   {
     "uniqueTagID": "runic_jackal",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@runic_jackal_name",
     "description": "@runic_jackal_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_RunicJackal.png",
@@ -31,7 +31,7 @@
   },
   {
     "uniqueTagID": "crescent_fang",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@crescent_fang_name",
     "description": "@crescent_fang_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_CrecentFang.png",
@@ -41,7 +41,7 @@
   },
   {
     "uniqueTagID": "rainbow_tiger",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@rainbow_tiger_name",
     "description": "@rainbow_tiger_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_RainbowTiger.png",
@@ -51,7 +51,7 @@
   },
   {
     "uniqueTagID": "arm_flex",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@arm_flex_name",
     "description": "@arm_flex_description",
     "portraitImage": "lyshineui/images/mtx/mtx_product_images/emote_Portrait_ArmFlex.png",
@@ -61,7 +61,7 @@
   },
   {
     "uniqueTagID": "sublimebone_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@sublimebone_dye_name",
     "description": "@sublimebone_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye37_Portrait_SublimeBone.png",
@@ -71,7 +71,7 @@
   },
   {
     "uniqueTagID": "greengrass_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@greengrass_dye_name",
     "description": "@greengrass_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye90_Portrait_GreenGrass.png",
@@ -81,7 +81,7 @@
   },
   {
     "uniqueTagID": "icon_crest_pack_merriment",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@Icon_Crest_Pack_Merriment_name",
     "description": "@Icon_Crest_Pack_Merriment_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Merriment.png",
@@ -91,7 +91,7 @@
   },
   {
     "uniqueTagID": "entitlementskin_medium_angel",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@EntitlementSkin_Medium_Angel_name",
     "description": "@EntitlementSkin_Medium_Angel_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_AegisOfProvidence.png",
@@ -101,7 +101,7 @@
   },
   {
     "uniqueTagID": "entitlementskin_anglesdemon_warhammer",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@EntitlementSkin_AnglesDemon_WarHammer_name",
     "description": "@EntitlementSkin_AnglesDemon_WarHammer_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DestroyersWrath.png",
@@ -111,7 +111,7 @@
   },
   {
     "uniqueTagID": "galaxy_rabbit",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@galaxy_rabbit_name",
     "description": "@galaxy_rabbit_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_GalaxyHare.png",
@@ -121,7 +121,7 @@
   },
   {
     "uniqueTagID": "eyesonyou",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@eyesonyou_name",
     "description": "@eyesonyou_description",
     "portraitImage": "lyshineui/images/mtx/mtx_product_images/emote_Portrait_EyesOnYou.png",
@@ -131,7 +131,7 @@
   },
   {
     "uniqueTagID": "rouge_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@rouge_dye_name",
     "description": "@rouge_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye55_Portrait_Rouge.png",
@@ -141,7 +141,7 @@
   },
   {
     "uniqueTagID": "hiddenstream_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@hiddenstream_dye_name",
     "description": "@hiddenstream_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye104_Portrait_HiddenStream.png",
@@ -151,7 +151,7 @@
   },
   {
     "uniqueTagID": "icon_crest_pack_smugglers",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@Icon_Crest_Pack_Smugglers_name",
     "description": "@Icon_Crest_Pack_Smugglers_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Smugglers.png",
@@ -161,7 +161,7 @@
   },
   {
     "uniqueTagID": "butterflywing_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@butterflywing_dye_name",
     "description": "@butterflywing_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Portrait_ButterflyWing.png",
@@ -171,7 +171,7 @@
   },
   {
     "uniqueTagID": "entitlementskin_greataxe_fenrirsfury",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@fenrirsfury_name",
     "description": "@fenrirsfury_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FenrirsFury.png",
@@ -181,7 +181,7 @@
   },
   {
     "uniqueTagID": "agelessbronze_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@ageless_bronze_dye_name",
     "description": "@ageless_bronze_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye62_Portrait_AgelessBronze.png",
@@ -191,7 +191,7 @@
   },
   {
     "uniqueTagID": "entitlementskin_light_demon",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@EntitlementSkin_Light_Demon_name",
     "description": "@EntitlementSkin_Light_Demon_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_CambionHusk.png",
@@ -201,7 +201,7 @@
   },
   {
     "uniqueTagID": "twitch_pirate_itemskin",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@twitch_pirate_itemskin_name",
     "description": "@twitch_pirate_itemskin_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Pirate.png",
@@ -211,7 +211,7 @@
   },
   {
     "uniqueTagID": "entitlementskin_heavy_angel",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@EntitlementSkin_Heavy_Angel_name",
     "description": "@EntitlementSkin_Heavy_Angel_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_RighteousGuardian.png",
@@ -221,7 +221,7 @@
   },
   {
     "uniqueTagID": "twitch_robinhood_itemskin",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@twitch_robinhood_itemskin_name",
     "description": "@twitch_robinhood_itemskin_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Robinhood.png",
@@ -231,7 +231,7 @@
   },
   {
     "uniqueTagID": "runic_bear",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@runic_bear_name",
     "description": "@runic_bear_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_RunicBear.png",
@@ -241,7 +241,7 @@
   },
   {
     "uniqueTagID": "runic_fox",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@runic_fox_name",
     "description": "@runic_fox_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_RunicFox.png",
@@ -251,7 +251,7 @@
   },
   {
     "uniqueTagID": "entitlementskin_specialcorruptedvar1",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@EntitlementSkin_SpecialCorruptedVar1_name",
     "description": "@EntitlementSkin_SpecialCorruptedVar1_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_SpecialCorrupted.png",
@@ -261,7 +261,7 @@
   },
   {
     "uniqueTagID": "icon_crest_pack_animalhead",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@Icon_Crest_Pack_AnimalHead_name",
     "description": "@Icon_Crest_Pack_AnimalHead_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_AnimalHeads.png",
@@ -271,7 +271,7 @@
   },
   {
     "uniqueTagID": "icon_crest_pack_fulldeck",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@Icon_Crest_Pack_FullDeck_name",
     "description": "@Icon_Crest_Pack_FullDeck_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_FullDeck.png",
@@ -281,7 +281,7 @@
   },
   {
     "uniqueTagID": "icon_crest_pack_gesture",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@Icon_Crest_Pack_Gesture_name",
     "description": "@Icon_Crest_Pack_Gesture_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Gesture.png",
@@ -291,7 +291,7 @@
   },
   {
     "uniqueTagID": "twitch_pirate_crestpack",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@twitch_pirate_itemskin_name",
     "description": "@twitch_pirate_itemskin_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Pirate.png",
@@ -301,7 +301,7 @@
   },
   {
     "uniqueTagID": "icon_crest_pack_robinhood",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@Icon_Crest_Pack_RobinHood_name",
     "description": "@Icon_Crest_Pack_RobinHood_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_RobinHood.png",
@@ -311,7 +311,7 @@
   },
   {
     "uniqueTagID": "icon_crest_pack_thespain",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@Icon_Crest_Pack_Thespain_name",
     "description": "@Icon_Crest_Pack_Thespain_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Thespian.png",
@@ -321,7 +321,7 @@
   },
   {
     "uniqueTagID": "icon_crest_pack_weaponmaster",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@Icon_Crest_Pack_WeaponMaster_name",
     "description": "@Icon_Crest_Pack_WeaponMaster_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_WeaponMaster.png",
@@ -331,7 +331,7 @@
   },
   {
     "uniqueTagID": "primeblue_dye",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@primeblue_dye_name",
     "description": "@primeblue_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye4_Portrait_PrimeBlue.png",
@@ -341,7 +341,7 @@
   },
   {
     "uniqueTagID": "gold_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@gold_dye_name",
     "description": "@gold_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye6_Portrait_LustrousGold.png",
@@ -351,7 +351,7 @@
   },
   {
     "uniqueTagID": "amazonorange_dye",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@amazonorange_dye_name",
     "description": "@amazonorange_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye22_Portrait_AmazonOrange.png",
@@ -361,7 +361,7 @@
   },
   {
     "uniqueTagID": "twitchpurple_dye",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@twitchpurple_dye_name",
     "description": "@twitchpurple_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye23_Portrait_TwitchPurple.png",
@@ -371,7 +371,7 @@
   },
   {
     "uniqueTagID": "shipgray_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@shipgray_dye_name",
     "description": "@shipgray_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye27_Portrait_ShipGray.png",
@@ -381,7 +381,7 @@
   },
   {
     "uniqueTagID": "softcoal_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@softcoal_dye_name",
     "description": "@softcoal_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye29_Portrait_SoftCoal.png",
@@ -391,7 +391,7 @@
   },
   {
     "uniqueTagID": "blemishedpearl_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@blemishedpearl_dye_name",
     "description": "@blemishedpearl_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye36_Portrait_BlemishedPearl.png",
@@ -401,7 +401,7 @@
   },
   {
     "uniqueTagID": "sandalwood_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@sandalwood_dye_name",
     "description": "@sandalwood_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye42_Portrait_Sandalwood.png",
@@ -411,7 +411,7 @@
   },
   {
     "uniqueTagID": "bleached_cofee_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@bleached_cofee_dye_name",
     "description": "@bleached_cofee_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye48_Portrait_BleachedCoffee.png",
@@ -421,7 +421,7 @@
   },
   {
     "uniqueTagID": "blood_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@blood_dye_name",
     "description": "@blood_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye50_Portrait_Blood.png",
@@ -431,7 +431,7 @@
   },
   {
     "uniqueTagID": "viola_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@viola_dye_name",
     "description": "@viola_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye56_Portrait_Viola.png",
@@ -441,7 +441,7 @@
   },
   {
     "uniqueTagID": "burntsienna_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@burntsienna_dye_name",
     "description": "@burntsienna_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye69_Portrait_BurntSienna.png",
@@ -451,7 +451,7 @@
   },
   {
     "uniqueTagID": "silt_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@silt_dye_name",
     "description": "@silt_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye74_Portrait_Silt.png",
@@ -461,7 +461,7 @@
   },
   {
     "uniqueTagID": "blond_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@blond_dye_name",
     "description": "@blond_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye79_Portrait_Blond.png",
@@ -471,7 +471,7 @@
   },
   {
     "uniqueTagID": "sushigreen_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@sushigreen_dye_name",
     "description": "@sushigreen_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye85_Portrait_SushiGreen.png",
@@ -481,7 +481,7 @@
   },
   {
     "uniqueTagID": "keylime_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@keylime_dye_name",
     "description": "@keylime_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye88_Portrait_KeyLime.png",
@@ -491,7 +491,7 @@
   },
   {
     "uniqueTagID": "forestgreen_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@forestgreen_dye_name",
     "description": "@forestgreen_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye89_Portrait_ForestGreen.png",
@@ -501,7 +501,7 @@
   },
   {
     "uniqueTagID": "mantis_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@mantis_dye_name",
     "description": "@mantis_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye94_Portrait_Mantis.png",
@@ -511,7 +511,7 @@
   },
   {
     "uniqueTagID": "angelicsatin_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@angelicsatin_dye_name",
     "description": "@angelicsatin_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye100_Portrait_AngelicSatin.png",
@@ -521,7 +521,7 @@
   },
   {
     "uniqueTagID": "tradewind_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@tradewind_dye_name",
     "description": "@tradewind_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye103_Portrait_Tradewind.png",
@@ -531,7 +531,7 @@
   },
   {
     "uniqueTagID": "bluedsteel_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@bluedsteel_dye_name",
     "description": "@bluedsteel_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye109_Portrait_BluedSteel.png",
@@ -541,7 +541,7 @@
   },
   {
     "uniqueTagID": "supremesaphire_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@supremesaphire_dye_name",
     "description": "@supremesaphire_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye112_Portrait_SupremeSaphire.png",
@@ -551,7 +551,7 @@
   },
   {
     "uniqueTagID": "fiercecobalt_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@fiercecobalt_dye_name",
     "description": "@fiercecobalt_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye113_Portrait_FierceCobalt.png",
@@ -561,7 +561,7 @@
   },
   {
     "uniqueTagID": "springgrape_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@springgrape_dye_name",
     "description": "@springgrape_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye117_Portrait_SpringGrape.png",
@@ -571,7 +571,7 @@
   },
   {
     "uniqueTagID": "tranquilblossom_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@tranquilblossom_dye_name",
     "description": "@tranquilblossom_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye121_Portrait_TranquilBlossom.png",
@@ -581,7 +581,7 @@
   },
   {
     "uniqueTagID": "deepvelvet_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@deepvelvet_dye_name",
     "description": "@deepvelvet_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye123_Portrait_DeepVelvet.png",
@@ -591,7 +591,7 @@
   },
   {
     "uniqueTagID": "crushedberry_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@crushedberry_dye_name",
     "description": "@crushedberry_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye124_Portrait_CrushedBerry.png",
@@ -601,7 +601,7 @@
   },
   {
     "uniqueTagID": "lavender_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@lavender_dye_name",
     "description": "@lavender_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye130_Portrait_Lavender.png",
@@ -611,7 +611,7 @@
   },
   {
     "uniqueTagID": "twitch_robinhood_emote_blowkiss",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@twitch_robinhood_emote_blowkiss_name",
     "description": "@twitch_robinhood_emote_blowkiss_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_BlowKiss.png",
@@ -621,7 +621,7 @@
   },
   {
     "uniqueTagID": "coin_toss",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@coin_toss_name",
     "description": "@coin_toss_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_CoinToss.png",
@@ -631,7 +631,7 @@
   },
   {
     "uniqueTagID": "applause",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@applause_name",
     "description": "@applause_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_CourteousApplause.png",
@@ -641,7 +641,7 @@
   },
   {
     "uniqueTagID": "twitch_robinhood_emote_fingerwag",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@twitch_robinhood_emote_fingerwag_name",
     "description": "@twitch_robinhood_emote_fingerwag_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_FingerWag.png",
@@ -651,7 +651,7 @@
   },
   {
     "uniqueTagID": "twitch_pirate_emote_piratestance",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@twitch_pirate_emote_piratestance_name",
     "description": "@twitch_pirate_emote_piratestance_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_PirateStance.png",
@@ -661,7 +661,7 @@
   },
   {
     "uniqueTagID": "twitch_pirate_emote_throat",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@twitch_pirate_emote_throat_name",
     "description": "@twitch_pirate_emote_throat_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_ThroatSlit.png",
@@ -671,7 +671,7 @@
   },
   {
     "uniqueTagID": "thumbs",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@thumbs_name",
     "description": "@thumbs_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Thumbs.png",
@@ -681,7 +681,7 @@
   },
   {
     "uniqueTagID": "dragons_coil",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@dragons_coil_name",
     "description": "@dragons_coil_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/shield_Portrait_DragonCoil.png",
@@ -691,7 +691,7 @@
   },
   {
     "uniqueTagID": "entitlementskin_anglesdemon_spear",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@EntitlementSkin_AnglesDemon_Spear_name",
     "description": "@EntitlementSkin_AnglesDemon_Spear_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DivineVengeance.png",
@@ -701,7 +701,7 @@
   },
   {
     "uniqueTagID": "entitlementskin_anglesdemon_firestaff",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@EntitlementSkin_AnglesDemon_FireStaff_name",
     "description": "@EntitlementSkin_AnglesDemon_FireStaff_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FireBrimstone.png",
@@ -711,7 +711,7 @@
   },
   {
     "uniqueTagID": "twitch_pirate_weapon_sword",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@twitch_pirate_weapon_sword_name",
     "description": "@twitch_pirate_weapon_sword_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Gravestakes.png",
@@ -721,7 +721,7 @@
   },
   {
     "uniqueTagID": "entitlementskin_anglesdemon_lifestaff",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@EntitlementSkin_AnglesDemon_LifeStaff_name",
     "description": "@EntitlementSkin_AnglesDemon_LifeStaff_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_HarmonicRestoration.png",
@@ -731,7 +731,7 @@
   },
   {
     "uniqueTagID": "howl_at_dawn",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@howl_at_dawn_name",
     "description": "@howl_at_dawn_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_HowlAtDawn.png",
@@ -741,7 +741,7 @@
   },
   {
     "uniqueTagID": "twin_wolves",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@twin_wolves_name",
     "description": "@twin_wolves_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_TwinWolves.png",
@@ -751,7 +751,7 @@
   },
   {
     "uniqueTagID": "silver_dye",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@silver_dye_name",
     "description": "@silver_dye_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye58_Portrait_Silver.png",
@@ -761,7 +761,7 @@
   },
   {
     "uniqueTagID": "bundle_starter",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@Bundle_Starter_name",
     "description": "@Bundle_Starter_description",
     "portraitImage": "",
@@ -771,7 +771,7 @@
   },
   {
     "uniqueTagID": "bundle_weapon_runic",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@Bundle_Weapon_Runic_name",
     "description": "@Bundle_Weapon_Runic_description",
     "portraitImage": "",
@@ -781,7 +781,7 @@
   },
   {
     "uniqueTagID": "bundle_armor_runic",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@Bundle_Armor_Runic_name",
     "description": "@Bundle_Armor_Runic_description",
     "portraitImage": "",
@@ -791,7 +791,7 @@
   },
   {
     "uniqueTagID": "bundle_weapon_good_evil",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@Bundle_Weapon_Good_Evil_name",
     "description": "@Bundle_Weapon_Good_Evil_description",
     "portraitImage": "",
@@ -801,7 +801,7 @@
   },
   {
     "uniqueTagID": "bundle_armor_good_evil",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@Bundle_Armor_Good_Evil_name",
     "description": "@Bundle_Armor_Good_Evil_description",
     "portraitImage": "",
@@ -811,7 +811,7 @@
   },
   {
     "uniqueTagID": "bundle_decor_pirate",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "@Bundle_Decor_Pirate_name",
     "description": "@Bundle_Decor_Pirate_description",
     "portraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_Pirate.png",
@@ -821,7 +821,7 @@
   },
   {
     "uniqueTagID": "bundle_emote_launch",
-    "isEnabled": "0",
+    "isEnabled": 0,
     "displayName": "@Bundle_Emote_Launch_name",
     "description": "@Bundle_Emote_Launch_description",
     "portraitImage": "",
@@ -831,7 +831,7 @@
   },
   {
     "uniqueTagID": "marks_of_fortune_5000",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "Marks of Fortune",
     "description": "Marks of Fortune",
     "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image02_portrait.png",
@@ -841,7 +841,7 @@
   },
   {
     "uniqueTagID": "marks_of_fortune_11000",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "Marks of Fortune",
     "description": "Marks of Fortune",
     "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image10_portrait.png",
@@ -851,7 +851,7 @@
   },
   {
     "uniqueTagID": "marks_of_fortune_23000",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "Marks of Fortune",
     "description": "Marks of Fortune",
     "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image11_portrait.png",
@@ -861,7 +861,7 @@
   },
   {
     "uniqueTagID": "marks_of_fortune_40250",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "Marks of Fortune",
     "description": "Marks of Fortune",
     "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image12_portrait.png",
@@ -871,7 +871,7 @@
   },
   {
     "uniqueTagID": "marks_of_fortune_60000",
-    "isEnabled": "1",
+    "isEnabled": 1,
     "displayName": "Marks of Fortune",
     "description": "Marks of Fortune",
     "portraitImage": "lyshineui/images/mtx/placeholder_mtx_images/placeholder_image12_portrait.png",

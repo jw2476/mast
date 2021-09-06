@@ -1,4 +1,4 @@
-import {crafting} from "./generators/crafting";
+import crafting from "./generators/crafting";
 import {convert} from "./generators/convert";
 
 convert().then(() => {

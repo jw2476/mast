@@ -1,8 +1,8 @@
 [
   {
-    "rank": "0",
+    "rank": 0,
     "displayName": "@owg_factiontokens_1",
-    "maximumInfluence": "3000",
+    "maximumInfluence": 3000,
     "requiredLevel": "",
     "influenceCost": "",
     "currencyCost": "",
@@ -11,9 +11,9 @@
     "gameEventId": ""
   },
   {
-    "rank": "1",
+    "rank": 1,
     "displayName": "@owg_factiontokens_1",
-    "maximumInfluence": "10000",
+    "maximumInfluence": 10000,
     "requiredLevel": "",
     "influenceCost": "",
     "currencyCost": "",
@@ -22,9 +22,9 @@
     "gameEventId": ""
   },
   {
-    "rank": "2",
+    "rank": 2,
     "displayName": "@owg_factiontokens_1",
-    "maximumInfluence": "15000",
+    "maximumInfluence": 15000,
     "requiredLevel": "",
     "influenceCost": "",
     "currencyCost": "",
@@ -33,9 +33,9 @@
     "gameEventId": ""
   },
   {
-    "rank": "3",
+    "rank": 3,
     "displayName": "@owg_factiontokens_1",
-    "maximumInfluence": "20000",
+    "maximumInfluence": 20000,
     "requiredLevel": "",
     "influenceCost": "",
     "currencyCost": "",
@@ -44,9 +44,9 @@
     "gameEventId": ""
   },
   {
-    "rank": "4",
+    "rank": 4,
     "displayName": "@owg_factiontokens_1",
-    "maximumInfluence": "25000",
+    "maximumInfluence": 25000,
     "requiredLevel": "",
     "influenceCost": "",
     "currencyCost": "",

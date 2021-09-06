@@ -1,440 +1,440 @@
 [
   {
-    "ID": "1",
+    "ID": 1,
     "abilityID": "ability_sword_reversestab",
-    "time": "20",
+    "time": 20,
     "weaponTag": "Sword"
   },
   {
-    "ID": "2",
+    "ID": 2,
     "abilityID": "ability_sword_whirlingblade",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Sword"
   },
   {
-    "ID": "3",
+    "ID": 3,
     "abilityID": "ability_sword_rush",
-    "time": "20",
+    "time": 20,
     "weaponTag": "Sword"
   },
   {
-    "ID": "4",
+    "ID": 4,
     "abilityID": "ability_sword_bash",
-    "time": "25",
+    "time": 25,
     "weaponTag": "Sword"
   },
   {
-    "ID": "5",
+    "ID": 5,
     "abilityID": "ability_sword_finalstand",
-    "time": "45",
+    "time": 45,
     "weaponTag": "Sword"
   },
   {
-    "ID": "6",
+    "ID": 6,
     "abilityID": "ability_sword_leapingstrike",
-    "time": "25",
+    "time": 25,
     "weaponTag": "Sword"
   },
   {
-    "ID": "7",
+    "ID": 7,
     "abilityID": "ability_greataxe_whirlwind",
-    "time": "30",
+    "time": 30,
     "weaponTag": "GreatAxe"
   },
   {
-    "ID": "8",
+    "ID": 8,
     "abilityID": "ability_greataxe_charge",
-    "time": "20",
+    "time": 20,
     "weaponTag": "GreatAxe"
   },
   {
-    "ID": "9",
+    "ID": 9,
     "abilityID": "ability_greataxe_executioner",
-    "time": "25",
+    "time": 25,
     "weaponTag": "GreatAxe"
   },
   {
-    "ID": "10",
+    "ID": 10,
     "abilityID": "ability_greataxe_reap",
-    "time": "18",
+    "time": 18,
     "weaponTag": "GreatAxe"
   },
   {
-    "ID": "11",
+    "ID": 11,
     "abilityID": "ability_greataxe_maelstorm",
-    "time": "20",
+    "time": 20,
     "weaponTag": "GreatAxe"
   },
   {
-    "ID": "12",
+    "ID": 12,
     "abilityID": "ability_greataxe_gravitywell",
-    "time": "30",
+    "time": 30,
     "weaponTag": "GreatAxe"
   },
   {
-    "ID": "13",
+    "ID": 13,
     "abilityID": "ability_warhammer_armorbreaker",
-    "time": "12",
+    "time": 12,
     "weaponTag": "Warhammer"
   },
   {
-    "ID": "14",
+    "ID": 14,
     "abilityID": "ability_warhammer_mightygavel",
-    "time": "22",
+    "time": 22,
     "weaponTag": "Warhammer"
   },
   {
-    "ID": "15",
+    "ID": 15,
     "abilityID": "ability_warhammer_wreckingball",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Warhammer"
   },
   {
-    "ID": "16",
+    "ID": 16,
     "abilityID": "ability_warhammer_clearout",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Warhammer"
   },
   {
-    "ID": "17",
+    "ID": 17,
     "abilityID": "ability_warhammer_shockwave",
-    "time": "20",
+    "time": 20,
     "weaponTag": "Warhammer"
   },
   {
-    "ID": "18",
+    "ID": 18,
     "abilityID": "ability_warhammer_pathofdestiny",
-    "time": "22",
+    "time": 22,
     "weaponTag": "Warhammer"
   },
   {
-    "ID": "19",
+    "ID": 19,
     "abilityID": "ability_hatchet_socialdistancing",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Axe"
   },
   {
-    "ID": "20",
+    "ID": 20,
     "abilityID": "ability_hatchet_rendingthrow",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Axe"
   },
   {
-    "ID": "21",
+    "ID": 21,
     "abilityID": "ability_hatchet_infectedthrow",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Axe"
   },
   {
-    "ID": "22",
+    "ID": 22,
     "abilityID": "ability_hatchet_berserk",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Axe"
   },
   {
-    "ID": "23",
+    "ID": 23,
     "abilityID": "ability_hatchet_feralrush",
-    "time": "12",
+    "time": 12,
     "weaponTag": "Axe"
   },
   {
-    "ID": "24",
+    "ID": 24,
     "abilityID": "ability_hatchet_ragingtorrent",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Axe"
   },
   {
-    "ID": "25",
+    "ID": 25,
     "abilityID": "ability_musket_powershot",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Rifle"
   },
   {
-    "ID": "26",
+    "ID": 26,
     "abilityID": "ability_musket_shootersstance",
-    "time": "20",
+    "time": 20,
     "weaponTag": "Rifle"
   },
   {
-    "ID": "27",
+    "ID": 27,
     "abilityID": "ability_musket_powderburn",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Rifle"
   },
   {
-    "ID": "28",
+    "ID": 28,
     "abilityID": "ability_musket_traps",
-    "time": "20",
+    "time": 20,
     "weaponTag": "Rifle"
   },
   {
-    "ID": "29",
+    "ID": 29,
     "abilityID": "ability_musket_stoppingpower",
-    "time": "18",
+    "time": 18,
     "weaponTag": "Rifle"
   },
   {
-    "ID": "30",
+    "ID": 30,
     "abilityID": "ability_musket_stickybomb",
-    "time": "12",
+    "time": 12,
     "weaponTag": "Rifle"
   },
   {
-    "ID": "31",
+    "ID": 31,
     "abilityID": "ability_bow_rapidshot",
-    "time": "20",
+    "time": 20,
     "weaponTag": "Bow"
   },
   {
-    "ID": "32",
+    "ID": 32,
     "abilityID": "ability_bow_evadeshot",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Bow"
   },
   {
-    "ID": "33",
+    "ID": 33,
     "abilityID": "ability_bow_penetratingshot",
-    "time": "18",
+    "time": 18,
     "weaponTag": "Bow"
   },
   {
-    "ID": "34",
+    "ID": 34,
     "abilityID": "ability_bow_splintershot",
-    "time": "22",
+    "time": 22,
     "weaponTag": "Bow"
   },
   {
-    "ID": "35",
+    "ID": 35,
     "abilityID": "ability_bow_poisonshot",
-    "time": "35",
+    "time": 35,
     "weaponTag": "Bow"
   },
   {
-    "ID": "36",
+    "ID": 36,
     "abilityID": "ability_bow_rainofarrows",
-    "time": "25",
+    "time": 25,
     "weaponTag": "Bow"
   },
   {
-    "ID": "37",
+    "ID": 37,
     "abilityID": "ability_lifestaff_divineembrace",
-    "time": "6",
+    "time": 6,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "38",
+    "ID": 38,
     "abilityID": "ability_lifestaff_scaredground",
-    "time": "20",
+    "time": 20,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "39",
+    "ID": 39,
     "abilityID": "ability_lifestaff_splashoflight",
-    "time": "15",
+    "time": 15,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "40",
+    "ID": 40,
     "abilityID": "ability_lifestaff_orbofprotection",
-    "time": "10",
+    "time": 10,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "41",
+    "ID": 41,
     "abilityID": "ability_lifestaff_lightsembrace",
-    "time": "4",
+    "time": 4,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "42",
+    "ID": 42,
     "abilityID": "ability_lifestaff_beacon",
-    "time": "35",
+    "time": 35,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "43",
+    "ID": 43,
     "abilityID": "ability_firestaff_fireball",
-    "time": "15",
+    "time": 15,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "44",
+    "ID": 44,
     "abilityID": "ability_firestaff_pillaroffire",
-    "time": "10",
+    "time": 10,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "45",
+    "ID": 45,
     "abilityID": "ability_firestaff_meteorshower",
-    "time": "18",
+    "time": 18,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "46",
+    "ID": 46,
     "abilityID": "ability_firestaff_burnout",
-    "time": "20",
+    "time": 20,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "47",
+    "ID": 47,
     "abilityID": "ability_firestaff_incinerate",
-    "time": "12",
+    "time": 12,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "48",
+    "ID": 48,
     "abilityID": "ability_firestaff_flamethrower",
-    "time": "8",
+    "time": 8,
     "weaponTag": "MagicStaff"
   },
   {
-    "ID": "49",
+    "ID": 49,
     "abilityID": "ability_spear_javelin",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Spear"
   },
   {
-    "ID": "50",
+    "ID": 50,
     "abilityID": "ability_spear_skewer",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Spear"
   },
   {
-    "ID": "51",
+    "ID": 51,
     "abilityID": "ability_spear_perforate",
-    "time": "12",
+    "time": 12,
     "weaponTag": "Spear"
   },
   {
-    "ID": "52",
+    "ID": 52,
     "abilityID": "ability_spear_sweep",
-    "time": "10",
+    "time": 10,
     "weaponTag": "Spear"
   },
   {
-    "ID": "53",
+    "ID": 53,
     "abilityID": "ability_spear_cyclone",
-    "time": "12",
+    "time": 12,
     "weaponTag": "Spear"
   },
   {
-    "ID": "54",
+    "ID": 54,
     "abilityID": "ability_spear_vaultkick",
-    "time": "15",
+    "time": 15,
     "weaponTag": "Spear"
   },
   {
-    "ID": "55",
+    "ID": 55,
     "abilityID": "ability_rapier_slash",
-    "time": "11",
+    "time": 11,
     "weaponTag": "Rapier"
   },
   {
-    "ID": "56",
+    "ID": 56,
     "abilityID": "ability_rapier_flurry",
-    "time": "16",
+    "time": 16,
     "weaponTag": "Rapier"
   },
   {
-    "ID": "57",
+    "ID": 57,
     "abilityID": "ability_rapier_flourish",
-    "time": "20",
+    "time": 20,
     "weaponTag": "Rapier"
   },
   {
-    "ID": "58",
+    "ID": 58,
     "abilityID": "ability_rapier_riposte",
-    "time": "20",
+    "time": 20,
     "weaponTag": "Rapier"
   },
   {
-    "ID": "59",
+    "ID": 59,
     "abilityID": "ability_rapier_lunge",
-    "time": "16",
+    "time": 16,
     "weaponTag": "Rapier"
   },
   {
-    "ID": "60",
+    "ID": 60,
     "abilityID": "ability_rapier_evasion",
-    "time": "6",
+    "time": 6,
     "weaponTag": "Rapier"
   },
   {
-    "ID": "61",
+    "ID": 61,
     "abilityID": "ability_rapier_aerial_lunge_intro",
-    "time": "17",
+    "time": 17,
     "weaponTag": "Rapier"
   },
   {
-    "ID": "62",
+    "ID": 62,
     "abilityID": "icemagic_spikes",
-    "time": "10",
+    "time": 10,
     "weaponTag": "MagicGauntlet"
   },
   {
-    "ID": "63",
+    "ID": 63,
     "abilityID": "icemagic_icestorm",
-    "time": "20",
+    "time": 20,
     "weaponTag": "MagicGauntlet"
   },
   {
-    "ID": "64",
+    "ID": 64,
     "abilityID": "icemagic_windchill",
-    "time": "15",
+    "time": 15,
     "weaponTag": "MagicGauntlet"
   },
   {
-    "ID": "65",
+    "ID": 65,
     "abilityID": "icemagic_entombed",
-    "time": "30",
+    "time": 30,
     "weaponTag": "MagicGauntlet"
   },
   {
-    "ID": "66",
+    "ID": 66,
     "abilityID": "icemagic_iceshower",
-    "time": "20",
+    "time": 20,
     "weaponTag": "MagicGauntlet"
   },
   {
-    "ID": "67",
+    "ID": 67,
     "abilityID": "icemagic_icepylon",
-    "time": "10",
+    "time": 10,
     "weaponTag": "MagicGauntlet"
   },
   {
-    "ID": "68",
+    "ID": 68,
     "abilityID": "ability_voidgauntlet_voidblade",
-    "time": "25",
+    "time": 25,
     "weaponTag": "VoidGauntlet"
   },
   {
-    "ID": "69",
+    "ID": 69,
     "abilityID": "ability_voidgauntlet_nullchamber",
-    "time": "20",
+    "time": 20,
     "weaponTag": "VoidGauntlet"
   },
   {
-    "ID": "70",
+    "ID": 70,
     "abilityID": "ability_voidgauntlet_scream",
-    "time": "15",
+    "time": 15,
     "weaponTag": "VoidGauntlet"
   },
   {
-    "ID": "71",
+    "ID": 71,
     "abilityID": "ability_voidgauntlet_decayingorb",
-    "time": "15",
+    "time": 15,
     "weaponTag": "VoidGauntlet"
   },
   {
-    "ID": "72",
+    "ID": 72,
     "abilityID": "ability_voidgauntlet_drainingtether",
-    "time": "25",
+    "time": 25,
     "weaponTag": "VoidGauntlet"
   },
   {
-    "ID": "73",
+    "ID": 73,
     "abilityID": "ability_voidgauntlet_essencerupture",
-    "time": "15",
+    "time": 15,
     "weaponTag": "VoidGauntlet"
   }
 ]

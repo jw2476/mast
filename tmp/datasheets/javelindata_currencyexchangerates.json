@@ -2,55 +2,55 @@
   {
     "conversionID": "repairt1_repairt2",
     "fromCurrencyId": "Repair_T1",
-    "fromCurrencyIsCategoricalProgression": "1",
-    "fromCurrencyQuantity": "1",
+    "fromCurrencyIsCategoricalProgression": true,
+    "fromCurrencyQuantity": 1,
     "toCurrencyId": "Repair_T2",
-    "toCurrencyIsCategoricalProgression": "1",
-    "toCurrencyQuantity": "1"
+    "toCurrencyIsCategoricalProgression": true,
+    "toCurrencyQuantity": 1
   },
   {
     "conversionID": "repairt2_repairt3",
     "fromCurrencyId": "Repair_T2",
-    "fromCurrencyIsCategoricalProgression": "1",
-    "fromCurrencyQuantity": "1",
+    "fromCurrencyIsCategoricalProgression": true,
+    "fromCurrencyQuantity": 1,
     "toCurrencyId": "Repair_T3",
-    "toCurrencyIsCategoricalProgression": "1",
-    "toCurrencyQuantity": "1"
+    "toCurrencyIsCategoricalProgression": true,
+    "toCurrencyQuantity": 1
   },
   {
     "conversionID": "repairt3_repairt4",
     "fromCurrencyId": "Repair_T3",
-    "fromCurrencyIsCategoricalProgression": "1",
-    "fromCurrencyQuantity": "1",
+    "fromCurrencyIsCategoricalProgression": true,
+    "fromCurrencyQuantity": 1,
     "toCurrencyId": "Repair_T4",
-    "toCurrencyIsCategoricalProgression": "1",
-    "toCurrencyQuantity": "1"
+    "toCurrencyIsCategoricalProgression": true,
+    "toCurrencyQuantity": 1
   },
   {
     "conversionID": "repairt4_repairt5",
     "fromCurrencyId": "Repair_T4",
-    "fromCurrencyIsCategoricalProgression": "1",
-    "fromCurrencyQuantity": "1",
+    "fromCurrencyIsCategoricalProgression": true,
+    "fromCurrencyQuantity": 1,
     "toCurrencyId": "Repair_T5",
-    "toCurrencyIsCategoricalProgression": "1",
-    "toCurrencyQuantity": "1"
+    "toCurrencyIsCategoricalProgression": true,
+    "toCurrencyQuantity": 1
   },
   {
     "conversionID": "repairt5_repairt4",
     "fromCurrencyId": "Repair_T5",
-    "fromCurrencyIsCategoricalProgression": "1",
-    "fromCurrencyQuantity": "1",
+    "fromCurrencyIsCategoricalProgression": true,
+    "fromCurrencyQuantity": 1,
     "toCurrencyId": "Repair_T4",
-    "toCurrencyIsCategoricalProgression": "1",
-    "toCurrencyQuantity": "60"
+    "toCurrencyIsCategoricalProgression": true,
+    "toCurrencyQuantity": 60
   },
   {
     "conversionID": "repairt5_crowns",
     "fromCurrencyId": "Repair_T5",
-    "fromCurrencyIsCategoricalProgression": "1",
-    "fromCurrencyQuantity": "5",
+    "fromCurrencyIsCategoricalProgression": true,
+    "fromCurrencyQuantity": 5,
     "toCurrencyId": "Crowns",
-    "toCurrencyIsCategoricalProgression": "0",
-    "toCurrencyQuantity": "15"
+    "toCurrencyIsCategoricalProgression": false,
+    "toCurrencyQuantity": 15
   }
 ]

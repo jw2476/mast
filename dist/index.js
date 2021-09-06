@@ -4,6 +4,6 @@ const crafting_1 = require("./generators/crafting");
 const convert_1 = require("./generators/convert");
 convert_1.convert().then(() => {
     console.log("Generating Crafting Info...");
-    crafting_1.crafting();
+    crafting_1.default();
 });
 //# sourceMappingURL=index.js.map

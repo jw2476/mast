@@ -1,81 +1,135 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.crafting = void 0;
 const paths_1 = require("../paths");
-function crafting() {
-    const crafting = paths_1.readDatasheet("crafting");
-    const itemDefs = paths_1.readDatasheet("itemdefinitions_master_crafting").concat(paths_1.readDatasheet("itemdefinitions_master_named"));
-    const itemNames = paths_1.readLocalization("itemdefinitions_master");
-    const categoryNames = paths_1.readLocalization("craftingcategories");
-    let recipes = [];
-    let itemTypes = [];
-    for (const recipe of crafting) {
-        if (recipe.recipeID.startsWith("procedural")) {
-            recipe.recipeID = recipe["proceduralTierID" + recipe.recipeID[recipe.recipeID.length - 1]];
-        }
-        let itemDef = itemDefs.find(itemDef => itemDef.itemID.toLowerCase() === recipe.recipeID);
-        if (!itemDef) {
-            continue;
-        }
-        let ingredients = [];
-        for (let i = 1; i < 8; i++) {
-            if (!recipe[`ingredient${i}`])
-                break;
-            const type = recipe[`type${i}`];
-            const ingredientID = recipe[`ingredient${i}`];
-            let ingredientName;
-            if (type === "Item") {
-                ingredientName = itemNames[ingredientID + "_mastername"];
-            }
-            else if (type === "Category_Only") {
-                ingredientName = categoryNames[ingredientID + "_groupname"];
-            }
-            let ingredient = {
-                ingredientID,
-                type,
-                quantity: recipe[`qty${i}`],
-                ingredientName
-            };
-            ingredients.push(ingredient);
-        }
-        let entry = {
-            itemID: recipe.recipeID,
-            itemName: itemNames[recipe.recipeID + "_mastername"],
-            itemType: recipe.craftingCategory,
-            outputQuantity: recipe.outputQty,
-            ingredients,
-            tradeskill: recipe.tradeskill,
-            recipeLevel: recipe.recipeLevel,
-            cooldownSeconds: recipe.cooldownSeconds,
-            amountPerCooldown: recipe.cooldownQuantity,
-            bindOnPickup: itemDef.bindOnPickup,
-            bindOnEquip: itemDef.bindOnEquip,
-            minGearScore: itemDef.minGearScore,
-            maxGearScore: itemDef.maxGearScore,
-            minGearScoreBuff: itemDef.ingredientGearScoreBaseBonus,
-            maxGearScoreBuff: itemDef.ingredientGearScoreMaxBonus
-        };
-        if (!itemTypes.includes(entry.itemType))
-            itemTypes.push(entry.itemType);
-        recipes.push(entry);
+const crafting = paths_1.readDatasheet("crafting");
+const itemDefs = paths_1.readDatasheet("itemdefinitions_master_crafting").concat(paths_1.readDatasheet("itemdefinitions_master_named"));
+const itemNames = paths_1.readLocalization("itemdefinitions_master");
+const categoryNames = paths_1.readLocalization("craftingcategories");
+let recipeCache = [];
+const categories = {};
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+function getNameFromID(id) {
+    return itemNames[id + "_mastername"];
+}
+function callGenerateRecipe(raw, previousIDs) {
+    return new Promise(res => {
+        setTimeout(() => res(generateRecipe(raw, previousIDs)), 0);
+    });
+}
+async function generateRecipe(raw, previousIDs) {
+    if (!raw?.recipeID)
+        return;
+    const itemID = raw.isProcedural ? raw["proceduralTierID" + raw.baseTier] : raw.recipeID;
+    if (previousIDs.includes(itemID))
+        return;
+    else
+        previousIDs.push(itemID);
+    const existing = recipeCache.find(recipe => recipe.itemID === itemID);
+    if (existing) {
+        return existing;
     }
-    console.log(itemTypes);
-    let categories = {};
+    const itemDef = itemDefs.find(itemDef => itemDef.itemID === itemID);
+    if (!itemDef)
+        return;
+    let ingredients = [];
+    for (let i = 0; i < 7; i++) {
+        const rawIngredient = {
+            id: raw["ingredient" + i],
+            type: raw["type" + i],
+            quantity: raw["qty" + i]
+        };
+        if (rawIngredient.type === "Item" || rawIngredient.type === "Currency") {
+            let recipe = crafting.find(recipe => recipe.recipeID === rawIngredient.id);
+            if (recipe) {
+                ingredients.push(await callGenerateRecipe(recipe, previousIDs));
+                await sleep(1);
+            }
+            else {
+                const itemDef = itemDefs.find(itemDef => itemDef.itemID === rawIngredient.id);
+                ingredients.push({
+                    itemID: rawIngredient.id,
+                    itemName: getNameFromID(rawIngredient.id),
+                    quantity: rawIngredient.quantity,
+                    gearScoreBuff: itemDef?.ingredientGearScoreBaseBonus,
+                    nwdbURL: `https://nwdb.info/db/item/${rawIngredient.id}`
+                });
+            }
+        }
+        else if (rawIngredient.type === "Category_Only") {
+            let categoryIngredients = [];
+            let categoryItems = categories[rawIngredient.id];
+            for (const itemID of categoryItems) {
+                let recipe = crafting.find(recipe => recipe.recipeID === itemID);
+                if (recipe) {
+                    categoryIngredients.push(await callGenerateRecipe(recipe, previousIDs));
+                    await sleep(1);
+                }
+                else {
+                    const itemDef = itemDefs.find(itemDef => itemDef.itemID === itemID);
+                    categoryIngredients.push({
+                        itemID,
+                        itemName: getNameFromID(itemID),
+                        quantity: rawIngredient.quantity,
+                        gearScoreBuff: itemDef?.ingredientGearScoreBaseBonus,
+                        nwdbURL: `https://nwdb.info/db/item/${itemID}`
+                    });
+                }
+            }
+            const category = {
+                recipes: categoryIngredients,
+                name: categoryNames[rawIngredient.id + "_groupname"],
+                id: rawIngredient.id
+            };
+            ingredients.push(category);
+        }
+    }
+    const recipe = {
+        itemID,
+        originalID: raw.recipeID,
+        itemName: getNameFromID(itemID),
+        itemType: raw.craftingCategory,
+        quantity: raw.outputQty,
+        ingredients,
+        tradeskill: raw.tradeskill,
+        recipeLevel: raw.recipeLevel,
+        cooldownSeconds: raw.cooldownSeconds,
+        amountPerCooldown: raw.cooldownQuantity,
+        bindOnPickup: itemDef.bindOnPickup,
+        minGearScore: itemDef.minGearScore,
+        maxGearScore: itemDef.maxGearScore,
+        gearScoreBuff: itemDef.ingredientGearScoreBaseBonus,
+        nwdbURL: `https://nwdb.info/db/recipe/${raw.recipeID}`
+    };
+    const idx = previousIDs.indexOf(recipe.itemID);
+    if (idx > -1) {
+        previousIDs.splice(idx, 1);
+    }
+    if (!existing) {
+        recipeCache.push(recipe);
+    }
+    return recipe;
+}
+function generateCategories() {
     for (const itemDef of itemDefs) {
-        if (!itemDef.ingredientCategories)
-            continue;
         for (const category of itemDef.ingredientCategories.split(",")) {
             if (!categories[category]) {
-                categories[category] = {};
+                categories[category] = [];
             }
-            categories[category][itemDef.itemID] = itemNames[itemDef.name.slice(1)]; // Remove @
+            categories[category].push(itemDef.itemID);
         }
     }
-    let output = {
-        recipes,
-        categories
-    };
-    paths_1.writeFile(`${paths_1.OUT}/crafting.json`, JSON.stringify(output, null, 2));
 }
-exports.crafting = crafting;
+exports.default = async () => {
+    generateCategories();
+    let recipes = [];
+    for (const raw of crafting) {
+        let recipe = await generateRecipe(raw, []);
+        if (!recipe)
+            continue;
+        recipes.push(recipe);
+    }
+    paths_1.writeFile(paths_1.OUT + "/crafting.json", JSON.stringify(recipes, null, 2));
+};
 //# sourceMappingURL=crafting.js.map

@@ -1,8 +1,8 @@
 [
   {
-    "rank": "0",
-    "maximumInfluence": "2000",
-    "influenceCost": "0",
+    "rank": 0,
+    "maximumInfluence": 2000,
+    "influenceCost": 0,
     "sanityCheck": "",
     "gameEventId": ""
   }

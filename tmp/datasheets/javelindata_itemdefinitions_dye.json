@@ -1,475 +1,475 @@
 [
   {
     "dyeItemId": "DyeA030",
-    "colorIndex": "30",
+    "colorIndex": 30,
     "nameNote": "Sublime Bone",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeA035",
-    "colorIndex": "35",
+    "colorIndex": 35,
     "nameNote": "Rouge",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeA037",
-    "colorIndex": "37",
+    "colorIndex": 37,
     "nameNote": "Ageless Bronze",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeA044",
-    "colorIndex": "44",
+    "colorIndex": 44,
     "nameNote": "Green Grass",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeA048",
-    "colorIndex": "48",
+    "colorIndex": 48,
     "nameNote": "Hidden Stream",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeA053",
-    "colorIndex": "53",
+    "colorIndex": 53,
     "nameNote": "Butterfly Wing",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB100",
-    "colorIndex": "100",
+    "colorIndex": 100,
     "nameNote": "Frozen Basalt",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB101",
-    "colorIndex": "101",
+    "colorIndex": 101,
     "nameNote": "Crumbled Rock",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB102",
-    "colorIndex": "102",
+    "colorIndex": 102,
     "nameNote": "Dove Gray",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB103",
-    "colorIndex": "103",
+    "colorIndex": 103,
     "nameNote": "Corduroy",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB104",
-    "colorIndex": "104",
+    "colorIndex": 104,
     "nameNote": "Murky Water",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB105",
-    "colorIndex": "105",
+    "colorIndex": 105,
     "nameNote": "Natural Gray",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB106",
-    "colorIndex": "106",
+    "colorIndex": 106,
     "nameNote": "Gunsmoke",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB107",
-    "colorIndex": "107",
+    "colorIndex": 107,
     "nameNote": "Detritus",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB108",
-    "colorIndex": "108",
+    "colorIndex": 108,
     "nameNote": "Saddle Brown",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB109",
-    "colorIndex": "109",
+    "colorIndex": 109,
     "nameNote": "Tarnished Obsidian",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB110",
-    "colorIndex": "110",
+    "colorIndex": 110,
     "nameNote": "Dark Tan",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB111",
-    "colorIndex": "111",
+    "colorIndex": 111,
     "nameNote": "Forest Lichen",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB112",
-    "colorIndex": "112",
+    "colorIndex": 112,
     "nameNote": "Russet Brown",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB113",
-    "colorIndex": "113",
+    "colorIndex": 113,
     "nameNote": "Dust",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB114",
-    "colorIndex": "114",
+    "colorIndex": 114,
     "nameNote": "Delicate Silver",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB115",
-    "colorIndex": "115",
+    "colorIndex": 115,
     "nameNote": "Rough Almond",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB116",
-    "colorIndex": "116",
+    "colorIndex": 116,
     "nameNote": "Copper",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB117",
-    "colorIndex": "117",
+    "colorIndex": 117,
     "nameNote": "Dazzling Coral",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB118",
-    "colorIndex": "118",
+    "colorIndex": 118,
     "nameNote": "Paradise Vermilion",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB119",
-    "colorIndex": "119",
+    "colorIndex": 119,
     "nameNote": "Amaranth",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB120",
-    "colorIndex": "120",
+    "colorIndex": 120,
     "nameNote": "Rose Stone",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB121",
-    "colorIndex": "121",
+    "colorIndex": 121,
     "nameNote": "Field Peach",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB122",
-    "colorIndex": "122",
+    "colorIndex": 122,
     "nameNote": "Sea Clam",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB123",
-    "colorIndex": "123",
+    "colorIndex": 123,
     "nameNote": "Deep Chocolate",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB124",
-    "colorIndex": "124",
+    "colorIndex": 124,
     "nameNote": "Rich Vanilla",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB125",
-    "colorIndex": "125",
+    "colorIndex": 125,
     "nameNote": "Seasoned Leather",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB126",
-    "colorIndex": "126",
+    "colorIndex": 126,
     "nameNote": "Spicy Pepper",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB127",
-    "colorIndex": "127",
+    "colorIndex": 127,
     "nameNote": "Rusty Cream",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB128",
-    "colorIndex": "128",
+    "colorIndex": 128,
     "nameNote": "Medium Carmine",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB129",
-    "colorIndex": "129",
+    "colorIndex": 129,
     "nameNote": "Desert",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB130",
-    "colorIndex": "130",
+    "colorIndex": 130,
     "nameNote": "Sunset Slate",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB131",
-    "colorIndex": "131",
+    "colorIndex": 131,
     "nameNote": "Distorted Amber",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB132",
-    "colorIndex": "132",
+    "colorIndex": 132,
     "nameNote": "Cinnamon",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB133",
-    "colorIndex": "133",
+    "colorIndex": 133,
     "nameNote": "Shadow Moss",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB134",
-    "colorIndex": "134",
+    "colorIndex": 134,
     "nameNote": "Buttered Rum",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB135",
-    "colorIndex": "135",
+    "colorIndex": 135,
     "nameNote": "Raw Sienna",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB136",
-    "colorIndex": "136",
+    "colorIndex": 136,
     "nameNote": "Delicate Sand",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB137",
-    "colorIndex": "137",
+    "colorIndex": 137,
     "nameNote": "Harvest Barley",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB138",
-    "colorIndex": "138",
+    "colorIndex": 138,
     "nameNote": "Grit",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB139",
-    "colorIndex": "139",
+    "colorIndex": 139,
     "nameNote": "Twine",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB140",
-    "colorIndex": "140",
+    "colorIndex": 140,
     "nameNote": "Verdun Green",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB141",
-    "colorIndex": "141",
+    "colorIndex": 141,
     "nameNote": "Swamp Grass",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB142",
-    "colorIndex": "142",
+    "colorIndex": 142,
     "nameNote": "Autumn Moss",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB143",
-    "colorIndex": "143",
+    "colorIndex": 143,
     "nameNote": "Warm Slime",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB144",
-    "colorIndex": "144",
+    "colorIndex": 144,
     "nameNote": "Avocado",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB145",
-    "colorIndex": "145",
+    "colorIndex": 145,
     "nameNote": "Tropical Mist",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB146",
-    "colorIndex": "146",
+    "colorIndex": 146,
     "nameNote": "Tarnished Jade",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB147",
-    "colorIndex": "147",
+    "colorIndex": 147,
     "nameNote": "Pesto",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB148",
-    "colorIndex": "148",
+    "colorIndex": 148,
     "nameNote": "Wedgewood",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB149",
-    "colorIndex": "149",
+    "colorIndex": 149,
     "nameNote": "Smokey Malachite",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB150",
-    "colorIndex": "150",
+    "colorIndex": 150,
     "nameNote": "Viridian Green",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB151",
-    "colorIndex": "151",
+    "colorIndex": 151,
     "nameNote": "Tranquil Willow",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB152",
-    "colorIndex": "152",
+    "colorIndex": 152,
     "nameNote": "Deep Sea Green",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB153",
-    "colorIndex": "153",
+    "colorIndex": 153,
     "nameNote": "Mineral Green",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB154",
-    "colorIndex": "154",
+    "colorIndex": 154,
     "nameNote": "Castle Aquamarine",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB155",
-    "colorIndex": "155",
+    "colorIndex": 155,
     "nameNote": "Soft Cyan",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB156",
-    "colorIndex": "156",
+    "colorIndex": 156,
     "nameNote": "Pale Cobalt",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB157",
-    "colorIndex": "157",
+    "colorIndex": 157,
     "nameNote": "Juniper",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB158",
-    "colorIndex": "158",
+    "colorIndex": 158,
     "nameNote": "Starlight",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB159",
-    "colorIndex": "159",
+    "colorIndex": 159,
     "nameNote": "Fjord",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB160",
-    "colorIndex": "160",
+    "colorIndex": 160,
     "nameNote": "Comet",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB161",
-    "colorIndex": "161",
+    "colorIndex": 161,
     "nameNote": "Aurora Blue",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB162",
-    "colorIndex": "162",
+    "colorIndex": 162,
     "nameNote": "Elderberry",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB163",
-    "colorIndex": "163",
+    "colorIndex": 163,
     "nameNote": "Berry Pit",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB164",
-    "colorIndex": "164",
+    "colorIndex": 164,
     "nameNote": "Coarse Amethyst",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB165",
-    "colorIndex": "165",
+    "colorIndex": 165,
     "nameNote": "Sovereign Purple",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB166",
-    "colorIndex": "166",
+    "colorIndex": 166,
     "nameNote": "Cool Violet",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB167",
-    "colorIndex": "167",
+    "colorIndex": 167,
     "nameNote": "Burnished Lilac",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB168",
-    "colorIndex": "168",
+    "colorIndex": 168,
     "nameNote": "Harsh Violet",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB169",
-    "colorIndex": "169",
+    "colorIndex": 169,
     "nameNote": "Putrid Plum",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB170",
-    "colorIndex": "170",
+    "colorIndex": 170,
     "nameNote": "Daisy Pink",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB171",
-    "colorIndex": "171",
+    "colorIndex": 171,
     "nameNote": "Sublime Velvet",
     "boolNote": ""
   },
   {
     "dyeItemId": "DyeB172",
-    "colorIndex": "172",
+    "colorIndex": 172,
     "nameNote": "Summer Rasberry",
     "boolNote": ""
   }

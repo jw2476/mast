@@ -10,8 +10,8 @@
     "metaAchievementId": "PvE_FamilyKills_Corrupted3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -24,8 +24,8 @@
     "metaAchievementId": "PvE_FamilyKills_Corrupted5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -38,8 +38,8 @@
     "metaAchievementId": "PvE_FamilyKills_Lost3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -52,8 +52,8 @@
     "metaAchievementId": "PvE_FamilyKills_Lost5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -66,8 +66,8 @@
     "metaAchievementId": "PvE_FamilyKills_AngryEarth3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -80,8 +80,8 @@
     "metaAchievementId": "PvE_FamilyKills_AngryEarth5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -94,8 +94,8 @@
     "metaAchievementId": "PvE_FamilyKills_Ancients3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -108,8 +108,8 @@
     "metaAchievementId": "PvE_FamilyKills_Ancients5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -122,8 +122,8 @@
     "metaAchievementId": "PvE_FamilyKills_Predators3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -136,8 +136,8 @@
     "metaAchievementId": "PvE_FamilyKills_Predators5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -150,8 +150,8 @@
     "metaAchievementId": "PvE_PreyKills_Turkeys",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -164,8 +164,8 @@
     "metaAchievementId": "PvE_PreyKills_Rabbits",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -178,8 +178,8 @@
     "metaAchievementId": "PvE_PreyKills_Cows",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -192,8 +192,8 @@
     "metaAchievementId": "PvE_PreyKills_Boars",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -206,8 +206,8 @@
     "metaAchievementId": "PvE_NamedFamilyKills_Corrupted5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -220,8 +220,8 @@
     "metaAchievementId": "PvE_NamedFamilyKills_Lost5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -234,8 +234,8 @@
     "metaAchievementId": "PvE_NamedFamilyKills_AngryEarth5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -248,8 +248,8 @@
     "metaAchievementId": "PvE_NamedFamilyKills_Ancients5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Enemies_By_Type",
@@ -262,8 +262,8 @@
     "metaAchievementId": "PvE_NamedFamilyKills_Beasts5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Invasions_And_Breaches",
@@ -276,8 +276,8 @@
     "metaAchievementId": "PvE_InvasionWins5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Invasions_And_Breaches",
@@ -290,8 +290,8 @@
     "metaAchievementId": "PvE_InvasionWins6",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PvE_Kill_Counts",
@@ -304,8 +304,8 @@
     "metaAchievementId": "PvE_KillsWhileInGroup4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PvE_Kill_Counts",
@@ -318,8 +318,8 @@
     "metaAchievementId": "PvE_KillsWhileInGroup5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Invasions_And_Breaches",
@@ -332,8 +332,8 @@
     "metaAchievementId": "PvE_CorruptionBreachWins4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Invasions_And_Breaches",
@@ -346,8 +346,8 @@
     "metaAchievementId": "PvE_CorruptionBreachWins5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gathering",
@@ -360,8 +360,8 @@
     "metaAchievementId": "PvE_GatherSkinning3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gathering",
@@ -374,8 +374,8 @@
     "metaAchievementId": "PvE_GatherSkinning5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gathering",
@@ -388,8 +388,8 @@
     "metaAchievementId": "PvE_GatherLogging3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gathering",
@@ -402,8 +402,8 @@
     "metaAchievementId": "PvE_GatherLogging5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gathering",
@@ -416,8 +416,8 @@
     "metaAchievementId": "PvE_GatherMining3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gathering",
@@ -430,8 +430,8 @@
     "metaAchievementId": "PvE_GatherMining5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gathering",
@@ -444,8 +444,8 @@
     "metaAchievementId": "PvE_GatherHarvesting3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gathering",
@@ -458,8 +458,8 @@
     "metaAchievementId": "PvE_GatherHarvesting5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PvE_Kill_Counts",
@@ -472,8 +472,8 @@
     "metaAchievementId": "PvE_TotalKills3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PvE_Kill_Counts",
@@ -486,8 +486,8 @@
     "metaAchievementId": "PvE_TotalKills4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PvE_Kill_Counts",
@@ -500,8 +500,8 @@
     "metaAchievementId": "PvE_TotalKills5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Dungeon_Bosses",
@@ -514,8 +514,8 @@
     "metaAchievementId": "PvE_Dungeon_BossTakedown_Amrine",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Dungeon_Bosses",
@@ -528,8 +528,8 @@
     "metaAchievementId": "PvE_Dungeon_BossTakedown_Obelisk",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Dungeon_Bosses",
@@ -542,8 +542,8 @@
     "metaAchievementId": "PvE_Dungeon_BossTakedown_Depths",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Dungeon_Bosses",
@@ -556,8 +556,8 @@
     "metaAchievementId": "PvE_Dungeon_BossTakedown_Genesis",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Dungeon_Bosses",
@@ -570,8 +570,8 @@
     "metaAchievementId": "PvE_Dungeon_BossTakedown_Lazarus",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Dungeon_Bosses",
@@ -584,8 +584,8 @@
     "metaAchievementId": "PvE_Dungeon_BossTakedown_Shipyard",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Overall",
@@ -598,8 +598,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": "49"
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": 49
   },
   {
     "UIDisplayCategory": "Overall",
@@ -612,8 +612,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": "59"
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": 59
   },
   {
     "UIDisplayCategory": "Overall",
@@ -626,8 +626,8 @@
     "metaAchievementId": "TotalTimePlayed3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Overall",
@@ -640,8 +640,8 @@
     "metaAchievementId": "TotalTimePlayed4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Overall",
@@ -654,8 +654,8 @@
     "metaAchievementId": "TotalTimePlayed5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -668,8 +668,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Arcana",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -682,8 +682,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Arcana",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -696,8 +696,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Armoring",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -710,8 +710,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Armoring",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -724,8 +724,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Cooking",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -738,8 +738,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Cooking",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -752,8 +752,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Engineering",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -766,8 +766,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Engineering",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -780,8 +780,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Furnishing",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -794,8 +794,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Furnishing",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -808,8 +808,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Jewelcrafting",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -822,8 +822,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Jewelcrafting",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -836,8 +836,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Weaponsmithing",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -850,8 +850,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Weaponsmithing",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -864,8 +864,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Leatherworking",
-    "requiredCategoricalProgressionLevel": "100",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 100,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -878,8 +878,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Leatherworking",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -892,8 +892,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Smelting",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -906,8 +906,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Smelting",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -920,8 +920,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Stonecutting",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -934,8 +934,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Stonecutting",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -948,8 +948,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Weaving",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -962,8 +962,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Weaving",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -976,8 +976,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Woodworking",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -990,8 +990,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Woodworking",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1004,8 +1004,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Harvesting",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1018,8 +1018,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Harvesting",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1032,8 +1032,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Logging",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1046,8 +1046,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Logging",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1060,8 +1060,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Mining",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1074,8 +1074,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Mining",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1088,8 +1088,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Skinning",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1102,8 +1102,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Skinning",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1116,8 +1116,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Fishing",
-    "requiredCategoricalProgressionLevel": "140",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 140,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1130,8 +1130,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "Fishing",
-    "requiredCategoricalProgressionLevel": "200",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": 200,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1144,8 +1144,8 @@
     "metaAchievementId": "TradeSkillExpert4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Skill_Levels",
@@ -1158,8 +1158,8 @@
     "metaAchievementId": "TradeSkillExpert5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Housing",
@@ -1172,8 +1172,8 @@
     "metaAchievementId": "HouseCount1",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Housing",
@@ -1186,8 +1186,8 @@
     "metaAchievementId": "HouseCount2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Housing",
@@ -1200,8 +1200,8 @@
     "metaAchievementId": "HouseCount3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1214,8 +1214,8 @@
     "metaAchievementId": "TerritoryStanding_Brightwood3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1228,8 +1228,8 @@
     "metaAchievementId": "TerritoryStanding_Brightwood4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1242,8 +1242,8 @@
     "metaAchievementId": "TerritoryStanding_CutlassKeys3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1256,8 +1256,8 @@
     "metaAchievementId": "TerritoryStanding_CutlassKeys4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1270,8 +1270,8 @@
     "metaAchievementId": "TerritoryStanding_EbonscaleReach3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1284,8 +1284,8 @@
     "metaAchievementId": "TerritoryStanding_EbonscaleReach4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1298,8 +1298,8 @@
     "metaAchievementId": "TerritoryStanding_Everfall3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1312,8 +1312,8 @@
     "metaAchievementId": "TerritoryStanding_Everfall4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1326,8 +1326,8 @@
     "metaAchievementId": "TerritoryStanding_FirstLight3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1340,8 +1340,8 @@
     "metaAchievementId": "TerritoryStanding_FirstLight4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1354,8 +1354,8 @@
     "metaAchievementId": "TerritoryStanding_MonarchsBluff3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1368,8 +1368,8 @@
     "metaAchievementId": "TerritoryStanding_MonarchsBluff4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1382,8 +1382,8 @@
     "metaAchievementId": "TerritoryStanding_Mourningdale3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1396,8 +1396,8 @@
     "metaAchievementId": "TerritoryStanding_Mourningdale4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1410,8 +1410,8 @@
     "metaAchievementId": "TerritoryStanding_Reekwater3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1424,8 +1424,8 @@
     "metaAchievementId": "TerritoryStanding_Reekwater4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1438,8 +1438,8 @@
     "metaAchievementId": "TerritoryStanding_RestlessShore3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1452,8 +1452,8 @@
     "metaAchievementId": "TerritoryStanding_RestlessShore4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1466,8 +1466,8 @@
     "metaAchievementId": "TerritoryStanding_WeaversFen3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1480,8 +1480,8 @@
     "metaAchievementId": "TerritoryStanding_WeaversFen4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1494,8 +1494,8 @@
     "metaAchievementId": "TerritoryStanding_Windsward3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Standing",
@@ -1508,8 +1508,8 @@
     "metaAchievementId": "TerritoryStanding_Windsward4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Faction_Ranking",
@@ -1522,8 +1522,8 @@
     "metaAchievementId": "FactionRank_Covenant5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Faction_Ranking",
@@ -1536,8 +1536,8 @@
     "metaAchievementId": "FactionRank_Marauder5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Faction_Ranking",
@@ -1550,8 +1550,8 @@
     "metaAchievementId": "FactionRank_Syndicate5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1564,8 +1564,8 @@
     "metaAchievementId": "WeaponMastery_Hammer2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1578,8 +1578,8 @@
     "metaAchievementId": "WeaponMastery_Hammer3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1592,8 +1592,8 @@
     "metaAchievementId": "WeaponMastery_Bows2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1606,8 +1606,8 @@
     "metaAchievementId": "WeaponMastery_Bows3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1620,8 +1620,8 @@
     "metaAchievementId": "WeaponMastery_FireStaff2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1634,8 +1634,8 @@
     "metaAchievementId": "WeaponMastery_FireStaff3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1648,8 +1648,8 @@
     "metaAchievementId": "WeaponMastery_GreatAxe2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1662,8 +1662,8 @@
     "metaAchievementId": "WeaponMastery_GreatAxe3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1676,8 +1676,8 @@
     "metaAchievementId": "WeaponMastery_Hatchet2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1690,8 +1690,8 @@
     "metaAchievementId": "WeaponMastery_Hatchet3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1704,8 +1704,8 @@
     "metaAchievementId": "WeaponMastery_LifeStaff2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1718,8 +1718,8 @@
     "metaAchievementId": "WeaponMastery_LifeStaff3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1732,8 +1732,8 @@
     "metaAchievementId": "WeaponMastery_Musket2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1746,8 +1746,8 @@
     "metaAchievementId": "WeaponMastery_Musket3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1760,8 +1760,8 @@
     "metaAchievementId": "WeaponMastery_Spear2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1774,8 +1774,8 @@
     "metaAchievementId": "WeaponMastery_Spear3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1788,8 +1788,8 @@
     "metaAchievementId": "WeaponMastery_Sword2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1802,8 +1802,8 @@
     "metaAchievementId": "WeaponMastery_Sword3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1816,8 +1816,8 @@
     "metaAchievementId": "WeaponMastery_Rapier2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1830,8 +1830,8 @@
     "metaAchievementId": "WeaponMastery_Rapier3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1844,8 +1844,8 @@
     "metaAchievementId": "WeaponMastery_IceGauntlet2",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Weapon_Mastery",
@@ -1858,8 +1858,8 @@
     "metaAchievementId": "WeaponMastery_IceGauntlet3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Factions",
@@ -1872,8 +1872,8 @@
     "metaAchievementId": "PvP_KillCountByFaction_Covenant3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Factions",
@@ -1886,8 +1886,8 @@
     "metaAchievementId": "PvP_KillCountByFaction_Covenant5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Factions",
@@ -1900,8 +1900,8 @@
     "metaAchievementId": "PvP_KillCountByFaction_Marauders3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Factions",
@@ -1914,8 +1914,8 @@
     "metaAchievementId": "PvP_KillCountByFaction_Marauders5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Factions",
@@ -1928,8 +1928,8 @@
     "metaAchievementId": "PvP_KillCountByFaction_Syndicate3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Factions",
@@ -1942,8 +1942,8 @@
     "metaAchievementId": "PvP_KillCountByFaction_Syndicate5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Duels",
@@ -1956,8 +1956,8 @@
     "metaAchievementId": "PvP_Duels_Participation1",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Wars",
@@ -1970,8 +1970,8 @@
     "metaAchievementId": "PvP_War_FactionWins4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Wars",
@@ -1984,8 +1984,8 @@
     "metaAchievementId": "PvP_War_FactionWins5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Wars",
@@ -1998,8 +1998,8 @@
     "metaAchievementId": "PvP_War_FactionWins6",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PvP_Kill_Counts",
@@ -2012,8 +2012,8 @@
     "metaAchievementId": "PvP_TotalKills3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PvP_Kill_Counts",
@@ -2026,8 +2026,8 @@
     "metaAchievementId": "PvP_TotalKills4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PvP_Kill_Counts",
@@ -2040,8 +2040,8 @@
     "metaAchievementId": "PvP_TotalKills5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Outpost_Rush",
@@ -2054,8 +2054,8 @@
     "metaAchievementId": "PvP_OutpostRushWins4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Outpost_Rush",
@@ -2068,8 +2068,8 @@
     "metaAchievementId": "PvP_OutpostRushWins5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Outpost_Rush",
@@ -2082,8 +2082,8 @@
     "metaAchievementId": "PvP_OutpostRushWins6",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Missions",
@@ -2096,8 +2096,8 @@
     "metaAchievementId": "TotalFactionMissionsCompleted3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Missions",
@@ -2110,8 +2110,8 @@
     "metaAchievementId": "TotalFactionMissionsCompleted4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Missions",
@@ -2124,8 +2124,8 @@
     "metaAchievementId": "TotalFactionMissionsCompleted5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Territory_Stories",
@@ -2138,8 +2138,8 @@
     "metaAchievementId": "QuestArc_FishTraining",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Total_Completed",
@@ -2152,8 +2152,8 @@
     "metaAchievementId": "Quest_CountTotals3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Total_Completed",
@@ -2166,8 +2166,8 @@
     "metaAchievementId": "Quest_CountTotals5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Repairs",
@@ -2180,8 +2180,8 @@
     "metaAchievementId": "RepairsCount3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Repairs",
@@ -2194,8 +2194,8 @@
     "metaAchievementId": "RepairsCount4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Crafting_Count",
@@ -2208,8 +2208,8 @@
     "metaAchievementId": "CraftCount_Armoring5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Crafting_Count",
@@ -2222,8 +2222,8 @@
     "metaAchievementId": "CraftCount_Cooking5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Crafting_Count",
@@ -2236,8 +2236,8 @@
     "metaAchievementId": "CraftCount_Engineering5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Crafting_Count",
@@ -2250,8 +2250,8 @@
     "metaAchievementId": "CraftCount_Furnishings5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Crafting_Count",
@@ -2264,8 +2264,8 @@
     "metaAchievementId": "CraftCount_Arcana5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Crafting_Count",
@@ -2278,8 +2278,8 @@
     "metaAchievementId": "CraftCount_Jewelcrafting5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Crafting_Count",
@@ -2292,8 +2292,8 @@
     "metaAchievementId": "CraftCount_Weaponsmithing5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gather_Count",
@@ -2306,8 +2306,8 @@
     "metaAchievementId": "GathersTotalCount3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gather_Count",
@@ -2320,8 +2320,8 @@
     "metaAchievementId": "GathersTotalCount4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Gather_Count",
@@ -2334,8 +2334,8 @@
     "metaAchievementId": "GathersTotalCount5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "TotalKills",
@@ -2348,8 +2348,8 @@
     "metaAchievementId": "Player_TotalKills3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "TotalKills",
@@ -2362,8 +2362,8 @@
     "metaAchievementId": "Player_TotalKills4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "TotalKills",
@@ -2376,8 +2376,8 @@
     "metaAchievementId": "Player_TotalKills5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Player_Actions",
@@ -2390,8 +2390,8 @@
     "metaAchievementId": "Emotes_UsedALot",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Player_Actions",
@@ -2404,8 +2404,8 @@
     "metaAchievementId": "Player_Deaths3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Player_Actions",
@@ -2418,8 +2418,8 @@
     "metaAchievementId": "Player_RevivesAlly3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Player_Actions",
@@ -2432,8 +2432,8 @@
     "metaAchievementId": "Player_RevivesAlly5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Camping",
@@ -2446,8 +2446,8 @@
     "metaAchievementId": "Camping_CreateCount",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Camping",
@@ -2460,8 +2460,8 @@
     "metaAchievementId": "Camping_Respawns3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Fishing",
@@ -2474,8 +2474,8 @@
     "metaAchievementId": "Fishing_LostFish",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Fishing",
@@ -2488,8 +2488,8 @@
     "metaAchievementId": "Fishing_CaughtTotal4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Fishing",
@@ -2502,8 +2502,8 @@
     "metaAchievementId": "Fishing_CaughtTotal5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Fishing",
@@ -2516,8 +2516,8 @@
     "metaAchievementId": "Fishing_ByWeight4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Fishing",
@@ -2530,8 +2530,8 @@
     "metaAchievementId": "Fishing_ByWeight5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Refining_Count",
@@ -2544,8 +2544,8 @@
     "metaAchievementId": "Refining_LeatherworkCount5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Refining_Count",
@@ -2558,8 +2558,8 @@
     "metaAchievementId": "Refining_SmeltingCount5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Refining_Count",
@@ -2572,8 +2572,8 @@
     "metaAchievementId": "Refining_StonecuttingCount5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Refining_Count",
@@ -2586,8 +2586,8 @@
     "metaAchievementId": "Refining_WeavingCount5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Refining_Count",
@@ -2600,8 +2600,8 @@
     "metaAchievementId": "Refining_Woodwork5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Instanced_Teamplay",
@@ -2614,8 +2614,8 @@
     "metaAchievementId": "Instance_RepairStructures3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Instanced_Teamplay",
@@ -2628,8 +2628,8 @@
     "metaAchievementId": "Instance_Destruction",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Instanced_Teamplay",
@@ -2642,8 +2642,8 @@
     "metaAchievementId": "Instance_TurretReloading",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Looting",
@@ -2656,8 +2656,8 @@
     "metaAchievementId": "SuppliesLooted4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Looting",
@@ -2670,8 +2670,8 @@
     "metaAchievementId": "SuppliesLooted5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Looting",
@@ -2684,8 +2684,8 @@
     "metaAchievementId": "SuppliesLooted6",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Achievements",
@@ -2698,8 +2698,8 @@
     "metaAchievementId": "AchievementsEarnedCount4",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Achievements",
@@ -2712,8 +2712,8 @@
     "metaAchievementId": "AchievementsEarnedCount3",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Achievements",
@@ -2726,8 +2726,8 @@
     "metaAchievementId": "AchievementsEarnedCount5",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Special_Achievements",
@@ -2740,8 +2740,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Special_Achievements",
@@ -2754,8 +2754,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Special_Achievements",
@@ -2768,8 +2768,8 @@
     "metaAchievementId": "",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Special_Achievements",
@@ -2782,8 +2782,8 @@
     "metaAchievementId": "FactionRank_Covenant1,FactionRank_Marauder1,FactionRank_Syndicate1",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Special_Achievements",
@@ -2796,8 +2796,8 @@
     "metaAchievementId": "FactionRank_Covenant1,FactionRank_Marauder1,FactionRank_Syndicate1",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "Special_Achievements",
@@ -2810,8 +2810,8 @@
     "metaAchievementId": "FactionRank_Covenant1,FactionRank_Marauder1,FactionRank_Syndicate1",
     "achievementId": "",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2824,8 +2824,8 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner02",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2838,8 +2838,8 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner04",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2852,8 +2852,8 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner05",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2866,8 +2866,8 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner06",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2880,8 +2880,8 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner08",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2894,8 +2894,8 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner09",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2908,8 +2908,8 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner10",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2922,8 +2922,8 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner11",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2936,8 +2936,8 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner12",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2950,8 +2950,8 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner13",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   },
   {
     "UIDisplayCategory": "PVP_Territory_Ownership",
@@ -2964,7 +2964,7 @@
     "metaAchievementId": "",
     "achievementId": "TerritoryPermanentOwner15",
     "categoricalProgressionId": "",
-    "requiredCategoricalProgressionLevel": "",
-    "requiredPlayerLevel": ""
+    "requiredCategoricalProgressionLevel": null,
+    "requiredPlayerLevel": null
   }
 ]

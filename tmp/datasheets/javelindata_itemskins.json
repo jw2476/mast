@@ -1,242 +1,242 @@
 [
   {
     "itemSkinID": "testweapon",
-    "indexID": "0",
-    "isEntitlement": "0",
+    "indexID": 0,
+    "isEntitlement": 0,
     "fromItemIDs": "",
     "needsOneClasses": "",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "",
     "outfit": "",
-    "isEnabled": "0"
+    "isEnabled": false
   },
   {
     "itemSkinID": "testarmor",
-    "indexID": "1",
-    "isEntitlement": "0",
+    "indexID": 1,
+    "isEntitlement": 0,
     "fromItemIDs": "",
     "needsOneClasses": "",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "",
     "outfit": "",
-    "isEnabled": "0"
+    "isEnabled": false
   },
   {
     "itemSkinID": "testarmor2",
-    "indexID": "2",
-    "isEntitlement": "0",
+    "indexID": 2,
+    "isEntitlement": 0,
     "fromItemIDs": "",
     "needsOneClasses": "",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "",
     "outfit": "",
-    "isEnabled": "0"
+    "isEnabled": false
   },
   {
     "itemSkinID": "testweapon2",
-    "indexID": "3",
-    "isEntitlement": "0",
+    "indexID": 3,
+    "isEntitlement": 0,
     "fromItemIDs": "",
     "needsOneClasses": "",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "",
     "outfit": "",
-    "isEnabled": "0"
+    "isEnabled": false
   },
   {
     "itemSkinID": "itemskin1",
-    "indexID": "4",
-    "isEntitlement": "0",
+    "indexID": 4,
+    "isEntitlement": 0,
     "fromItemIDs": "",
     "needsOneClasses": "",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "",
     "outfit": "",
-    "isEnabled": "0"
+    "isEnabled": false
   },
   {
     "itemSkinID": "itemskin2",
-    "indexID": "5",
-    "isEntitlement": "0",
+    "indexID": 5,
+    "isEntitlement": 0,
     "fromItemIDs": "",
     "needsOneClasses": "",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "",
     "outfit": "",
-    "isEnabled": "0"
+    "isEnabled": false
   },
   {
     "itemSkinID": "coolshirt",
-    "indexID": "6",
-    "isEntitlement": "0",
+    "indexID": 6,
+    "isEntitlement": 0,
     "fromItemIDs": "",
     "needsOneClasses": "",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "",
     "outfit": "",
-    "isEnabled": "0"
+    "isEnabled": false
   },
   {
     "itemSkinID": "runicjackalhead",
-    "indexID": "29",
-    "isEntitlement": "1",
+    "indexID": 29,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableHead",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "runicjackalhead",
     "outfit": "RunicJackal",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "runicjackalchest",
-    "indexID": "30",
-    "isEntitlement": "1",
+    "indexID": 30,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableChest",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "runicjackalchest",
     "outfit": "RunicJackal",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "runicjackalhands",
-    "indexID": "31",
-    "isEntitlement": "1",
+    "indexID": 31,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableHands",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "runicjackalhands",
     "outfit": "RunicJackal",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "runicjackallegs",
-    "indexID": "32",
-    "isEntitlement": "1",
+    "indexID": 32,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableLegs",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "runicjackallegs",
     "outfit": "RunicJackal",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "runicjackalfeet",
-    "indexID": "33",
-    "isEntitlement": "1",
+    "indexID": 33,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableFeet",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "runicjackalfeet",
     "outfit": "RunicJackal",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "crescentfang",
-    "indexID": "42",
-    "isEntitlement": "1",
+    "indexID": 42,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableMainHand",
     "requiredClasses": "Hatchet",
     "excludedClasses": "",
     "toItemID": "crescentfang",
     "outfit": "",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "skin_anglesdemon_warhammer",
-    "indexID": "89",
-    "isEntitlement": "1",
+    "indexID": 89,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableTwoHand",
     "requiredClasses": "2HHammer",
     "excludedClasses": "",
     "toItemID": "skin_anglesdemon_warhammer",
     "outfit": "",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "skin_mediumhead_angel",
-    "indexID": "99",
-    "isEntitlement": "1",
+    "indexID": 99,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableHead",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "skin_mediumhead_angel",
     "outfit": "MediumAngel",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "skin_mediumchest_angel",
-    "indexID": "100",
-    "isEntitlement": "1",
+    "indexID": 100,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableChest",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "skin_mediumchest_angel",
     "outfit": "MediumAngel",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "skin_mediumhands_angel",
-    "indexID": "101",
-    "isEntitlement": "1",
+    "indexID": 101,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableHands",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "skin_mediumhands_angel",
     "outfit": "MediumAngel",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "skin_mediumlegs_angel",
-    "indexID": "102",
-    "isEntitlement": "1",
+    "indexID": 102,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableLegs",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "skin_mediumlegs_angel",
     "outfit": "MediumAngel",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "skin_mediumfeet_angel",
-    "indexID": "103",
-    "isEntitlement": "1",
+    "indexID": 103,
+    "isEntitlement": 1,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableFeet",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "skin_mediumfeet_angel",
     "outfit": "MediumAngel",
-    "isEnabled": "1"
+    "isEnabled": true
   },
   {
     "itemSkinID": "skin_head_hidehelmet",
-    "indexID": "139",
-    "isEntitlement": "0",
+    "indexID": 139,
+    "isEntitlement": 0,
     "fromItemIDs": "",
     "needsOneClasses": "EquippableHead",
     "requiredClasses": "",
     "excludedClasses": "",
     "toItemID": "skin_head_hidehelmet",
     "outfit": "",
-    "isEnabled": "1"
+    "isEnabled": true
   }
 ]

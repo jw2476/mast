@@ -2,6 +2,6 @@
   {
     "socketableID": "door",
     "displayName": "Door",
-    "health": "5"
+    "health": 5
   }
 ]

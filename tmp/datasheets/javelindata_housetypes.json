@@ -1,37 +1,37 @@
 [
   {
     "houseTypeID": "housetypetier1",
-    "cost": "500000",
-    "fast Travel Cooldown Time (Minutes)": "240",
-    "territory Standing Required Level": "10",
-    "max Number Total Housing Items (Without Perks)": "100",
+    "cost": 500000,
+    "fast Travel Cooldown Time (Minutes)": 240,
+    "territory Standing Required Level": 10,
+    "max Number Total Housing Items (Without Perks)": 100,
     "housing Tag Limits": "IsLighting:4, IsAnimated:5, IsStorage:1, IsTrophyBuff:5, AlchemyBonus : 1, BlacksmithingBonus : 1, CookingBonus : 1, EngineeringBonus : 1, HarvestingBonus : 1, LoggingBonus : 1, MiningBonus : 1, OutfittingBonus : 1, SkinningBonus : 1, LuckBonus : 1, FishingBonus : 1, AncientDamage : 1, AngryEarthDamage : 1, BeastDamage : 1, CorruptedDamage : 1, LostDamage : 1",
     "localization Tag": "@house_type_tier_1"
   },
   {
     "houseTypeID": "housetypetier2",
-    "cost": "1000000",
-    "fast Travel Cooldown Time (Minutes)": "180",
-    "territory Standing Required Level": "15",
-    "max Number Total Housing Items (Without Perks)": "125",
+    "cost": 1000000,
+    "fast Travel Cooldown Time (Minutes)": 180,
+    "territory Standing Required Level": 15,
+    "max Number Total Housing Items (Without Perks)": 125,
     "housing Tag Limits": "IsLighting:6, IsAnimated:6, IsStorage:2, IsTrophyBuff:5, AlchemyBonus : 1, BlacksmithingBonus : 1, CookingBonus : 1, EngineeringBonus : 1, HarvestingBonus : 1, LoggingBonus : 1, MiningBonus : 1, OutfittingBonus : 1, SkinningBonus : 1, LuckBonus : 1, FishingBonus : 1, AncientDamage : 1, AngryEarthDamage : 1, BeastDamage : 1, CorruptedDamage : 1, LostDamage : 1",
     "localization Tag": "@house_type_tier_2"
   },
   {
     "houseTypeID": "housetypetier3",
-    "cost": "1500000",
-    "fast Travel Cooldown Time (Minutes)": "150",
-    "territory Standing Required Level": "20",
-    "max Number Total Housing Items (Without Perks)": "150",
+    "cost": 1500000,
+    "fast Travel Cooldown Time (Minutes)": 150,
+    "territory Standing Required Level": 20,
+    "max Number Total Housing Items (Without Perks)": 150,
     "housing Tag Limits": "IsLighting:8, IsAnimated:7, IsStorage:3, IsTrophyBuff:5, AlchemyBonus : 1, BlacksmithingBonus : 1, CookingBonus : 1, EngineeringBonus : 1, HarvestingBonus : 1, LoggingBonus : 1, MiningBonus : 1, OutfittingBonus : 1, SkinningBonus : 1, LuckBonus : 1, FishingBonus : 1, AncientDamage : 1, AngryEarthDamage : 1, BeastDamage : 1, CorruptedDamage : 1, LostDamage : 1",
     "localization Tag": "@house_type_tier_3"
   },
   {
     "houseTypeID": "housetypetier4",
-    "cost": "2000000",
-    "fast Travel Cooldown Time (Minutes)": "120",
-    "territory Standing Required Level": "30",
-    "max Number Total Housing Items (Without Perks)": "200",
+    "cost": 2000000,
+    "fast Travel Cooldown Time (Minutes)": 120,
+    "territory Standing Required Level": 30,
+    "max Number Total Housing Items (Without Perks)": 200,
     "housing Tag Limits": "IsLighting:10, IsAnimated:8, IsStorage:4, IsTrophyBuff:5, AlchemyBonus : 1, BlacksmithingBonus : 1, CookingBonus : 1, EngineeringBonus : 1, HarvestingBonus : 1, LoggingBonus : 1, MiningBonus : 1, OutfittingBonus : 1, SkinningBonus : 1, LuckBonus : 1, FishingBonus : 1, AncientDamage : 1, AngryEarthDamage : 1, BeastDamage : 1, CorruptedDamage : 1, LostDamage : 1",
     "localization Tag": "@house_type_tier_4"
   }

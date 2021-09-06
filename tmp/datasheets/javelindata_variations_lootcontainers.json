@@ -9,7 +9,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestTrueSteel\\JAV_PRP_ChestTrueSteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "cheststeel_l",
@@ -21,7 +21,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestSteel\\JAV_PRP_ChestSteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "chestlog_s",
@@ -33,7 +33,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestLog\\JAV_PRP_ChestLog_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "chestiron_m",
@@ -45,7 +45,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestIron\\jav_prp_chestiron_glow_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "crate_m",
@@ -57,7 +57,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_glow_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "basket_s",
@@ -69,7 +69,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Baskets\\jav_prp_baskets_glow_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "shopbarrel_m",
@@ -81,7 +81,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "basket_b_s",
@@ -93,7 +93,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "basket_c_s",
@@ -105,7 +105,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "supply_box_a_m",
@@ -117,7 +117,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "supply_box_b_m",
@@ -129,7 +129,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "supply_box_c_m",
@@ -141,7 +141,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "shopbucket_a_s",
@@ -153,7 +153,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "shopbucket_a_stack_s",
@@ -165,7 +165,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "clothpackage_a_m",
@@ -177,7 +177,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "crate_a_s",
@@ -189,7 +189,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "crate_b_s",
@@ -201,7 +201,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "paperparcels_c_s",
@@ -213,7 +213,7 @@
     "topMat": "",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   },
   {
     "variantID": "farmland_a_s",
@@ -225,7 +225,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\cookery\\jav_prp_sw_tool_mat",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0.42"
+    "topMesh_TransformZ": 0.42
   },
   {
     "variantID": "farmland_a_m",
@@ -237,7 +237,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Baskets\\jav_prp_baskets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0.81"
+    "topMesh_TransformZ": 0.81
   },
   {
     "variantID": "farmland_a_l",
@@ -249,7 +249,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestLog\\JAV_PRP_ChestLog_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "abandoned_a_s",
@@ -261,7 +261,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "abandoned_a_m",
@@ -273,7 +273,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1"
+    "topMesh_TransformZ": 1
   },
   {
     "variantID": "abandoned_a_l",
@@ -285,7 +285,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestIron\\jav_prp_chestiron_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "sunken_a_s",
@@ -297,7 +297,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "sunken_a_m",
@@ -309,7 +309,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1"
+    "topMesh_TransformZ": 1
   },
   {
     "variantID": "sunken_a_l",
@@ -321,7 +321,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestLog\\JAV_PRP_ChestLog_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "military_a_s",
@@ -333,7 +333,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\scrap_iron\\jav_prp_scrap_iron_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "military_a_m",
@@ -345,7 +345,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1"
+    "topMesh_TransformZ": 1
   },
   {
     "variantID": "military_a_l",
@@ -357,7 +357,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestSteel\\JAV_PRP_ChestSteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "civilian_a_s",
@@ -369,7 +369,7 @@
     "topMat": "objects\\crafting\\props\\storage\\paperparcels\\jav_prp_paperparcels_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "civilian_a_m",
@@ -381,7 +381,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1"
+    "topMesh_TransformZ": 1
   },
   {
     "variantID": "civilian_a_l",
@@ -393,7 +393,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestIron\\jav_prp_chestiron_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "blacksmith_a_s",
@@ -405,7 +405,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "blacksmith_a_m",
@@ -417,7 +417,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1"
+    "topMesh_TransformZ": 1
   },
   {
     "variantID": "blacksmith_a_l",
@@ -429,7 +429,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestSteel\\JAV_PRP_ChestSteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "outfitter_a_s",
@@ -441,7 +441,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "outfitter_a_m",
@@ -453,7 +453,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1"
+    "topMesh_TransformZ": 1
   },
   {
     "variantID": "outfitter_a_l",
@@ -465,7 +465,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestSteel\\JAV_PRP_ChestSteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "provisioner_a_s",
@@ -477,7 +477,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "provisioner_a_m",
@@ -489,7 +489,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1"
+    "topMesh_TransformZ": 1
   },
   {
     "variantID": "provisioner_a_l",
@@ -501,7 +501,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestSteel\\JAV_PRP_ChestSteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "alchemist_a_s",
@@ -513,7 +513,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\alchemyprops\\jav_prp_alchemyprops.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "alchemist_a_m",
@@ -525,7 +525,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1"
+    "topMesh_TransformZ": 1
   },
   {
     "variantID": "alchemist_a_l",
@@ -537,7 +537,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestSteel\\JAV_PRP_ChestSteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "engineer_a_s",
@@ -549,7 +549,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "engineer_a_m",
@@ -561,7 +561,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1"
+    "topMesh_TransformZ": 1
   },
   {
     "variantID": "engineer_a_l",
@@ -573,7 +573,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestSteel\\JAV_PRP_ChestSteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "weaver_a_s",
@@ -585,7 +585,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "weaver_a_l",
@@ -597,7 +597,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestLog\\JAV_PRP_ChestLog_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "smelter_a_s",
@@ -609,7 +609,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "smelter_a_l",
@@ -621,7 +621,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestSteel\\JAV_PRP_ChestSteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "carpenter_a_s",
@@ -633,7 +633,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "carpenter_a_l",
@@ -645,7 +645,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestLog\\JAV_PRP_ChestLog_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "tanner_a_s",
@@ -657,7 +657,7 @@
     "topMat": "Objects\\Crafting\\Props\\Shopwares\\TanningBolts\\jav_prp_leatherbolt_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "tanner_a_l",
@@ -669,7 +669,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Lockboxes\\ChestLog\\JAV_PRP_ChestLog_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "civilian_b_m",
@@ -681,7 +681,7 @@
     "topMat": "objects\\crafting\\props\\storage\\baskets\\jav_prp_baskets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0.52"
+    "topMesh_TransformZ": 0.52
   },
   {
     "variantID": "civilian_b_s",
@@ -693,7 +693,7 @@
     "topMat": "objects\\crafting\\props\\storage\\baskets\\jav_prp_baskets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0.35"
+    "topMesh_TransformZ": 0.35
   },
   {
     "variantID": "farmland_b_m",
@@ -705,7 +705,7 @@
     "topMat": "objects\\crafting\\props\\storage\\baskets\\jav_prp_baskets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0.52"
+    "topMesh_TransformZ": 0.52
   },
   {
     "variantID": "farmland_b_s",
@@ -717,7 +717,7 @@
     "topMat": "objects\\crafting\\props\\storage\\baskets\\jav_prp_baskets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0.35"
+    "topMesh_TransformZ": 0.35
   },
   {
     "variantID": "civilian_c_s",
@@ -729,7 +729,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0"
+    "topMesh_TransformZ": 0
   },
   {
     "variantID": "farmland_c_s",
@@ -741,7 +741,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0"
+    "topMesh_TransformZ": 0
   },
   {
     "variantID": "abandoned_b_s",
@@ -753,7 +753,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0"
+    "topMesh_TransformZ": 0
   },
   {
     "variantID": "sunken_b_s",
@@ -765,7 +765,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\shoptools\\jav_prp_shopbuckets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0"
+    "topMesh_TransformZ": 0
   },
   {
     "variantID": "ancient_a_s",
@@ -777,7 +777,7 @@
     "topMat": "objects\\crafting\\props\\shopwares\\cookery\\jav_prp_sw_tool_mat",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0.42"
+    "topMesh_TransformZ": 0.42
   },
   {
     "variantID": "ancient_a_m",
@@ -789,7 +789,7 @@
     "topMat": "Objects\\Crafting\\Props\\Storage\\Baskets\\jav_prp_baskets_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "0.81"
+    "topMesh_TransformZ": 0.81
   },
   {
     "variantID": "ancient_a_l",
@@ -801,7 +801,7 @@
     "topMat": "objects\\crafting\\props\\storage\\lockboxes\\chesttruesteel\\jav_prp_chesttruesteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": "1E-3"
+    "topMesh_TransformZ": 0.001
   },
   {
     "variantID": "ancient_y_a_l",
@@ -813,6 +813,6 @@
     "topMat": "objects\\crafting\\props\\storage\\lockboxes\\chesttruesteel\\jav_prp_chesttruesteel_mat.mtl",
     "topMesh_TransformX": "",
     "topMesh_TransformY": "",
-    "topMesh_TransformZ": ""
+    "topMesh_TransformZ": null
   }
 ]
