@@ -13,10 +13,8 @@ function sleep(ms) {
 function getNameFromID(id) {
     return itemNames[id + "_mastername"];
 }
-function callGenerateRecipe(raw, previousIDs) {
-    return new Promise(res => {
-        setTimeout(() => res(generateRecipe(raw, previousIDs)), 0);
-    });
+async function callGenerateRecipe(raw, previousIDs) {
+    return { itemID: (await generateRecipe(raw, previousIDs))?.itemID, ref: true };
 }
 async function generateRecipe(raw, previousIDs) {
     if (!raw?.recipeID)

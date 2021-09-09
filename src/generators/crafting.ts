@@ -25,7 +25,7 @@ type Item = {
 }
 
 type Category = {
-    recipes: Array<Recipe | Item>
+    recipes: Array<RecipeRef | Item>
     name: string
     id: string
 }
@@ -36,7 +36,7 @@ type Recipe = {
     itemName: string
     itemType: string
     quantity: number
-    ingredients: Array<Recipe | Item | Category>
+    ingredients: Array<RecipeRef | Item | Category>
     tradeskill: string
     recipeLevel: number
     cooldownSeconds?: number
@@ -48,6 +48,11 @@ type Recipe = {
     nwdbURL: string
 }
 
+type RecipeRef = {
+    itemID: string,
+    ref: true
+}
+
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -56,13 +61,11 @@ function getNameFromID(id: string): string {
     return itemNames[id + "_mastername"]
 }
 
-function callGenerateRecipe(raw: RawRecipe, previousIDs: string[]): Promise<Recipe | void> {
-    return new Promise<Recipe | void>(res => {
-        setTimeout(() => res(generateRecipe(raw, previousIDs)), 0)
-    })
+async function callGenerateRecipe(raw: RawRecipe, previousIDs: string[]): Promise<RecipeRef | null> {
+    return {itemID: (await generateRecipe(raw, previousIDs))?.itemID, ref: true}
 }
 
-async function generateRecipe(raw: RawRecipe, previousIDs: string[]): Promise<Recipe | void> {
+async function generateRecipe(raw: RawRecipe, previousIDs: string[]): Promise<Recipe | null> {
     if (!raw?.recipeID) return
     const itemID = raw.isProcedural ? raw["proceduralTierID" + raw.baseTier] : raw.recipeID
     if (previousIDs.includes(itemID)) return
@@ -76,7 +79,7 @@ async function generateRecipe(raw: RawRecipe, previousIDs: string[]): Promise<Re
     const itemDef = itemDefs.find(itemDef => itemDef.itemID === itemID)
     if (!itemDef) return
 
-    let ingredients: Array<Recipe | Item | Category> = []
+    let ingredients: Array<RecipeRef | Item | Category> = []
     for (let i = 0; i < 7; i++) {
         const rawIngredient: RawIngredient = {
             id: raw["ingredient" + i],
@@ -87,7 +90,7 @@ async function generateRecipe(raw: RawRecipe, previousIDs: string[]): Promise<Re
         if (rawIngredient.type === "Item" || rawIngredient.type === "Currency") {
             let recipe = crafting.find(recipe => recipe.recipeID === rawIngredient.id)
             if (recipe) {
-                ingredients.push(await callGenerateRecipe(recipe, previousIDs) as Recipe)
+                ingredients.push(await callGenerateRecipe(recipe, previousIDs) as RecipeRef)
                 await sleep(1)
             } else {
                 const itemDef = itemDefs.find(itemDef => itemDef.itemID === rawIngredient.id)
@@ -106,7 +109,7 @@ async function generateRecipe(raw: RawRecipe, previousIDs: string[]): Promise<Re
             for (const itemID of categoryItems) {
                 let recipe = crafting.find(recipe => recipe.recipeID === itemID)
                 if (recipe) {
-                    categoryIngredients.push(await callGenerateRecipe(recipe, previousIDs) as Recipe)
+                    categoryIngredients.push(await callGenerateRecipe(recipe, previousIDs) as RecipeRef)
                     await sleep(1)
                 } else {
                     const itemDef = itemDefs.find(itemDef => itemDef.itemID === itemID)
